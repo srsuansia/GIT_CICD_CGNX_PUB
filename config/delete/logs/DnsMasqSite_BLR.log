@@ -1,0 +1,31 @@
+INFO: 09/25/2020 05:04:42 AM MESSAGE: Beginning to DESTROY site DnsMasqSite_BLR(16008725603610221)..
+INFO: 09/25/2020 05:04:42 AM MESSAGE: Un-assigning and de-claiming Element DMQ_SPOKE_02(4210b512-5243-d410-01cb-e8bd6e482e14) bound to 16008725603610221.
+INFO: 09/25/2020 05:04:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 09/25/2020 05:04:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 09/25/2020 05:04:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 09/25/2020 05:04:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 09/25/2020 05:04:43 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 09/25/2020 05:04:43 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 09/25/2020 05:04:43 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 09/25/2020 05:04:43 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 09/25/2020 05:04:43 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 09/25/2020 05:04:43 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 09/25/2020 05:04:43 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from DMQ_SPOKE_02:
+INFO: 09/25/2020 05:04:43 AM MESSAGE:    No Change for Spoke HA in Element DMQ_SPOKE_02.
+INFO: 09/25/2020 05:04:45 AM MESSAGE: Un-assigning and de-claiming Element DMQ_SPOKE_03(4210024d-4f88-0811-bbea-40503cf61773) bound to 16008725603610221.
+INFO: 09/25/2020 05:04:45 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 09/25/2020 05:04:45 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 09/25/2020 05:04:45 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 09/25/2020 05:04:45 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 09/25/2020 05:04:45 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 09/25/2020 05:04:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 09/25/2020 05:04:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 09/25/2020 05:04:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 09/25/2020 05:04:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 09/25/2020 05:04:47 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 09/25/2020 05:04:47 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from DMQ_SPOKE_03:
+INFO: 09/25/2020 05:04:47 AM MESSAGE:    No Change for Spoke HA in Element DMQ_SPOKE_03.
+INFO: 09/25/2020 05:04:48 AM MESSAGE: Disabling site..
+INFO: 09/25/2020 05:04:48 AM MESSAGE: No Change for Site DnsMasqSite_BLR state (disabled).
+INFO: 09/25/2020 05:04:48 AM MESSAGE: Deleting Site DnsMasqSite_BLR..
+INFO: 09/25/2020 05:04:49 AM MESSAGE: DONE
