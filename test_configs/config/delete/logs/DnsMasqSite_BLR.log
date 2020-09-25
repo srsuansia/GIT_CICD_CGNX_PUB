@@ -126,3 +126,13 @@ INFO: 09/25/2020 02:08:18 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e48
 INFO: 09/25/2020 02:08:29 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 590 seconds out of 600.
 INFO: 09/25/2020 02:08:39 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 600 seconds out of 600.
 ERROR: 09/25/2020 02:08:49 PM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 600 seconds. Exiting. ; Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 600 seconds. Exiting.; 
+INFO: 09/25/2020 02:08:59 PM MESSAGE: Beginning to DESTROY site DnsMasqSite_BLR(16010423076930128)..
+INFO: 09/25/2020 02:08:59 PM MESSAGE: Beginning to DESTROY site DnsMasqSite_BLR(16010423076930128)..
+INFO: 09/25/2020 02:08:59 PM MESSAGE: Disabling site..
+INFO: 09/25/2020 02:08:59 PM MESSAGE: Disabling site..
+INFO: 09/25/2020 02:08:59 PM MESSAGE: No Change for Site DnsMasqSite_BLR state (disabled).
+INFO: 09/25/2020 02:08:59 PM MESSAGE: No Change for Site DnsMasqSite_BLR state (disabled).
+INFO: 09/25/2020 02:08:59 PM MESSAGE: Deleting Site DnsMasqSite_BLR..
+INFO: 09/25/2020 02:08:59 PM MESSAGE: Deleting Site DnsMasqSite_BLR..
+INFO: 09/25/2020 02:08:59 PM MESSAGE: DONE
+INFO: 09/25/2020 02:08:59 PM MESSAGE: DONE
