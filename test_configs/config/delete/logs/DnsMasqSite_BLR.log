@@ -388,3 +388,18 @@ INFO: 09/25/2020 02:30:05 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-
 INFO: 09/25/2020 02:30:05 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 600 seconds out of 600.
 ERROR: 09/25/2020 02:30:15 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 600 seconds. Exiting. ; Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 600 seconds. Exiting.; 
 ERROR: 09/25/2020 02:30:15 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 600 seconds. Exiting. ; Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 600 seconds. Exiting.; 
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Beginning to DESTROY site DnsMasqSite_BLR(16010429691700056)..
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Beginning to DESTROY site DnsMasqSite_BLR(16010429691700056)..
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Beginning to DESTROY site DnsMasqSite_BLR(16010429691700056)..
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Disabling site..
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Disabling site..
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Disabling site..
+INFO: 09/25/2020 02:30:23 PM MESSAGE: No Change for Site DnsMasqSite_BLR state (disabled).
+INFO: 09/25/2020 02:30:23 PM MESSAGE: No Change for Site DnsMasqSite_BLR state (disabled).
+INFO: 09/25/2020 02:30:23 PM MESSAGE: No Change for Site DnsMasqSite_BLR state (disabled).
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Deleting Site DnsMasqSite_BLR..
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Deleting Site DnsMasqSite_BLR..
+INFO: 09/25/2020 02:30:23 PM MESSAGE: Deleting Site DnsMasqSite_BLR..
+INFO: 09/25/2020 02:30:24 PM MESSAGE: DONE
+INFO: 09/25/2020 02:30:24 PM MESSAGE: DONE
+INFO: 09/25/2020 02:30:24 PM MESSAGE: DONE
