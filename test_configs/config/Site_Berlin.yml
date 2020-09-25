@@ -1,0 +1,30 @@
+---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-09-25T12:26:54.471256Z
+# by system_2750@soumyars.com
+sites v4.5:
+  Site_Berlin:
+    address:
+      city: Berline
+      country: Germany
+      post_code: '10115'
+      state: Berline
+      street:
+      street2:
+    admin_state: disabled
+    description: github comment description Berlin
+    element_cluster_role: SPOKE
+    elements v2.3: {}
+    extended_tags:
+    location:
+      description:
+      latitude: 52.5200080871582
+      longitude: 13.404953956604004
+    nat_policysetstack_id: Default-NATPolicySetStack
+    network_policysetstack_id: NetworkPolicySetStack
+    policy_set_id:
+    priority_policysetstack_id: PriorityPolicySetStack
+    security_policyset_id:
+    service_binding: Preset Domain
+    tags:
