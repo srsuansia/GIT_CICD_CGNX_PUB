@@ -1,0 +1,35 @@
+---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-08-28T01:49:45.755115Z
+# by system_5001@cyberdyne.com
+sites v4.5:
+  Site_Johannesburg:
+    address:
+      city: Johannesburg
+      country: South Africa
+      post_code: '6001'
+      state: South Africa
+      street:
+      street2:
+    admin_state: disabled
+    description:
+    element_cluster_role: HUB
+    elements v2.3: {}
+    extended_tags:
+    hubclusters v2.0:
+      default-5001-15985781776920060:
+        admin_up: true
+        load_alarm_threshold: 90
+        subscription_factor: 0.5
+    location:
+      description:
+      latitude: -26.19524574279785
+      longitude: 28.034088134765625
+    nat_policysetstack_id:
+    network_policysetstack_id:
+    policy_set_id:
+    priority_policysetstack_id:
+    security_policyset_id:
+    service_binding:
+    tags:
