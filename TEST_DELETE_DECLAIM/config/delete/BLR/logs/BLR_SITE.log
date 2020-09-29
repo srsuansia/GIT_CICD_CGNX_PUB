@@ -135,3 +135,46 @@ INFO: 09/29/2020 02:42:21 PM MESSAGE:    Created dnsservices BLRDnsService01.
 INFO: 09/29/2020 02:42:21 PM MESSAGE:    No Change for Toolkit 16013905060200238.
 INFO: 09/29/2020 02:42:21 PM MESSAGE: No Change for Site BLR_SITE state (monitor).
 INFO: 09/29/2020 02:42:21 PM MESSAGE: DONE
+INFO: 09/29/2020 02:43:04 PM MESSAGE: Created Site BLR_SITE.
+INFO: 09/29/2020 02:43:04 PM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 09/29/2020 02:43:04 PM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 09/29/2020 02:43:04 PM MESSAGE:  Created Spoke Cluster BLR_OFFICE_HA.
+INFO: 09/29/2020 02:43:05 PM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 09/29/2020 02:43:05 PM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 09/29/2020 02:43:05 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 09/29/2020 02:43:05 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 0 seconds out of 600.
+INFO: 09/29/2020 02:43:15 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 10 seconds out of 600.
+INFO: 09/29/2020 02:43:25 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 20 seconds out of 600.
+INFO: 09/29/2020 02:43:35 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 30 seconds out of 600.
+INFO: 09/29/2020 02:43:45 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 40 seconds out of 600.
+INFO: 09/29/2020 02:43:56 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 50 seconds out of 600.
+INFO: 09/29/2020 02:44:06 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 60 seconds out of 600.
+INFO: 09/29/2020 02:44:16 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 70 seconds out of 600.
+INFO: 09/29/2020 02:44:26 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 80 seconds out of 600.
+INFO: 09/29/2020 02:44:36 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 90 seconds out of 600.
+INFO: 09/29/2020 02:44:46 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Offline, waited so far 100 seconds out of 600.
+INFO: 09/29/2020 02:44:57 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 600.
+INFO: 09/29/2020 02:45:07 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 600.
+INFO: 09/29/2020 02:45:17 PM MESSAGE:  Claimed. Continuing..
+INFO: 09/29/2020 02:45:17 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 0 seconds out of 600.
+INFO: 09/29/2020 02:45:27 PM MESSAGE:  Element: Changing element from 5.4.1-b5 to 5.4.1-b12.
+INFO: 09/29/2020 02:45:27 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet at requested image: 5.4.1-b12 (is 5.4.1-b5). Waited so far 0 seconds out of 600.
+INFO: 09/29/2020 02:45:37 PM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 09/29/2020 02:45:38 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 09/29/2020 02:45:49 PM MESSAGE:    No Change for Interface 1.
+INFO: 09/29/2020 02:45:49 PM MESSAGE:    No Change for Interface 2.
+INFO: 09/29/2020 02:45:49 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 09/29/2020 02:45:49 PM MESSAGE:    No Change for Interface 3.
+INFO: 09/29/2020 02:45:50 PM MESSAGE:    No Change for Interface 4.
+INFO: 09/29/2020 02:45:50 PM MESSAGE:    No Change for Interface 5.
+INFO: 09/29/2020 02:45:50 PM MESSAGE:    No Change for Interface 6.
+INFO: 09/29/2020 02:45:50 PM MESSAGE:    No Change for Interface 7.
+INFO: 09/29/2020 02:45:51 PM MESSAGE:    No Change for Interface 8.
+INFO: 09/29/2020 02:45:51 PM MESSAGE:    No Change for Interface 9.
+INFO: 09/29/2020 02:45:51 PM MESSAGE:    No Change for Spoke HA in Element SPOKE_01.
+INFO: 09/29/2020 02:45:52 PM MESSAGE:    No Change for BGP Global Config 16013907392580053.
+INFO: 09/29/2020 02:45:52 PM MESSAGE:    No Change for NTP 16013906970520075.
+INFO: 09/29/2020 02:45:53 PM MESSAGE:    Created dnsservices BLRDnsService01.
+INFO: 09/29/2020 02:45:53 PM MESSAGE:    No Change for Toolkit 16013907124220225.
+INFO: 09/29/2020 02:45:54 PM MESSAGE: No Change for Site BLR_SITE state (monitor).
+INFO: 09/29/2020 02:45:54 PM MESSAGE: DONE
