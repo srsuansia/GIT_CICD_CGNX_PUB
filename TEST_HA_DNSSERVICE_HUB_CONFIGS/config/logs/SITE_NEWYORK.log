@@ -55,3 +55,8 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 09/29/2020 07:00:02 AM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 09/29/2020 07:00:03 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 09/29/2020 07:00:03 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 09/29/2020 07:00:03 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
+INFO: 09/29/2020 07:00:03 AM MESSAGE: DONE
