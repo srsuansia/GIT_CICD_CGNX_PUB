@@ -1,0 +1,57 @@
+INFO: 09/29/2020 06:07:57 AM MESSAGE: No Change for Site SITE_NEWYORK.
+INFO: 09/29/2020 06:07:57 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 09/29/2020 06:07:57 AM MESSAGE:  No Change for Waninterface Circuit to BSNL.
+INFO: 09/29/2020 06:07:57 AM MESSAGE: Un-assigning Element SPOKE_02(4210024d-4f88-0811-bbea-40503cf61773) bound to 16013566788730194.
+INFO: 09/29/2020 06:07:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 09/29/2020 06:07:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 09/29/2020 06:07:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 09/29/2020 06:07:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 09/29/2020 06:07:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 09/29/2020 06:07:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 09/29/2020 06:07:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 09/29/2020 06:07:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 09/29/2020 06:07:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 09/29/2020 06:07:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 09/29/2020 06:07:58 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from SPOKE_02:
+INFO: 09/29/2020 06:07:58 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_02.
+INFO: 09/29/2020 06:07:58 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
+INFO: 09/29/2020 06:07:58 AM MESSAGE: DONE
+ERROR: 09/29/2020 06:07:59 AM ERROR: Element interfaces get failed: 
+REQUEST: GET /v4.9/api/tenants/2750/sites/16013566788730194/elements/16013566800770139/interfaces
+REQUEST HEADERS:
+	User-Agent: python-requests/2.24.0 (CGX SDK v5.4.1b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+REQUEST BODY:
+{}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Tue, 29 Sep 2020 06:07:59 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 234
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1601359679755008100006922432343130056586",
+    "_error": [
+        {
+            "code": "ELEMENT_NOT_FOUND",
+            "message": "Element not found."
+        }
+    ]
+}
