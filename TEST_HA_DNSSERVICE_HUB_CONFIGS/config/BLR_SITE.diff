@@ -5,18 +5,46 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-09-28T11:04:20.463554Z
-+# Created at 2020-09-29T07:01:00.454327Z
++# Created at 2020-09-29T07:03:11.398354Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    BLR_SITE:
      address:
-@@ -432,7 +433,7 @@
-         - SPOKE
-         cluster_insertion_mode:
-         cluster_member_id:
--        connected: true
-+        connected: false
+@@ -26,36 +27,6 @@
+         connected: true
          deployment_op:
          description:
+-        dnsservices v2.0:
+-          cache_config:
+-            cache_size: 150
+-          description: 'testing dnsservice '
+-          dns_queries_metadata:
+-            add_customer_premises_equipment:
+-              identifier_text: ''
+-              type: text
+-            add_subnets:
+-            - ipv4_address: 4.4.4.4
+-              ipv4_prefix_length: 16
+-              ipv6_prefix_length: 0
+-          dnsservice_profile_id: BLRDnsProfile01
+-          dnsservicerole_bindings:
+-          - dnsservicerole_id: BLRForwardRole
+-            interfaces:
+-            - interface_id: controller 1
+-          domains_to_addresses:
+-          - domain_names:
+-            - testdomain.com
+-            ipv4_address: 5.5.5.5
+-          domains_to_interfaces:
+-          - domain_names:
+-            - testdomain.com
+-            interface_id: '1'
+-          element_id: SPOKE_01
+-          enabled: true
+-          max_concurrent_dns_queries: 150
+-          name: BLRDnsService01
+-          tags:
          element_security_zones v2.0: []
+         interfaces v4.9:
+           '1':
