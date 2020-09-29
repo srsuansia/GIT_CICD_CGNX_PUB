@@ -98,3 +98,26 @@ INFO: 09/29/2020 11:10:17 AM MESSAGE:    No Change for NTP 16013566801090148.
 INFO: 09/29/2020 11:10:17 AM MESSAGE:    No Change for Toolkit 16013566988600151.
 INFO: 09/29/2020 11:10:17 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
 INFO: 09/29/2020 11:10:17 AM MESSAGE: DONE
+INFO: 09/29/2020 11:13:17 AM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 09/29/2020 11:13:17 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 09/29/2020 11:13:18 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 09/29/2020 11:13:18 AM MESSAGE:  Element: Code is at correct version 5.4.1-b13.
+INFO: 09/29/2020 11:13:18 AM MESSAGE:   Assigning Element SPOKE_02.
+INFO: 09/29/2020 11:13:18 AM MESSAGE:   Element SPOKE_02 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 09/29/2020 11:13:29 AM MESSAGE:   Element SPOKE_02 not yet in requested state(s): bound (is bound_in_progress). Waited so far 10 seconds out of 600.
+INFO: 09/29/2020 11:13:39 AM MESSAGE:    No Change for Interface 1.
+INFO: 09/29/2020 11:13:39 AM MESSAGE:    No Change for Interface 2.
+INFO: 09/29/2020 11:13:39 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 09/29/2020 11:13:39 AM MESSAGE:    No Change for Interface 3.
+INFO: 09/29/2020 11:13:39 AM MESSAGE:    No Change for Interface 4.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for Interface 5.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for Interface 6.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for Interface 7.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for Interface 8.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for Interface 9.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_02.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for BGP Global Config 16013780184620245.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for NTP 16013566801090148.
+INFO: 09/29/2020 11:13:40 AM MESSAGE:    No Change for Toolkit 16013566988600151.
+INFO: 09/29/2020 11:13:40 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
+INFO: 09/29/2020 11:13:40 AM MESSAGE: DONE
