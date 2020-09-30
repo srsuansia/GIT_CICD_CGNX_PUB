@@ -6362,3 +6362,74 @@ INFO: 09/30/2020 07:01:49 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-
 INFO: 09/30/2020 07:01:59 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 580 seconds out of 600.
 INFO: 09/30/2020 07:02:10 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 590 seconds out of 600.
 INFO: 09/30/2020 07:02:20 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 600 seconds out of 600.
+INFO: 09/30/2020 07:02:56 AM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 09/30/2020 07:02:56 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 09/30/2020 07:02:56 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 09/30/2020 07:02:56 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 600.
+INFO: 09/30/2020 07:03:06 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 600.
+INFO: 09/30/2020 07:03:17 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 20 seconds out of 600.
+INFO: 09/30/2020 07:03:27 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 30 seconds out of 600.
+INFO: 09/30/2020 07:03:37 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 40 seconds out of 600.
+INFO: 09/30/2020 07:03:47 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 50 seconds out of 600.
+INFO: 09/30/2020 07:03:57 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 60 seconds out of 600.
+INFO: 09/30/2020 07:04:07 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 70 seconds out of 600.
+INFO: 09/30/2020 07:04:17 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 80 seconds out of 600.
+INFO: 09/30/2020 07:04:28 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 90 seconds out of 600.
+INFO: 09/30/2020 07:04:38 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 100 seconds out of 600.
+INFO: 09/30/2020 07:04:48 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 110 seconds out of 600.
+INFO: 09/30/2020 07:04:58 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 120 seconds out of 600.
+INFO: 09/30/2020 07:05:08 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 130 seconds out of 600.
+INFO: 09/30/2020 07:05:18 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 140 seconds out of 600.
+INFO: 09/30/2020 07:05:28 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 150 seconds out of 600.
+INFO: 09/30/2020 07:05:38 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 160 seconds out of 600.
+INFO: 09/30/2020 07:05:48 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 170 seconds out of 600.
+INFO: 09/30/2020 07:05:59 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 180 seconds out of 600.
+INFO: 09/30/2020 07:06:09 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 190 seconds out of 600.
+INFO: 09/30/2020 07:06:19 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 200 seconds out of 600.
+INFO: 09/30/2020 07:06:29 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 210 seconds out of 600.
+INFO: 09/30/2020 07:06:39 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 220 seconds out of 600.
+INFO: 09/30/2020 07:06:49 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 230 seconds out of 600.
+INFO: 09/30/2020 07:06:59 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 240 seconds out of 600.
+INFO: 09/30/2020 07:07:09 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 250 seconds out of 600.
+INFO: 09/30/2020 07:07:19 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 260 seconds out of 600.
+INFO: 09/30/2020 07:07:29 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 270 seconds out of 600.
+INFO: 09/30/2020 07:07:39 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 280 seconds out of 600.
+INFO: 09/30/2020 07:07:50 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 290 seconds out of 600.
+INFO: 09/30/2020 07:08:00 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 300 seconds out of 600.
+INFO: 09/30/2020 07:08:10 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 310 seconds out of 600.
+INFO: 09/30/2020 07:08:20 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 320 seconds out of 600.
+INFO: 09/30/2020 07:08:30 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 330 seconds out of 600.
+INFO: 09/30/2020 07:08:40 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 340 seconds out of 600.
+INFO: 09/30/2020 07:08:50 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 350 seconds out of 600.
+INFO: 09/30/2020 07:09:01 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 360 seconds out of 600.
+INFO: 09/30/2020 07:09:11 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 370 seconds out of 600.
+INFO: 09/30/2020 07:09:21 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 380 seconds out of 600.
+INFO: 09/30/2020 07:09:31 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 390 seconds out of 600.
+INFO: 09/30/2020 07:09:41 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 400 seconds out of 600.
+INFO: 09/30/2020 07:09:51 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 410 seconds out of 600.
+INFO: 09/30/2020 07:10:02 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 420 seconds out of 600.
+INFO: 09/30/2020 07:10:12 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 430 seconds out of 600.
+ERROR: 09/30/2020 07:10:22 AM ERROR: Could not query element 16013806623460131(4210024d-4f88-0811-bbea-40503cf61773).
+REQUEST: GET /v2.3/api/tenants/2750/elements/16013806623460131
+REQUEST HEADERS:
+	User-Agent: python-requests/2.24.0 (CGX SDK v5.4.1b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+REQUEST BODY:
+{}
+
+RESPONSE: 403 Forbidden
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Wed, 30 Sep 2020 07:10:22 GMT
+	Content-Length: 0
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{}
