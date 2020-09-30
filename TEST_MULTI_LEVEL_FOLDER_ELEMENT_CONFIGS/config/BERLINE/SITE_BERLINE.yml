@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-09-28T11:22:02.117526Z
+# Created at 2020-09-30T08:24:31.502636Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_BERLINE:
@@ -23,7 +23,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode:
         cluster_member_id:
-        connected: true
+        connected: false
         deployment_op:
         description:
         element_security_zones v2.0: []
