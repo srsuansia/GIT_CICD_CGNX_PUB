@@ -5,18 +5,21 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-09-29T07:51:13.183339Z
-+# Created at 2020-09-29T07:51:22.832675Z
++# Created at 2020-10-02T12:59:04.511933Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    BLR_SITE:
      address:
-@@ -432,7 +433,7 @@
-         - SPOKE
-         cluster_insertion_mode:
-         cluster_member_id:
--        connected: true
-+        connected: false
-         deployment_op:
-         description:
-         element_security_zones v2.0: []
+@@ -788,11 +789,6 @@
+         serial_number: 4210024d-4f88-0811-bbea-40503cf61773
+         software_version: 5.4.1-b13
+         spoke_ha_config:
+-          cluster_id: BLR_OFFICE_HA
+-          enable: true
+-          priority: 20
+-          source_interface: controller 1
+-          track:
+         state: bound
+         tags:
+         tenant_id: '2750'
