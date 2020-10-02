@@ -1,0 +1,63 @@
+---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-02T06:50:06.491848Z
+# by system_2750@soumyars.com
+sites v4.5:
+  VELLORE_SITE:
+    address:
+      city: Vellore
+      country: India
+      post_code:
+      state:
+      street:
+      street2:
+    admin_state: disabled
+    description: 'this Spoke for site : Vellore'
+    element_cluster_role: SPOKE
+    elements v2.3: {}
+    extended_tags:
+    location:
+      description:
+      latitude: 12.92039966583252
+      longitude: 79.1500015258789
+    nat_policysetstack_id: Default-NATPolicySetStack
+    network_policysetstack_id: NetworkPolicySetStack
+    policy_set_id:
+    priority_policysetstack_id: PriorityPolicySetStack
+    security_policyset_id:
+    service_binding: Preset Domain
+    tags:
+    waninterfaces v2.5:
+      Circuit to At&T:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: MPLS
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: At&T
+        network_type: privatewan
+        tags:
+        type: privatewan
+        vpnlink_configuration:
+      Circuit to BSNL:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: Internet DSL
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: BSNL
+        network_type: publicwan
+        tags:
+        type: publicwan
+        vpnlink_configuration:
