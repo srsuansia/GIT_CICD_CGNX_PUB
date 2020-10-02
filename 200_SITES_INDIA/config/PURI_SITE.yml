@@ -1,0 +1,66 @@
+---
+sites v4.5:
+  PURI_SITE:
+    address:
+      city: Puri
+      country: India
+      post_code: null
+      state: null
+      street: null
+      street2: null
+    admin_state: disabled
+    description: 'this Spoke for site : Puri'
+    element_cluster_role: SPOKE
+    elements v2.3: {}
+    extended_tags: null
+    hubclusters v2.0:
+      default-2750-16016082061230098:
+        admin_up: true
+        load_alarm_threshold: 90
+        subscription_factor: 0.5
+    location:
+      description: null
+      latitude: '19.8204'
+      longitude: '85.9000'
+    nat_policysetstack_id: Default-NATPolicySetStack
+    network_policysetstack_id: NetworkPolicySetStack
+    policy_set_id: null
+    priority_policysetstack_id: PriorityPolicySetStack
+    security_policyset_id: null
+    service_binding: Preset Domain
+    tags: null
+    waninterfaces v2.5:
+      Circuit to At&T:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description: null
+        label_id: MPLS
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config: null
+        lqm_enabled: true
+        network_id: At&T
+        network_type: privatewan
+        tags: null
+        type: privatewan
+        vpnlink_configuration: null
+      Circuit to BSNL:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description: null
+        label_id: Internet DSL
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config: null
+        lqm_enabled: true
+        network_id: BSNL
+        network_type: publicwan
+        tags: null
+        type: publicwan
+        vpnlink_configuration: null
+type: cloudgenix template
+version: 1.0
