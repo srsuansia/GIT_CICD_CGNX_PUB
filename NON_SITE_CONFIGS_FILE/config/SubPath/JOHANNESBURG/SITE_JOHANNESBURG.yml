@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-09-30T08:23:56.088098Z
+# Created at 2020-10-02T03:10:07.320889Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_JOHANNESBURG:
@@ -18,7 +18,7 @@ sites v4.5:
     elements v2.3: {}
     extended_tags:
     hubclusters v2.0:
-      default-2750-16014542348900093:
+      default-2750-16016082061230098:
         admin_up: true
         load_alarm_threshold: 90
         subscription_factor: 0.5
