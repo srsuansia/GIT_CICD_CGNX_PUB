@@ -1,0 +1,22 @@
+--- /tmp/ci/2750/GIT_CICD_CGNX_PUB/TEST_HA_DNSSERVICE_HUB_CONFIGS/config/SITE_BERLINE.yml
++++ /tmp/ci/2750/SITE_BERLINE_controller.yml
+@@ -1,8 +1,9 @@
+ ---
+ type: cloudgenix template
+ version: 1.0
+-# Created at 2020-09-28T11:04:21.285679Z
++# Created at 2020-10-02T13:00:37.686037Z
+ # by system_2750@soumyars.com
++# FROM_CLOUDBLADE
+ sites v4.5:
+   SITE_BERLINE:
+     address:
+@@ -23,7 +24,7 @@
+         - SPOKE
+         cluster_insertion_mode:
+         cluster_member_id:
+-        connected: true
++        connected: false
+         deployment_op:
+         description:
+         element_security_zones v2.0: []
