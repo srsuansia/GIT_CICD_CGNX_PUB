@@ -120,3 +120,24 @@ INFO: 10/03/2020 02:56:14 AM MESSAGE:    No Change for NTP 16016434315290011.
 INFO: 10/03/2020 02:56:14 AM MESSAGE:    No Change for Toolkit 16016434453880236.
 INFO: 10/03/2020 02:56:15 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
 INFO: 10/03/2020 02:56:15 AM MESSAGE: DONE
+INFO: 10/03/2020 02:56:23 AM MESSAGE: No Change for Site SITE_NEWYORK.
+INFO: 10/03/2020 02:56:23 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 10/03/2020 02:56:23 AM MESSAGE:  No Change for Waninterface Circuit to BSNL.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:  Element: Code is at correct version 5.4.1-b13.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:   No Change for Element SPOKE_02.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/03/2020 02:56:24 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/03/2020 02:56:25 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_02.
+INFO: 10/03/2020 02:56:25 AM MESSAGE:    No Change for BGP Global Config 16016937654860178.
+INFO: 10/03/2020 02:56:25 AM MESSAGE:    No Change for NTP 16016434315290011.
+INFO: 10/03/2020 02:56:25 AM MESSAGE:    No Change for Toolkit 16016434453880236.
+INFO: 10/03/2020 02:56:25 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
+INFO: 10/03/2020 02:56:25 AM MESSAGE: DONE
