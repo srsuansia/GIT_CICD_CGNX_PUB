@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-09-30T08:07:08.236653Z
+# Created at 2020-10-03T02:59:40.672238Z
 # by system_2750@soumyars.com
 sites v4.5:
   BLR_SITE:
@@ -439,36 +439,3 @@ sites v4.5:
         tags:
         - BLR_HA
     tags:
-    waninterfaces v2.5:
-      Circuit to Airtel:
-        bfd_mode: aggressive
-        bw_config_mode: manual
-        bwc_enabled: true
-        cost: 128
-        description:
-        label_id: Ethernet Internet
-        link_bw_down: 30.0
-        link_bw_up: 10.0
-        lqm_config:
-        lqm_enabled: true
-        network_id: Airtel
-        network_type: publicwan
-        tags:
-        type: publicwan
-        vpnlink_configuration:
-      Circuit to Verizon:
-        bfd_mode: aggressive
-        bw_config_mode: manual
-        bwc_enabled: true
-        cost: 128
-        description:
-        label_id: MPLS
-        link_bw_down: 30.0
-        link_bw_up: 10.0
-        lqm_config:
-        lqm_enabled: true
-        network_id: Verizon
-        network_type: privatewan
-        tags:
-        type: privatewan
-        vpnlink_configuration:
