@@ -273,3 +273,8 @@ INFO: 10/04/2020 01:08:26 PM MESSAGE:  Created waninterface Circuit to At&T.
 INFO: 10/04/2020 01:08:26 PM MESSAGE:  Created waninterface Circuit to BSNL.
 INFO: 10/04/2020 01:08:27 PM MESSAGE: No Change for Site TUTICORIN_SITE state (disabled).
 INFO: 10/04/2020 01:08:27 PM MESSAGE: DONE
+INFO: 10/04/2020 01:21:45 PM MESSAGE: Created Site TUTICORIN_SITE.
+INFO: 10/04/2020 01:21:45 PM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/04/2020 01:21:46 PM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/04/2020 01:21:46 PM MESSAGE: No Change for Site TUTICORIN_SITE state (disabled).
+INFO: 10/04/2020 01:21:46 PM MESSAGE: DONE
