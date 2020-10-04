@@ -388,3 +388,8 @@ INFO: 10/04/2020 06:19:52 PM MESSAGE:  Created waninterface Circuit to At&T.
 INFO: 10/04/2020 06:19:52 PM MESSAGE:  Created waninterface Circuit to BSNL.
 INFO: 10/04/2020 06:19:52 PM MESSAGE: No Change for Site MUMBAI_SITE state (disabled).
 INFO: 10/04/2020 06:19:52 PM MESSAGE: DONE
+INFO: 10/04/2020 06:33:12 PM MESSAGE: Created Site MUMBAI_SITE.
+INFO: 10/04/2020 06:33:12 PM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/04/2020 06:33:12 PM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/04/2020 06:33:12 PM MESSAGE: No Change for Site MUMBAI_SITE state (disabled).
+INFO: 10/04/2020 06:33:12 PM MESSAGE: DONE
