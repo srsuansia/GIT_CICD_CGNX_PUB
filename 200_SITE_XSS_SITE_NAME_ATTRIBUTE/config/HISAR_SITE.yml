@@ -1,33 +1,30 @@
 ---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-05T12:26:12.619016Z
+# by system_2750@soumyars.com
 sites v4.5:
   HISAR_SITE:
     address:
       city: Hisar
       country: India
-      post_code: null
-      state: null
-      street: null
-      street2: null
+      post_code:
+      state:
+      street:
+      street2:
     admin_state: disabled
-    description: <A HREF="//google">XSS</A>
+    description: '&lt;A HREF="//google"&gt;XSS&lt;/A&gt;'
     element_cluster_role: SPOKE
     elements v2.3: {}
-    extended_tags: null
-    hubclusters v2.0:
-      default-2750-16016082061230098:
-        admin_up: true
-        load_alarm_threshold: 90
-        subscription_factor: 0.5
+    extended_tags:
     location:
-      description: null
-      latitude: '29.1700'
-      longitude: '75.7250'
+      description:
+      latitude: 29.170000076293945
+      longitude: 75.7249984741211
     nat_policysetstack_id: Default-NATPolicySetStack
     network_policysetstack_id: NetworkPolicySetStack
-    policy_set_id: null
+    policy_set_id:
     priority_policysetstack_id: PriorityPolicySetStack
-    security_policyset_id: null
+    security_policyset_id:
     service_binding: Preset Domain
-    tags: null
-type: cloudgenix template
-version: 1.0
+    tags:

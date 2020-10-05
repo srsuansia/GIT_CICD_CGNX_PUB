@@ -1,33 +1,30 @@
 ---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-05T12:24:36.918503Z
+# by system_2750@soumyars.com
 sites v4.5:
   MYSORE_SITE:
     address:
       city: Mysore
       country: India
-      post_code: null
-      state: null
-      street: null
-      street2: null
+      post_code:
+      state:
+      street:
+      street2:
     admin_state: disabled
-    description: <DIV "<IMG SRC=javascript:alert('XSS')>
+    description: '&lt;DIV "&lt;IMG SRC=javascript:alert(''XSS'')&gt;'
     element_cluster_role: SPOKE
     elements v2.3: {}
-    extended_tags: null
-    hubclusters v2.0:
-      default-2750-16016082061230098:
-        admin_up: true
-        load_alarm_threshold: 90
-        subscription_factor: 0.5
+    extended_tags:
     location:
-      description: null
-      latitude: '12.3100'
-      longitude: '76.6600'
+      description:
+      latitude: 12.3100004196167
+      longitude: 76.66000366210938
     nat_policysetstack_id: Default-NATPolicySetStack
     network_policysetstack_id: NetworkPolicySetStack
-    policy_set_id: null
+    policy_set_id:
     priority_policysetstack_id: PriorityPolicySetStack
-    security_policyset_id: null
+    security_policyset_id:
     service_binding: Preset Domain
-    tags: null
-type: cloudgenix template
-version: 1.0
+    tags:

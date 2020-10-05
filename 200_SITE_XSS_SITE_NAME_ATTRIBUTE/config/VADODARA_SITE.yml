@@ -1,33 +1,30 @@
 ---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-05T12:26:17.616530Z
+# by system_2750@soumyars.com
 sites v4.5:
   VADODARA_SITE:
     address:
       city: Vadodara
       country: India
-      post_code: null
-      state: null
-      street: null
-      street2: null
+      post_code:
+      state:
+      street:
+      street2:
     admin_state: disabled
-    description: <IMG LOWSRC="javascript:alert('XSS');">
+    description: '&lt;IMG LOWSRC="javascript:alert(''XSS'');"&gt;'
     element_cluster_role: SPOKE
     elements v2.3: {}
-    extended_tags: null
-    hubclusters v2.0:
-      default-2750-16016082061230098:
-        admin_up: true
-        load_alarm_threshold: 90
-        subscription_factor: 0.5
+    extended_tags:
     location:
-      description: null
-      latitude: '22.3100'
-      longitude: '73.1800'
+      description:
+      latitude: 22.309999465942383
+      longitude: 73.18000030517578
     nat_policysetstack_id: Default-NATPolicySetStack
     network_policysetstack_id: NetworkPolicySetStack
-    policy_set_id: null
+    policy_set_id:
     priority_policysetstack_id: PriorityPolicySetStack
-    security_policyset_id: null
+    security_policyset_id:
     service_binding: Preset Domain
-    tags: null
-type: cloudgenix template
-version: 1.0
+    tags:

@@ -1,33 +1,30 @@
 ---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-05T12:24:13.733016Z
+# by system_2750@soumyars.com
 sites v4.5:
   JODHPUR_SITE:
     address:
       city: Jodhpur
       country: India
-      post_code: null
-      state: null
-      street: null
-      street2: null
+      post_code:
+      state:
+      street:
+      street2:
     admin_state: disabled
-    description: <META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert('XSS')</SCRIPT>">
+    description: '&lt;META HTTP-EQUIV="Set-Cookie" Content="USERID=&lt;SCRIPT&gt;alert(''XSS'')&lt;/SCRIPT&gt;"&gt;'
     element_cluster_role: SPOKE
     elements v2.3: {}
-    extended_tags: null
-    hubclusters v2.0:
-      default-2750-16016082061230098:
-        admin_up: true
-        load_alarm_threshold: 90
-        subscription_factor: 0.5
+    extended_tags:
     location:
-      description: null
-      latitude: '26.2918'
-      longitude: '73.0168'
+      description:
+      latitude: 26.291799545288086
+      longitude: 73.01679992675781
     nat_policysetstack_id: Default-NATPolicySetStack
     network_policysetstack_id: NetworkPolicySetStack
-    policy_set_id: null
+    policy_set_id:
     priority_policysetstack_id: PriorityPolicySetStack
-    security_policyset_id: null
+    security_policyset_id:
     service_binding: Preset Domain
-    tags: null
-type: cloudgenix template
-version: 1.0
+    tags:

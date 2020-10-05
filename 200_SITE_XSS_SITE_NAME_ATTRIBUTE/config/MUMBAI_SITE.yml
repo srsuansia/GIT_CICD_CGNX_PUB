@@ -1,33 +1,30 @@
 ---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-05T12:26:50.759020Z
+# by system_2750@soumyars.com
 sites v4.5:
   MUMBAI_SITE:
     address:
       city: Mumbai
       country: India
-      post_code: null
-      state: null
-      street: null
-      street2: null
+      post_code:
+      state:
+      street:
+      street2:
     admin_state: disabled
-    description: ''';!--"<XSS>=&{()}'
+    description: ''';!--"&lt;XSS&gt;=&{()}'
     element_cluster_role: SPOKE
     elements v2.3: {}
-    extended_tags: null
-    hubclusters v2.0:
-      default-2750-16016082061230098:
-        admin_up: true
-        load_alarm_threshold: 90
-        subscription_factor: 0.5
+    extended_tags:
     location:
-      description: null
-      latitude: '19.0170'
-      longitude: '72.8570'
+      description:
+      latitude: 19.017000198364258
+      longitude: 72.85700225830078
     nat_policysetstack_id: Default-NATPolicySetStack
     network_policysetstack_id: NetworkPolicySetStack
-    policy_set_id: null
+    policy_set_id:
     priority_policysetstack_id: PriorityPolicySetStack
-    security_policyset_id: null
+    security_policyset_id:
     service_binding: Preset Domain
-    tags: null
-type: cloudgenix template
-version: 1.0
+    tags:

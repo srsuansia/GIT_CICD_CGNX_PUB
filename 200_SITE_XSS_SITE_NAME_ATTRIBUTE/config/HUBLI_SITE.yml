@@ -1,33 +1,30 @@
 ---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-05T12:25:15.019305Z
+# by system_2750@soumyars.com
 sites v4.5:
   HUBLI_SITE:
     address:
       city: Hubli
       country: India
-      post_code: null
-      state: null
-      street: null
-      street2: null
+      post_code:
+      state:
+      street:
+      street2:
     admin_state: disabled
-    description: <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+    description: '&lt;IMG SRC=javascript:alert(String.fromCharCode(88,83,83))&gt;'
     element_cluster_role: SPOKE
     elements v2.3: {}
-    extended_tags: null
-    hubclusters v2.0:
-      default-2750-16016082061230098:
-        admin_up: true
-        load_alarm_threshold: 90
-        subscription_factor: 0.5
+    extended_tags:
     location:
-      description: null
-      latitude: '15.3600'
-      longitude: '75.1250'
+      description:
+      latitude: 15.359999656677246
+      longitude: 75.125
     nat_policysetstack_id: Default-NATPolicySetStack
     network_policysetstack_id: NetworkPolicySetStack
-    policy_set_id: null
+    policy_set_id:
     priority_policysetstack_id: PriorityPolicySetStack
-    security_policyset_id: null
+    security_policyset_id:
     service_binding: Preset Domain
-    tags: null
-type: cloudgenix template
-version: 1.0
+    tags:
