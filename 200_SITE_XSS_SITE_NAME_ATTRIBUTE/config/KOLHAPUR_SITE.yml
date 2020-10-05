@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <<SCRIPT>alert("XSS");//<</SCRIPT>_SITE:
+  KOLHAPUR_SITE:
     address:
       city: Kolhapur
       country: India

@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <XSS STYLE="xss:expression(alert('XSS'))">_SITE:
+  DHANBAD_SITE:
     address:
       city: Dhanbad
       country: India

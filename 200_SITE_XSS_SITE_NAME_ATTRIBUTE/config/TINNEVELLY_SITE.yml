@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <A HREF="http://google:ha.ckers.org">XSS</A>_SITE:
+  TINNEVELLY_SITE:
     address:
       city: Tinnevelly
       country: India

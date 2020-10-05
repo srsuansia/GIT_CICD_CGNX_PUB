@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  a="get";b="URL("";c="javascript:";d="alert('XSS');")";eval(a+b+c+d);_SITE:
+  MADURA_SITE:
     address:
       city: Madura
       country: India

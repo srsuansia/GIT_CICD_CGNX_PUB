@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  '<DIV STYLE="background-image: url(javascript:alert(''XSS''))">_SITE':
+  SURAT_SITE:
     address:
       city: Surat
       country: India

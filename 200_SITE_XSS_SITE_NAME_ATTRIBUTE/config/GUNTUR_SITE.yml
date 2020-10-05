@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <A HREF="http://google.com/">XSS</A>_SITE:
+  GUNTUR_SITE:
     address:
       city: Guntur
       country: India

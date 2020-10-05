@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <BODY BACKGROUND="javascript:alert('XSS');">_SITE:
+  HAORA_SITE:
     address:
       city: Haora
       country: India

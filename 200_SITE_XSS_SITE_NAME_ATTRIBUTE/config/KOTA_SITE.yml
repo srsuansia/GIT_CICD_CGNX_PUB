@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  perl -e 'print "<IMG SRC=javascript:alert("XSS")>";'> out_SITE:
+  KOTA_SITE:
     address:
       city: Kota
       country: India

@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">_SITE:
+  MEERUT_SITE:
     address:
       city: Meerut
       country: India

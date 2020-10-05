@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <LAYER SRC="http://ha.ckers.org/scriptlet.html"></LAYER>_SITE:
+  VISHAKHAPATNAM_SITE:
     address:
       city: Vishakhapatnam
       country: India

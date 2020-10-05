@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <? echo('<SCR)';echo('IPT>alert("XSS")</SCRIPT>'); ?>_SITE:
+  GWALIOR_SITE:
     address:
       city: Gwalior
       country: India

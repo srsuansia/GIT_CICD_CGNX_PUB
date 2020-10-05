@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <SCRIPT SRC=//ha.ckers.org/.j>_SITE:
+  JAMMU_SITE:
     address:
       city: Jammu
       country: India

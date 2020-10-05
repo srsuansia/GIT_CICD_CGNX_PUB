@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  '%BCscript%BEalert(%A2XSS%A2)%BC/script%BE_SITE':
+  NASIK_SITE:
     address:
       city: Nasik
       country: India

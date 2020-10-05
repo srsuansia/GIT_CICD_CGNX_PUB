@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <TABLE><TD BACKGROUND="javascript:alert('XSS')"></TD></TABLE>_SITE:
+  RANCHI_SITE:
     address:
       city: Ranchi
       country: India

@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>_SITE:
+  JAIPUR_SITE:
     address:
       city: Jaipur
       country: India

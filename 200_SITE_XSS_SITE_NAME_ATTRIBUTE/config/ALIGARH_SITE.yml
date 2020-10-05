@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>_SITE:
+  ALIGARH_SITE:
     address:
       city: Aligarh
       country: India

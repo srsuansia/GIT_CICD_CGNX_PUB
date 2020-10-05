@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>_SITE:
+  HUBLI_SITE:
     address:
       city: Hubli
       country: India

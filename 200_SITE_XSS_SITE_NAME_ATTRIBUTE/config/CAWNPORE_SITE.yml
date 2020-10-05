@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  '<DIV STYLE="width: expression(alert(''XSS''));">_SITE':
+  CAWNPORE_SITE:
     address:
       city: Cawnpore
       country: India

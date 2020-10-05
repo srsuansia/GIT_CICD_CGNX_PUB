@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  ''';!--"<XSS>=&{()}_SITE':
+  MUMBAI_SITE:
     address:
       city: Mumbai
       country: India

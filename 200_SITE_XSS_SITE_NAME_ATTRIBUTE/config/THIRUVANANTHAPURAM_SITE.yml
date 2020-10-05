@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <BR SIZE="&{alert('XSS')}">_SITE:
+  THIRUVANANTHAPURAM_SITE:
     address:
       city: Thiruvananthapuram
       country: India

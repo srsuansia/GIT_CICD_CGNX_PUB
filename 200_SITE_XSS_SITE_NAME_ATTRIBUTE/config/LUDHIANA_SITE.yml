@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  exp/*<XSS STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(alert("XSS"))'>_SITE:
+  LUDHIANA_SITE:
     address:
       city: Ludhiana
       country: India

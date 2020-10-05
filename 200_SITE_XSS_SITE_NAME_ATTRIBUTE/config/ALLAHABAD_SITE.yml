@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <LINK REL="stylesheet" HREF="javascript:alert('XSS');">_SITE:
+  ALLAHABAD_SITE:
     address:
       city: Allahabad
       country: India

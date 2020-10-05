@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <BODY ONLOAD=alert('XSS')>_SITE:
+  PUNE_SITE:
     address:
       city: Pune
       country: India

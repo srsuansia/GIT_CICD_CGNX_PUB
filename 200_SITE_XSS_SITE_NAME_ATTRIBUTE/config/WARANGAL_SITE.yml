@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>_SITE:
+  WARANGAL_SITE:
     address:
       city: Warangal
       country: India

@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  perl -e 'print "&<SCRIPT>alert("XSS")</SCRIPT>";' > out_SITE:
+  JHANSI_SITE:
     address:
       city: Jhansi
       country: India

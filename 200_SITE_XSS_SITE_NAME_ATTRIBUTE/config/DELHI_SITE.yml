@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>=&{}_SITE:
+  DELHI_SITE:
     address:
       city: Delhi
       country: India

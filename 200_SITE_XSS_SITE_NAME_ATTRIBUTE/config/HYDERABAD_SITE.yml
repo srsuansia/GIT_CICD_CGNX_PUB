@@ -1,6 +1,6 @@
 ---
 sites v4.5:
-  <BASE HREF="javascript:alert('XSS');//">_SITE:
+  HYDERABAD_SITE:
     address:
       city: Hyderabad
       country: India
