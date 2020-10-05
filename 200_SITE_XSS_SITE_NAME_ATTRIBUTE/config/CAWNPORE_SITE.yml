@@ -1,0 +1,33 @@
+---
+sites v4.5:
+  '<DIV STYLE="width: expression(alert(''XSS''));">_SITE':
+    address:
+      city: Cawnpore
+      country: India
+      post_code: null
+      state: null
+      street: null
+      street2: null
+    admin_state: disabled
+    description: '<DIV STYLE="width: expression(alert(''XSS''));">'
+    element_cluster_role: SPOKE
+    elements v2.3: {}
+    extended_tags: null
+    hubclusters v2.0:
+      default-2750-16016082061230098:
+        admin_up: true
+        load_alarm_threshold: 90
+        subscription_factor: 0.5
+    location:
+      description: null
+      latitude: '26.4600'
+      longitude: '80.3200'
+    nat_policysetstack_id: Default-NATPolicySetStack
+    network_policysetstack_id: NetworkPolicySetStack
+    policy_set_id: null
+    priority_policysetstack_id: PriorityPolicySetStack
+    security_policyset_id: null
+    service_binding: Preset Domain
+    tags: null
+type: cloudgenix template
+version: 1.0
