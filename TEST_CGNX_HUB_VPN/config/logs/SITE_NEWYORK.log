@@ -1,0 +1,31 @@
+INFO: 10/06/2020 03:21:16 PM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 10/06/2020 03:21:16 PM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/06/2020 03:21:16 PM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/06/2020 03:21:16 PM MESSAGE:  Machine 4210024d-4f88-0811-bbea-40503cf61773 is not CLAIMED, attempting to claim..
+INFO: 10/06/2020 03:21:16 PM MESSAGE:  Checking Machine 4210024d-4f88-0811-bbea-40503cf61773..
+INFO: 10/06/2020 03:21:16 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/06/2020 03:21:16 PM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:21:27 PM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 10 seconds out of 600.
+INFO: 10/06/2020 03:21:37 PM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 20 seconds out of 600.
+INFO: 10/06/2020 03:21:47 PM MESSAGE:  Claimed. Continuing..
+INFO: 10/06/2020 03:21:47 PM MESSAGE:  Element: Changing element from 5.4.1-b5 to 5.4.1-b13.
+INFO: 10/06/2020 03:21:47 PM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet at requested image: 5.4.1-b13 (is 5.4.1-b5). Waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:21:58 PM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet at requested image: 5.4.1-b13 (is 5.4.1-b5). Waited so far 10 seconds out of 600.
+INFO: 10/06/2020 03:22:08 PM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
+INFO: 10/06/2020 03:22:09 PM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:22:19 PM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/06/2020 03:22:19 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/06/2020 03:22:19 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/06/2020 03:22:19 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/06/2020 03:22:19 PM MESSAGE:    No Change for Interface 4.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for Interface 5.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for Interface 6.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for Interface 7.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for Interface 8.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for Interface 9.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for Spoke HA in Element SPOKE_02.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for BGP Global Config 16019977313100187.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for NTP 16019976859340109.
+INFO: 10/06/2020 03:22:20 PM MESSAGE:    No Change for Toolkit 16019976992840070.
+INFO: 10/06/2020 03:22:20 PM MESSAGE: No Change for Site SITE_NEWYORK state (active).
+INFO: 10/06/2020 03:22:20 PM MESSAGE: DONE
