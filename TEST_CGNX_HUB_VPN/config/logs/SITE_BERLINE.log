@@ -1,0 +1,22 @@
+INFO: 10/06/2020 03:28:50 PM MESSAGE: Created Site SITE_BERLINE.
+INFO: 10/06/2020 03:28:50 PM MESSAGE:  Created waninterface BSNL-test.
+INFO: 10/06/2020 03:28:51 PM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/06/2020 03:28:51 PM MESSAGE:  Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 is not CLAIMED, attempting to claim..
+INFO: 10/06/2020 03:28:51 PM MESSAGE:  Checking Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4..
+INFO: 10/06/2020 03:28:51 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/06/2020 03:28:51 PM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 still claiming, waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:29:01 PM MESSAGE:  Claimed. Continuing..
+INFO: 10/06/2020 03:29:02 PM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:29:12 PM MESSAGE:  Element: Code is at correct version 5.4.1-b14.
+INFO: 10/06/2020 03:29:13 PM MESSAGE:   Assigning Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4.
+INFO: 10/06/2020 03:29:14 PM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:29:25 PM MESSAGE:    No Change for Interface 1.
+INFO: 10/06/2020 03:29:25 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/06/2020 03:29:25 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/06/2020 03:29:25 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/06/2020 03:29:25 PM MESSAGE:    No Change for Spoke HA in Element HUB_01.
+INFO: 10/06/2020 03:29:25 PM MESSAGE:    No Change for BGP Global Config 16019981553150115.
+INFO: 10/06/2020 03:29:25 PM MESSAGE:    No Change for NTP 16019981315540020.
+INFO: 10/06/2020 03:29:25 PM MESSAGE:    No Change for Toolkit 16019981392620009.
+INFO: 10/06/2020 03:29:25 PM MESSAGE: No Change for Site SITE_BERLINE state (active).
+INFO: 10/06/2020 03:29:25 PM MESSAGE: DONE

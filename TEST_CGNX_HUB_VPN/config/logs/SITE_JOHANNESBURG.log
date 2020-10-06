@@ -1,0 +1,37 @@
+INFO: 10/06/2020 03:29:27 PM MESSAGE: Created Site SITE_JOHANNESBURG.
+INFO: 10/06/2020 03:29:27 PM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/06/2020 03:29:28 PM MESSAGE:  Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc is not CLAIMED, attempting to claim..
+INFO: 10/06/2020 03:29:28 PM MESSAGE:  Checking Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc..
+INFO: 10/06/2020 03:29:28 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/06/2020 03:29:28 PM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:29:38 PM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 10 seconds out of 600.
+INFO: 10/06/2020 03:29:48 PM MESSAGE:  Claimed. Continuing..
+INFO: 10/06/2020 03:29:48 PM MESSAGE:  Element: Changing element from 5.4.3-a4 to 5.4.3-a7.
+INFO: 10/06/2020 03:29:49 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:29:59 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 10 seconds out of 600.
+INFO: 10/06/2020 03:30:09 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 20 seconds out of 600.
+INFO: 10/06/2020 03:30:19 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 30 seconds out of 600.
+INFO: 10/06/2020 03:30:29 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 40 seconds out of 600.
+INFO: 10/06/2020 03:30:40 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 50 seconds out of 600.
+INFO: 10/06/2020 03:30:50 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 60 seconds out of 600.
+INFO: 10/06/2020 03:31:00 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 70 seconds out of 600.
+INFO: 10/06/2020 03:31:10 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 80 seconds out of 600.
+INFO: 10/06/2020 03:31:20 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 90 seconds out of 600.
+INFO: 10/06/2020 03:31:30 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 100 seconds out of 600.
+INFO: 10/06/2020 03:31:40 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 110 seconds out of 600.
+INFO: 10/06/2020 03:31:50 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 120 seconds out of 600.
+INFO: 10/06/2020 03:32:00 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet at requested image: 5.4.3-a7 (is 5.4.3-a4). Waited so far 130 seconds out of 600.
+INFO: 10/06/2020 03:32:10 PM MESSAGE:   Assigning Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc.
+INFO: 10/06/2020 03:32:11 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 10/06/2020 03:32:21 PM MESSAGE:    Updated Interface 1 (Etag 4 -> 5).
+INFO: 10/06/2020 03:32:21 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/06/2020 03:32:21 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/06/2020 03:32:21 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/06/2020 03:32:21 PM MESSAGE:    Updating Spoke HA for Element HUB_02.
+WARNING: 10/06/2020 03:32:22 PM WARNING: Routing Prefix List auto-prefix-adv-and-distribute is auto_generated. Skipping.
+WARNING: 10/06/2020 03:32:22 PM WARNING: Routing Prefix List auto-prefix-adv-no-distribute is auto_generated. Skipping.
+INFO: 10/06/2020 03:32:22 PM MESSAGE:    No Change for BGP Global Config 16019983334510160.
+INFO: 10/06/2020 03:32:22 PM MESSAGE:    No Change for NTP 16019981685200059.
+INFO: 10/06/2020 03:32:22 PM MESSAGE:    No Change for Toolkit 16019981820820009.
+INFO: 10/06/2020 03:32:22 PM MESSAGE: No Change for Site SITE_JOHANNESBURG state (active).
+INFO: 10/06/2020 03:32:22 PM MESSAGE: DONE
