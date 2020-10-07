@@ -118,3 +118,66 @@ INFO: 10/07/2020 02:55:36 AM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e4
 INFO: 10/07/2020 02:55:46 AM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 580 seconds out of 600.
 INFO: 10/07/2020 02:55:56 AM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 590 seconds out of 600.
 INFO: 10/07/2020 02:56:06 AM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 600 seconds out of 600.
+INFO: 10/07/2020 04:39:23 AM MESSAGE: Created Site SITE_JOHANNESBURG.
+INFO: 10/07/2020 04:39:23 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/07/2020 04:39:23 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 600.
+INFO: 10/07/2020 04:39:33 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 600.
+INFO: 10/07/2020 04:39:44 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 20 seconds out of 600.
+INFO: 10/07/2020 04:39:54 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 30 seconds out of 600.
+INFO: 10/07/2020 04:40:04 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 40 seconds out of 600.
+INFO: 10/07/2020 04:40:14 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 50 seconds out of 600.
+INFO: 10/07/2020 04:40:24 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 60 seconds out of 600.
+INFO: 10/07/2020 04:40:34 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 70 seconds out of 600.
+INFO: 10/07/2020 04:40:44 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 80 seconds out of 600.
+INFO: 10/07/2020 04:40:55 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 90 seconds out of 600.
+INFO: 10/07/2020 04:41:05 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 100 seconds out of 600.
+INFO: 10/07/2020 04:41:15 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 110 seconds out of 600.
+INFO: 10/07/2020 04:41:25 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 120 seconds out of 600.
+INFO: 10/07/2020 04:41:35 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 130 seconds out of 600.
+INFO: 10/07/2020 04:41:45 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 140 seconds out of 600.
+INFO: 10/07/2020 04:41:55 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 150 seconds out of 600.
+INFO: 10/07/2020 04:42:05 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 160 seconds out of 600.
+INFO: 10/07/2020 04:42:15 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 170 seconds out of 600.
+INFO: 10/07/2020 04:42:26 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 180 seconds out of 600.
+INFO: 10/07/2020 04:42:36 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 190 seconds out of 600.
+INFO: 10/07/2020 04:42:46 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 200 seconds out of 600.
+INFO: 10/07/2020 04:42:56 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 210 seconds out of 600.
+INFO: 10/07/2020 04:43:06 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 220 seconds out of 600.
+INFO: 10/07/2020 04:43:16 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 230 seconds out of 600.
+INFO: 10/07/2020 04:43:26 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 240 seconds out of 600.
+INFO: 10/07/2020 04:43:36 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 250 seconds out of 600.
+INFO: 10/07/2020 04:43:46 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 260 seconds out of 600.
+INFO: 10/07/2020 04:43:56 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 270 seconds out of 600.
+INFO: 10/07/2020 04:44:07 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 280 seconds out of 600.
+INFO: 10/07/2020 04:44:17 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 290 seconds out of 600.
+INFO: 10/07/2020 04:44:27 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 300 seconds out of 600.
+INFO: 10/07/2020 04:44:37 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 310 seconds out of 600.
+INFO: 10/07/2020 04:44:47 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 320 seconds out of 600.
+INFO: 10/07/2020 04:44:57 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 330 seconds out of 600.
+INFO: 10/07/2020 04:45:07 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 340 seconds out of 600.
+INFO: 10/07/2020 04:45:17 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 350 seconds out of 600.
+INFO: 10/07/2020 04:45:28 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 360 seconds out of 600.
+INFO: 10/07/2020 04:45:38 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 370 seconds out of 600.
+INFO: 10/07/2020 04:45:48 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 380 seconds out of 600.
+INFO: 10/07/2020 04:45:58 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 390 seconds out of 600.
+INFO: 10/07/2020 04:46:08 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 400 seconds out of 600.
+INFO: 10/07/2020 04:46:18 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 410 seconds out of 600.
+INFO: 10/07/2020 04:46:28 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 420 seconds out of 600.
+INFO: 10/07/2020 04:46:38 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 430 seconds out of 600.
+INFO: 10/07/2020 04:46:48 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 440 seconds out of 600.
+INFO: 10/07/2020 04:46:59 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 450 seconds out of 600.
+INFO: 10/07/2020 04:47:09 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 460 seconds out of 600.
+INFO: 10/07/2020 04:47:19 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 470 seconds out of 600.
+INFO: 10/07/2020 04:47:29 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 480 seconds out of 600.
+INFO: 10/07/2020 04:47:39 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 490 seconds out of 600.
+INFO: 10/07/2020 04:47:49 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 500 seconds out of 600.
+INFO: 10/07/2020 04:47:59 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 510 seconds out of 600.
+INFO: 10/07/2020 04:48:09 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 520 seconds out of 600.
+INFO: 10/07/2020 04:48:19 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 530 seconds out of 600.
+INFO: 10/07/2020 04:48:29 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 540 seconds out of 600.
+INFO: 10/07/2020 04:48:40 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 550 seconds out of 600.
+INFO: 10/07/2020 04:48:50 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 560 seconds out of 600.
+INFO: 10/07/2020 04:49:00 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 570 seconds out of 600.
+INFO: 10/07/2020 04:49:10 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 580 seconds out of 600.
+INFO: 10/07/2020 04:49:20 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 590 seconds out of 600.
+INFO: 10/07/2020 04:49:30 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 600 seconds out of 600.
