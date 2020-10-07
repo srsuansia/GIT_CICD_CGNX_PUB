@@ -59,3 +59,70 @@ INFO: 10/07/2020 02:31:20 AM MESSAGE:    Created dnsservices BLRDnsService01.
 INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for Toolkit 16020378520640036.
 INFO: 10/07/2020 02:31:20 AM MESSAGE: No Change for Site BLR_SITE state (active).
 INFO: 10/07/2020 02:31:20 AM MESSAGE: DONE
+INFO: 10/07/2020 02:32:42 AM MESSAGE: Created Site BLR_SITE.
+INFO: 10/07/2020 02:32:42 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/07/2020 02:32:42 AM MESSAGE:  Created Spoke Cluster BLR_OFFICE_HA.
+INFO: 10/07/2020 02:32:42 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 10/07/2020 02:32:42 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 10/07/2020 02:32:42 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/07/2020 02:32:43 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 600.
+INFO: 10/07/2020 02:32:53 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 600.
+INFO: 10/07/2020 02:33:03 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 20 seconds out of 600.
+INFO: 10/07/2020 02:33:13 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 30 seconds out of 600.
+INFO: 10/07/2020 02:33:23 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 40 seconds out of 600.
+INFO: 10/07/2020 02:33:33 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 50 seconds out of 600.
+INFO: 10/07/2020 02:33:44 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 60 seconds out of 600.
+INFO: 10/07/2020 02:33:54 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 70 seconds out of 600.
+INFO: 10/07/2020 02:34:04 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 80 seconds out of 600.
+INFO: 10/07/2020 02:34:14 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 90 seconds out of 600.
+INFO: 10/07/2020 02:34:24 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 100 seconds out of 600.
+INFO: 10/07/2020 02:34:34 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 110 seconds out of 600.
+INFO: 10/07/2020 02:34:44 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 120 seconds out of 600.
+INFO: 10/07/2020 02:34:54 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 130 seconds out of 600.
+INFO: 10/07/2020 02:35:04 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 140 seconds out of 600.
+INFO: 10/07/2020 02:35:15 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 150 seconds out of 600.
+INFO: 10/07/2020 02:35:25 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 160 seconds out of 600.
+INFO: 10/07/2020 02:35:35 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 170 seconds out of 600.
+INFO: 10/07/2020 02:35:45 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 180 seconds out of 600.
+INFO: 10/07/2020 02:35:55 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 190 seconds out of 600.
+INFO: 10/07/2020 02:36:05 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 200 seconds out of 600.
+INFO: 10/07/2020 02:36:15 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 210 seconds out of 600.
+INFO: 10/07/2020 02:36:26 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 220 seconds out of 600.
+INFO: 10/07/2020 02:36:36 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 230 seconds out of 600.
+INFO: 10/07/2020 02:36:46 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 240 seconds out of 600.
+INFO: 10/07/2020 02:36:56 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 250 seconds out of 600.
+INFO: 10/07/2020 02:37:06 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 260 seconds out of 600.
+INFO: 10/07/2020 02:37:16 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 270 seconds out of 600.
+INFO: 10/07/2020 02:37:26 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 280 seconds out of 600.
+INFO: 10/07/2020 02:37:36 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 290 seconds out of 600.
+INFO: 10/07/2020 02:37:46 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 300 seconds out of 600.
+INFO: 10/07/2020 02:37:56 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 310 seconds out of 600.
+INFO: 10/07/2020 02:38:07 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 320 seconds out of 600.
+INFO: 10/07/2020 02:38:17 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 330 seconds out of 600.
+INFO: 10/07/2020 02:38:27 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 340 seconds out of 600.
+INFO: 10/07/2020 02:38:37 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 350 seconds out of 600.
+INFO: 10/07/2020 02:38:47 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 360 seconds out of 600.
+INFO: 10/07/2020 02:38:57 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 370 seconds out of 600.
+INFO: 10/07/2020 02:39:07 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 380 seconds out of 600.
+INFO: 10/07/2020 02:39:17 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 390 seconds out of 600.
+INFO: 10/07/2020 02:39:28 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 400 seconds out of 600.
+INFO: 10/07/2020 02:39:38 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 410 seconds out of 600.
+INFO: 10/07/2020 02:39:48 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 420 seconds out of 600.
+INFO: 10/07/2020 02:39:58 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 430 seconds out of 600.
+INFO: 10/07/2020 02:40:08 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 440 seconds out of 600.
+INFO: 10/07/2020 02:40:18 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 450 seconds out of 600.
+INFO: 10/07/2020 02:40:28 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 460 seconds out of 600.
+INFO: 10/07/2020 02:40:38 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 470 seconds out of 600.
+INFO: 10/07/2020 02:40:49 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 480 seconds out of 600.
+INFO: 10/07/2020 02:40:59 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 490 seconds out of 600.
+INFO: 10/07/2020 02:41:09 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 500 seconds out of 600.
+INFO: 10/07/2020 02:41:19 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 510 seconds out of 600.
+INFO: 10/07/2020 02:41:29 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 520 seconds out of 600.
+INFO: 10/07/2020 02:41:39 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 530 seconds out of 600.
+INFO: 10/07/2020 02:41:49 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 540 seconds out of 600.
+INFO: 10/07/2020 02:41:59 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 550 seconds out of 600.
+INFO: 10/07/2020 02:42:09 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 560 seconds out of 600.
+INFO: 10/07/2020 02:42:19 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 570 seconds out of 600.
+INFO: 10/07/2020 02:42:30 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 580 seconds out of 600.
+INFO: 10/07/2020 02:42:40 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 590 seconds out of 600.
+INFO: 10/07/2020 02:42:50 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 600 seconds out of 600.
