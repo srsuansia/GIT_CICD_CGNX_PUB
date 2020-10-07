@@ -42,3 +42,39 @@ INFO: 10/07/2020 02:57:22 AM MESSAGE:    No Change for NTP 16020394103920038.
 INFO: 10/07/2020 02:57:22 AM MESSAGE:    No Change for Toolkit 16020394207040147.
 INFO: 10/07/2020 02:57:22 AM MESSAGE: No Change for Site SITE_BERLINE state (active).
 INFO: 10/07/2020 02:57:22 AM MESSAGE: DONE
+INFO: 10/07/2020 02:58:11 AM MESSAGE: Created Site SITE_BERLINE.
+INFO: 10/07/2020 02:58:11 AM MESSAGE:  Created waninterface BSNL-test.
+INFO: 10/07/2020 02:58:12 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/07/2020 02:58:12 AM MESSAGE:  Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 is not CLAIMED, attempting to claim..
+INFO: 10/07/2020 02:58:12 AM MESSAGE:  Checking Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4..
+INFO: 10/07/2020 02:58:12 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/07/2020 02:58:12 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 0 seconds out of 600.
+INFO: 10/07/2020 02:58:22 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 10 seconds out of 600.
+INFO: 10/07/2020 02:58:32 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 20 seconds out of 600.
+INFO: 10/07/2020 02:58:42 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 30 seconds out of 600.
+INFO: 10/07/2020 02:58:52 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 40 seconds out of 600.
+INFO: 10/07/2020 02:59:02 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 50 seconds out of 600.
+INFO: 10/07/2020 02:59:13 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 60 seconds out of 600.
+INFO: 10/07/2020 02:59:23 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 70 seconds out of 600.
+INFO: 10/07/2020 02:59:33 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Offline, waited so far 80 seconds out of 600.
+INFO: 10/07/2020 02:59:43 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 still claiming, waited so far 0 seconds out of 600.
+INFO: 10/07/2020 02:59:53 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 still claiming, waited so far 10 seconds out of 600.
+INFO: 10/07/2020 03:00:03 AM MESSAGE:  Claimed. Continuing..
+INFO: 10/07/2020 03:00:04 AM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 0 seconds out of 600.
+INFO: 10/07/2020 03:00:14 AM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 10 seconds out of 600.
+INFO: 10/07/2020 03:00:24 AM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 20 seconds out of 600.
+INFO: 10/07/2020 03:00:34 AM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 30 seconds out of 600.
+INFO: 10/07/2020 03:00:44 AM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 40 seconds out of 600.
+INFO: 10/07/2020 03:00:55 AM MESSAGE:  Element: Code is at correct version 5.4.1-b14.
+INFO: 10/07/2020 03:00:55 AM MESSAGE:   Assigning Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4.
+INFO: 10/07/2020 03:00:55 AM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 10/07/2020 03:01:05 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/07/2020 03:01:05 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/07/2020 03:01:05 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/07/2020 03:01:06 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/07/2020 03:01:06 AM MESSAGE:    No Change for Spoke HA in Element HUB_01.
+INFO: 10/07/2020 03:01:06 AM MESSAGE:    No Change for BGP Global Config 16020396564890218.
+INFO: 10/07/2020 03:01:06 AM MESSAGE:    No Change for NTP 16020395836230147.
+INFO: 10/07/2020 03:01:06 AM MESSAGE:    No Change for Toolkit 16020395943130197.
+INFO: 10/07/2020 03:01:06 AM MESSAGE: No Change for Site SITE_BERLINE state (active).
+INFO: 10/07/2020 03:01:06 AM MESSAGE: DONE
