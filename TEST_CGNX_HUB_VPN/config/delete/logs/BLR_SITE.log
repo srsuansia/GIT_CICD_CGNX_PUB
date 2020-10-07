@@ -29,3 +29,33 @@ INFO: 10/07/2020 02:04:12 AM MESSAGE:    Created dnsservices BLRDnsService01.
 INFO: 10/07/2020 02:04:12 AM MESSAGE:    No Change for Toolkit 16020362135510085.
 INFO: 10/07/2020 02:04:12 AM MESSAGE: No Change for Site BLR_SITE state (active).
 INFO: 10/07/2020 02:04:12 AM MESSAGE: DONE
+INFO: 10/07/2020 02:30:37 AM MESSAGE: Created Site BLR_SITE.
+INFO: 10/07/2020 02:30:37 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/07/2020 02:30:37 AM MESSAGE:  Created Spoke Cluster BLR_OFFICE_HA.
+INFO: 10/07/2020 02:30:38 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 10/07/2020 02:30:38 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 10/07/2020 02:30:38 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/07/2020 02:30:38 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 600.
+INFO: 10/07/2020 02:30:48 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 600.
+INFO: 10/07/2020 02:30:58 AM MESSAGE:  Claimed. Continuing..
+INFO: 10/07/2020 02:30:58 AM MESSAGE:  Element: Changing element from 5.4.1-b5 to 5.4.1-b12.
+INFO: 10/07/2020 02:30:58 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet at requested image: 5.4.1-b12 (is 5.4.1-b5). Waited so far 0 seconds out of 600.
+INFO: 10/07/2020 02:31:09 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 10/07/2020 02:31:09 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 10/07/2020 02:31:19 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/07/2020 02:31:19 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/07/2020 02:31:19 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/07/2020 02:31:19 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/07/2020 02:31:19 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/07/2020 02:31:19 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_01.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for BGP Global Config 16020378715530237.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for NTP 16020378382960159.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    Created dnsservices BLRDnsService01.
+INFO: 10/07/2020 02:31:20 AM MESSAGE:    No Change for Toolkit 16020378520640036.
+INFO: 10/07/2020 02:31:20 AM MESSAGE: No Change for Site BLR_SITE state (active).
+INFO: 10/07/2020 02:31:20 AM MESSAGE: DONE
