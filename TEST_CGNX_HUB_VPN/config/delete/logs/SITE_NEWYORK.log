@@ -1,0 +1,67 @@
+INFO: 10/07/2020 01:52:12 AM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 10/07/2020 01:52:12 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/07/2020 01:52:12 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/07/2020 01:52:12 AM MESSAGE:  Machine 4210024d-4f88-0811-bbea-40503cf61773 is not CLAIMED, attempting to claim..
+INFO: 10/07/2020 01:52:13 AM MESSAGE:  Checking Machine 4210024d-4f88-0811-bbea-40503cf61773..
+INFO: 10/07/2020 01:52:13 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/07/2020 01:52:13 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 600.
+INFO: 10/07/2020 01:52:23 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 10 seconds out of 600.
+INFO: 10/07/2020 01:52:33 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 20 seconds out of 600.
+INFO: 10/07/2020 01:52:43 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 30 seconds out of 600.
+INFO: 10/07/2020 01:52:53 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 40 seconds out of 600.
+INFO: 10/07/2020 01:53:04 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 50 seconds out of 600.
+INFO: 10/07/2020 01:53:14 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 60 seconds out of 600.
+INFO: 10/07/2020 01:53:24 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 70 seconds out of 600.
+INFO: 10/07/2020 01:53:34 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 80 seconds out of 600.
+INFO: 10/07/2020 01:53:44 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 90 seconds out of 600.
+INFO: 10/07/2020 01:53:54 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 100 seconds out of 600.
+INFO: 10/07/2020 01:54:04 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 110 seconds out of 600.
+INFO: 10/07/2020 01:54:15 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 120 seconds out of 600.
+INFO: 10/07/2020 01:54:25 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 130 seconds out of 600.
+INFO: 10/07/2020 01:54:35 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 140 seconds out of 600.
+INFO: 10/07/2020 01:54:45 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 150 seconds out of 600.
+INFO: 10/07/2020 01:54:55 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 160 seconds out of 600.
+INFO: 10/07/2020 01:55:05 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 170 seconds out of 600.
+INFO: 10/07/2020 01:55:15 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 180 seconds out of 600.
+INFO: 10/07/2020 01:55:25 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 190 seconds out of 600.
+INFO: 10/07/2020 01:55:35 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 200 seconds out of 600.
+INFO: 10/07/2020 01:55:46 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 210 seconds out of 600.
+INFO: 10/07/2020 01:55:56 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 220 seconds out of 600.
+INFO: 10/07/2020 01:56:06 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 230 seconds out of 600.
+INFO: 10/07/2020 01:56:16 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 240 seconds out of 600.
+INFO: 10/07/2020 01:56:26 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 250 seconds out of 600.
+INFO: 10/07/2020 01:56:36 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 260 seconds out of 600.
+INFO: 10/07/2020 01:56:46 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 270 seconds out of 600.
+INFO: 10/07/2020 01:56:56 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 280 seconds out of 600.
+INFO: 10/07/2020 01:57:06 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 290 seconds out of 600.
+INFO: 10/07/2020 01:57:17 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 300 seconds out of 600.
+INFO: 10/07/2020 01:57:27 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 310 seconds out of 600.
+INFO: 10/07/2020 01:57:37 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 320 seconds out of 600.
+INFO: 10/07/2020 01:57:47 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 330 seconds out of 600.
+INFO: 10/07/2020 01:57:57 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 340 seconds out of 600.
+INFO: 10/07/2020 01:58:07 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 350 seconds out of 600.
+INFO: 10/07/2020 01:58:17 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 360 seconds out of 600.
+INFO: 10/07/2020 01:58:27 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 370 seconds out of 600.
+INFO: 10/07/2020 01:58:38 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 380 seconds out of 600.
+INFO: 10/07/2020 01:58:48 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 390 seconds out of 600.
+INFO: 10/07/2020 01:58:58 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 400 seconds out of 600.
+INFO: 10/07/2020 01:59:08 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 410 seconds out of 600.
+INFO: 10/07/2020 01:59:18 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 420 seconds out of 600.
+INFO: 10/07/2020 01:59:28 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 430 seconds out of 600.
+INFO: 10/07/2020 01:59:39 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 440 seconds out of 600.
+INFO: 10/07/2020 01:59:49 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 450 seconds out of 600.
+INFO: 10/07/2020 01:59:59 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 460 seconds out of 600.
+INFO: 10/07/2020 02:00:09 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 470 seconds out of 600.
+INFO: 10/07/2020 02:00:19 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 480 seconds out of 600.
+INFO: 10/07/2020 02:00:29 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 490 seconds out of 600.
+INFO: 10/07/2020 02:00:39 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 500 seconds out of 600.
+INFO: 10/07/2020 02:00:49 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 510 seconds out of 600.
+INFO: 10/07/2020 02:00:59 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 520 seconds out of 600.
+INFO: 10/07/2020 02:01:09 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 530 seconds out of 600.
+INFO: 10/07/2020 02:01:20 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 540 seconds out of 600.
+INFO: 10/07/2020 02:01:30 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 550 seconds out of 600.
+INFO: 10/07/2020 02:01:40 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 560 seconds out of 600.
+INFO: 10/07/2020 02:01:50 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 570 seconds out of 600.
+INFO: 10/07/2020 02:02:01 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 580 seconds out of 600.
+INFO: 10/07/2020 02:02:11 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 590 seconds out of 600.
+INFO: 10/07/2020 02:02:21 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 600 seconds out of 600.
