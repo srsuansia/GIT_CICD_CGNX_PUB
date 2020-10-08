@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-03T02:59:40.672238Z
+# Created at 2020-10-08T05:27:47.403069Z
 # by system_2750@soumyars.com
 sites v4.5:
   BLR_SITE:
@@ -23,7 +23,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode:
         cluster_member_id:
-        connected: true
+        connected: false
         deployment_op:
         description:
         dnsservices v2.0:
