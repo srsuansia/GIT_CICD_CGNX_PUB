@@ -170,3 +170,70 @@ INFO: 10/06/2020 10:44:04 AM MESSAGE:    No Change for NTP 16019810024630074.
 INFO: 10/06/2020 10:44:04 AM MESSAGE:    No Change for Toolkit 16019810158230092.
 INFO: 10/06/2020 10:44:04 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
 INFO: 10/06/2020 10:44:05 AM MESSAGE: DONE
+INFO: 10/08/2020 05:15:03 AM MESSAGE: Updated Site SITE_NEWYORK (Etag 3 -> 4).
+INFO: 10/08/2020 05:15:03 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/08/2020 05:15:03 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/08/2020 05:15:03 AM MESSAGE:  Machine 4210024d-4f88-0811-bbea-40503cf61773 is not CLAIMED, attempting to claim..
+INFO: 10/08/2020 05:15:03 AM MESSAGE:  Checking Machine 4210024d-4f88-0811-bbea-40503cf61773..
+INFO: 10/08/2020 05:15:03 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/08/2020 05:15:04 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 0 seconds out of 600.
+INFO: 10/08/2020 05:15:14 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 10 seconds out of 600.
+INFO: 10/08/2020 05:15:24 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 20 seconds out of 600.
+INFO: 10/08/2020 05:15:34 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 30 seconds out of 600.
+INFO: 10/08/2020 05:15:44 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 40 seconds out of 600.
+INFO: 10/08/2020 05:15:54 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 50 seconds out of 600.
+INFO: 10/08/2020 05:16:04 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 60 seconds out of 600.
+INFO: 10/08/2020 05:16:15 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 70 seconds out of 600.
+INFO: 10/08/2020 05:16:25 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 80 seconds out of 600.
+INFO: 10/08/2020 05:16:35 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 90 seconds out of 600.
+INFO: 10/08/2020 05:16:45 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 100 seconds out of 600.
+INFO: 10/08/2020 05:16:55 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 110 seconds out of 600.
+INFO: 10/08/2020 05:17:06 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 120 seconds out of 600.
+INFO: 10/08/2020 05:17:16 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 130 seconds out of 600.
+INFO: 10/08/2020 05:17:26 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 140 seconds out of 600.
+INFO: 10/08/2020 05:17:36 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 150 seconds out of 600.
+INFO: 10/08/2020 05:17:46 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 160 seconds out of 600.
+INFO: 10/08/2020 05:17:56 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 170 seconds out of 600.
+INFO: 10/08/2020 05:18:07 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 180 seconds out of 600.
+INFO: 10/08/2020 05:18:17 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 190 seconds out of 600.
+INFO: 10/08/2020 05:18:27 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 200 seconds out of 600.
+INFO: 10/08/2020 05:18:37 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 210 seconds out of 600.
+INFO: 10/08/2020 05:18:47 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 220 seconds out of 600.
+INFO: 10/08/2020 05:18:57 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 230 seconds out of 600.
+INFO: 10/08/2020 05:19:08 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 240 seconds out of 600.
+INFO: 10/08/2020 05:19:18 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 250 seconds out of 600.
+INFO: 10/08/2020 05:19:28 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 260 seconds out of 600.
+INFO: 10/08/2020 05:19:38 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 270 seconds out of 600.
+INFO: 10/08/2020 05:19:49 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 280 seconds out of 600.
+INFO: 10/08/2020 05:19:59 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 290 seconds out of 600.
+INFO: 10/08/2020 05:20:09 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 300 seconds out of 600.
+INFO: 10/08/2020 05:20:19 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 310 seconds out of 600.
+INFO: 10/08/2020 05:20:29 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 320 seconds out of 600.
+INFO: 10/08/2020 05:20:39 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 330 seconds out of 600.
+INFO: 10/08/2020 05:20:50 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 340 seconds out of 600.
+INFO: 10/08/2020 05:21:00 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 350 seconds out of 600.
+INFO: 10/08/2020 05:21:10 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 360 seconds out of 600.
+INFO: 10/08/2020 05:21:20 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 370 seconds out of 600.
+INFO: 10/08/2020 05:21:31 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 380 seconds out of 600.
+INFO: 10/08/2020 05:21:41 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 390 seconds out of 600.
+INFO: 10/08/2020 05:21:51 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 400 seconds out of 600.
+INFO: 10/08/2020 05:22:01 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 410 seconds out of 600.
+INFO: 10/08/2020 05:22:11 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 420 seconds out of 600.
+INFO: 10/08/2020 05:22:21 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 430 seconds out of 600.
+INFO: 10/08/2020 05:22:31 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 440 seconds out of 600.
+INFO: 10/08/2020 05:22:41 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 450 seconds out of 600.
+INFO: 10/08/2020 05:22:52 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 460 seconds out of 600.
+INFO: 10/08/2020 05:23:02 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 470 seconds out of 600.
+INFO: 10/08/2020 05:23:12 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 480 seconds out of 600.
+INFO: 10/08/2020 05:23:22 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 490 seconds out of 600.
+INFO: 10/08/2020 05:23:32 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 500 seconds out of 600.
+INFO: 10/08/2020 05:23:42 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 510 seconds out of 600.
+INFO: 10/08/2020 05:23:52 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 520 seconds out of 600.
+INFO: 10/08/2020 05:24:02 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 530 seconds out of 600.
+INFO: 10/08/2020 05:24:12 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 540 seconds out of 600.
+INFO: 10/08/2020 05:24:22 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 550 seconds out of 600.
+INFO: 10/08/2020 05:24:32 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 560 seconds out of 600.
+INFO: 10/08/2020 05:24:43 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 570 seconds out of 600.
+INFO: 10/08/2020 05:24:53 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 580 seconds out of 600.
+INFO: 10/08/2020 05:25:03 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 590 seconds out of 600.
+INFO: 10/08/2020 05:25:13 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 Offline, waited so far 600 seconds out of 600.
