@@ -62,3 +62,13 @@ INFO: 10/08/2020 03:07:00 PM MESSAGE:   Element SPOKE_02 not yet at requested im
 INFO: 10/08/2020 03:07:10 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 580 seconds out of 600.
 INFO: 10/08/2020 03:07:20 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 590 seconds out of 600.
 INFO: 10/08/2020 03:07:31 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 600 seconds out of 600.
+INFO: 10/08/2020 03:07:50 PM MESSAGE: No Change for Site BLR_SITE.
+INFO: 10/08/2020 03:07:50 PM MESSAGE:  No Change for Spoke Cluster BLR_OFFICE_HA.
+INFO: 10/08/2020 03:07:50 PM MESSAGE:  Element: Changing element from 5.4.1-b13 to 5.4.1-b12.
+INFO: 10/08/2020 03:07:50 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 0 seconds out of 600.
+INFO: 10/08/2020 03:08:00 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 10 seconds out of 600.
+INFO: 10/08/2020 03:08:10 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 20 seconds out of 600.
+INFO: 10/08/2020 03:08:21 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 30 seconds out of 600.
+INFO: 10/08/2020 03:08:31 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 40 seconds out of 600.
+INFO: 10/08/2020 03:08:41 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 50 seconds out of 600.
+INFO: 10/08/2020 03:08:51 PM MESSAGE:   Element SPOKE_02 not yet at requested image: 5.4.1-b12 (is 5.4.1-b13). Waited so far 60 seconds out of 600.
