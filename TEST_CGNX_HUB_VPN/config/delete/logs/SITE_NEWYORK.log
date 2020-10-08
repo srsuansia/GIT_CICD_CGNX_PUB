@@ -3649,3 +3649,36 @@ INFO: 10/08/2020 04:03:38 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-
 INFO: 10/08/2020 04:03:48 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 580 seconds out of 600.
 INFO: 10/08/2020 04:03:58 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 590 seconds out of 600.
 INFO: 10/08/2020 04:04:09 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 600 seconds out of 600.
+INFO: 10/08/2020 04:04:50 AM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 10/08/2020 04:04:50 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/08/2020 04:04:50 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/08/2020 04:04:50 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 600.
+INFO: 10/08/2020 04:05:00 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 600.
+INFO: 10/08/2020 04:05:11 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 20 seconds out of 600.
+INFO: 10/08/2020 04:05:21 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 30 seconds out of 600.
+INFO: 10/08/2020 04:05:31 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 40 seconds out of 600.
+INFO: 10/08/2020 04:05:41 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 50 seconds out of 600.
+INFO: 10/08/2020 04:05:51 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 60 seconds out of 600.
+INFO: 10/08/2020 04:06:01 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 70 seconds out of 600.
+INFO: 10/08/2020 04:06:11 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 80 seconds out of 600.
+INFO: 10/08/2020 04:06:22 AM MESSAGE:  Element: Changing element from 5.4.1-b5 to 5.4.1-b13.
+INFO: 10/08/2020 04:06:22 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet at requested image: 5.4.1-b13 (is 5.4.1-b5). Waited so far 0 seconds out of 600.
+INFO: 10/08/2020 04:06:32 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet at requested image: 5.4.1-b13 (is 5.4.1-b5). Waited so far 10 seconds out of 600.
+INFO: 10/08/2020 04:06:42 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
+INFO: 10/08/2020 04:06:42 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/08/2020 04:06:53 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_02.
+INFO: 10/08/2020 04:06:54 AM MESSAGE:    No Change for BGP Global Config 16021300047770163.
+INFO: 10/08/2020 04:06:54 AM MESSAGE:    No Change for NTP 16020355334010175.
+INFO: 10/08/2020 04:06:54 AM MESSAGE:    No Change for Toolkit 16021299742140184.
+INFO: 10/08/2020 04:06:54 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
+INFO: 10/08/2020 04:06:54 AM MESSAGE: DONE
