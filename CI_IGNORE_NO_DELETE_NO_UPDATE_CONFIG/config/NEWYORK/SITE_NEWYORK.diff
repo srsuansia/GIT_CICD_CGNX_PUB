@@ -4,19 +4,19 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-10-08T05:40:24.664568Z
-+# Created at 2020-10-08T05:42:24.178332Z
+-# Created at 2020-10-08T05:42:27.805481Z
++# Created at 2020-10-08T05:47:30.939193Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    SITE_NEWYORK:
      address:
-@@ -23,7 +24,7 @@
-         - SPOKE
-         cluster_insertion_mode:
-         cluster_member_id:
--        connected: false
-+        connected: true
-         deployment_op:
-         description:
-         element_security_zones v2.0: []
+@@ -13,7 +14,7 @@
+       street:
+       street2:
+     admin_state: active
+-    description: Testing Update, Empty site test
++    description: Empty site test
+     element_cluster_role: SPOKE
+     elements v2.3:
+       SPOKE_02:
