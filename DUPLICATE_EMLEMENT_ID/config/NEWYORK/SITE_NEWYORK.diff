@@ -1,0 +1,22 @@
+--- /tmp/ci/2750/GIT_CICD_CGNX_PUB/DUPLICATE_EMLEMENT_ID/config/NEWYORK/SITE_NEWYORK.yml
++++ /tmp/ci/2750/SITE_NEWYORK_controller.yml
+@@ -1,8 +1,9 @@
+ ---
+ type: cloudgenix template
+ version: 1.0
+-# Created at 2020-09-28T11:22:02.747934Z
++# Created at 2020-10-08T14:55:22.744332Z
+ # by system_2750@soumyars.com
++# FROM_CLOUDBLADE
+ sites v4.5:
+   SITE_NEWYORK:
+     address:
+@@ -23,7 +24,7 @@
+         - SPOKE
+         cluster_insertion_mode:
+         cluster_member_id:
+-        connected: true
++        connected: false
+         deployment_op:
+         description:
+         element_security_zones v2.0: []
