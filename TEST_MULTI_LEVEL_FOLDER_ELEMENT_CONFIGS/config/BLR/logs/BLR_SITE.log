@@ -343,3 +343,25 @@ INFO: 10/08/2020 05:29:22 AM MESSAGE:    No Change for dnsservices BLRDnsService
 INFO: 10/08/2020 05:29:22 AM MESSAGE:    No Change for Toolkit 16021344293930234.
 INFO: 10/08/2020 05:29:22 AM MESSAGE: No Change for Site BLR_SITE state (monitor).
 INFO: 10/08/2020 05:29:22 AM MESSAGE: DONE
+INFO: 10/08/2020 10:44:13 AM MESSAGE: Created Site BLR_SITE.
+INFO: 10/08/2020 10:44:13 AM MESSAGE:  Created Spoke Cluster BLR_OFFICE_HA.
+INFO: 10/08/2020 10:44:13 AM MESSAGE:  Element: Code is at correct version 5.4.1-b12.
+INFO: 10/08/2020 10:44:14 AM MESSAGE:   Assigning Element SPOKE_01.
+INFO: 10/08/2020 10:44:14 AM MESSAGE:   Element SPOKE_01 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 10/08/2020 10:44:24 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/08/2020 10:44:24 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/08/2020 10:44:24 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/08/2020 10:44:24 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/08/2020 10:44:25 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/08/2020 10:44:25 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/08/2020 10:44:25 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/08/2020 10:44:25 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/08/2020 10:44:25 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/08/2020 10:44:25 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/08/2020 10:44:25 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_01.
+INFO: 10/08/2020 10:44:25 AM MESSAGE:    No Change for BGP Global Config 16021538563350096.
+INFO: 10/08/2020 10:44:26 AM MESSAGE:    No Change for NTP 16021344124090132.
+INFO: 10/08/2020 10:44:26 AM MESSAGE:    Created dnsservices BLRDnsService01.
+INFO: 10/08/2020 10:44:26 AM MESSAGE:    No Change for Toolkit 16021344293930234.
+INFO: 10/08/2020 10:44:26 AM MESSAGE: No Change for Site BLR_SITE state (monitor).
+INFO: 10/08/2020 10:44:26 AM MESSAGE: DONE
