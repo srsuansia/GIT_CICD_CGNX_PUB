@@ -13,7 +13,7 @@ sites v4.5:
       street:
       street2:
     admin_state: monitor
-    description: Testing Update CI_IGNORE tag, Berline for (DC) HUB config testing
+    description: CI_IGNORE tag, Berline for (DC) HUB config testing
     element_cluster_role: SPOKE
     elements v2.3:
       HUB_01:
