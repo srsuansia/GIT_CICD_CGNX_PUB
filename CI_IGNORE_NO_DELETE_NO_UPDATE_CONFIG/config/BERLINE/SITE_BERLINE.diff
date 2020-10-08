@@ -1,0 +1,22 @@
+--- /tmp/ci/2750/GIT_CICD_CGNX_PUB/CI_IGNORE_NO_DELETE_NO_UPDATE_CONFIG/config/BERLINE/SITE_BERLINE.yml
++++ /tmp/ci/2750/SITE_BERLINE_controller.yml
+@@ -1,8 +1,9 @@
+ ---
+ type: cloudgenix template
+ version: 1.0
+-# Created at 2020-09-28T11:22:02.117526Z
++# Created at 2020-10-08T06:14:09.335566Z
+ # by system_2750@soumyars.com
++# FROM_CLOUDBLADE
+ sites v4.5:
+   SITE_BERLINE:
+     address:
+@@ -13,7 +14,7 @@
+       street:
+       street2:
+     admin_state: monitor
+-    description: CI_IGNORE tag, Berline for (DC) HUB config testing
++    description: Berline for (DC) HUB config testing
+     element_cluster_role: SPOKE
+     elements v2.3:
+       HUB_01:
