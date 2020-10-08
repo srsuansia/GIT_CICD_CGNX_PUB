@@ -1,0 +1,26 @@
+INFO: 10/08/2020 05:39:30 AM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 10/08/2020 05:39:30 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/08/2020 05:39:30 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/08/2020 05:39:30 AM MESSAGE:  Element: Code is at correct version 5.4.1-b13.
+INFO: 10/08/2020 05:39:30 AM MESSAGE:   Assigning Element SPOKE_02.
+INFO: 10/08/2020 05:39:31 AM MESSAGE:   Element SPOKE_02 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 600.
+INFO: 10/08/2020 05:39:41 AM MESSAGE:   Element SPOKE_02 not yet in requested state(s): bound (is bound_in_progress). Waited so far 10 seconds out of 600.
+INFO: 10/08/2020 05:39:51 AM MESSAGE:   Element SPOKE_02 not yet in requested state(s): bound (is bound_in_progress). Waited so far 20 seconds out of 600.
+INFO: 10/08/2020 05:40:02 AM MESSAGE:   Element SPOKE_02 not yet in requested state(s): bound (is bound_in_progress). Waited so far 30 seconds out of 600.
+INFO: 10/08/2020 05:40:12 AM MESSAGE:   Element SPOKE_02 not yet in requested state(s): bound (is bound_in_progress). Waited so far 40 seconds out of 600.
+INFO: 10/08/2020 05:40:22 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/08/2020 05:40:22 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/08/2020 05:40:22 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/08/2020 05:40:22 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/08/2020 05:40:22 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/08/2020 05:40:22 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/08/2020 05:40:23 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/08/2020 05:40:23 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/08/2020 05:40:23 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/08/2020 05:40:23 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/08/2020 05:40:23 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_02.
+INFO: 10/08/2020 05:40:23 AM MESSAGE:    No Change for BGP Global Config 16021356130010234.
+INFO: 10/08/2020 05:40:23 AM MESSAGE:    No Change for NTP 16021342872960012.
+INFO: 10/08/2020 05:40:23 AM MESSAGE:    No Change for Toolkit 16021343043620089.
+INFO: 10/08/2020 05:40:23 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
+INFO: 10/08/2020 05:40:23 AM MESSAGE: DONE
