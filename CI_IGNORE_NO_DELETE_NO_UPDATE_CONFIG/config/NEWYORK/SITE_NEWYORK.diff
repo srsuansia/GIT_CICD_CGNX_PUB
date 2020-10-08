@@ -5,7 +5,7 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-10-08T05:42:27.805481Z
-+# Created at 2020-10-08T05:47:30.939193Z
++# Created at 2020-10-08T05:56:01.809357Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
@@ -15,8 +15,8 @@
        street:
        street2:
      admin_state: active
--    description: Testing Update, Empty site test
-+    description: Empty site test
+-    description: Empty site test
++    description: Testing Update, Empty site test
      element_cluster_role: SPOKE
      elements v2.3:
        SPOKE_02:
