@@ -1,0 +1,22 @@
+--- /tmp/ci/2750/GIT_CICD_CGNX_PUB/ADD_MULTIPLE_UPDATE_SINGLE/config/SubPath/JOHANNESBURG/SITE_JOHANNESBURG.yml
++++ /tmp/ci/2750/SITE_JOHANNESBURG_controller.yml
+@@ -1,8 +1,9 @@
+ ---
+ type: cloudgenix template
+ version: 1.0
+-# Created at 2020-10-12T10:24:18.782596Z
++# Created at 2020-10-12T10:48:15.546625Z
+ # by system_2750@soumyars.com
++# FROM_CLOUDBLADE
+ sites v4.5:
+   SITE_JOHANNESBURG:
+     address:
+@@ -13,7 +14,7 @@
+       street:
+       street2:
+     admin_state: disabled
+-    description: Testing Johannesburg for Update
++    description: Testing Johannesburg for MT
+     element_cluster_role: HUB
+     elements v2.3: {}
+     extended_tags:
