@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:42:12 AM MESSAGE: Beginning to DESTROY site UJJAIN_SITE(16024733929650017)..
-INFO: 10/12/2020 04:42:12 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:42:12 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:42:12 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:42:12 AM MESSAGE: No Change for Site UJJAIN_SITE state (disabled).
-INFO: 10/12/2020 04:42:12 AM MESSAGE: Deleting Site UJJAIN_SITE..
-INFO: 10/12/2020 04:42:13 AM MESSAGE: DONE

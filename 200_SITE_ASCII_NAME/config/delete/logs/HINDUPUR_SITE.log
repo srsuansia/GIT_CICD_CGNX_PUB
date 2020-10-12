@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:40:43 AM MESSAGE: Beginning to DESTROY site HINDUPUR_SITE(16024732961940043)..
-INFO: 10/12/2020 04:40:43 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:40:43 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:40:43 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:40:43 AM MESSAGE: No Change for Site HINDUPUR_SITE state (disabled).
-INFO: 10/12/2020 04:40:44 AM MESSAGE: Deleting Site HINDUPUR_SITE..
-INFO: 10/12/2020 04:40:44 AM MESSAGE: DONE

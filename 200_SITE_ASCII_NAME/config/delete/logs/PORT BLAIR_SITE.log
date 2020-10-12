@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:41:16 AM MESSAGE: Beginning to DESTROY site PORT BLAIR_SITE(16024733269730053)..
-INFO: 10/12/2020 04:41:16 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:41:17 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:41:18 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:41:18 AM MESSAGE: No Change for Site PORT BLAIR_SITE state (disabled).
-INFO: 10/12/2020 04:41:18 AM MESSAGE: Deleting Site PORT BLAIR_SITE..
-INFO: 10/12/2020 04:41:20 AM MESSAGE: DONE

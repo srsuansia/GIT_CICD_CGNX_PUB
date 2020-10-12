@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:38:59 AM MESSAGE: Beginning to DESTROY site AGRA_SITE(16024731775200146)..
-INFO: 10/12/2020 04:38:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:38:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:38:59 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:38:59 AM MESSAGE: No Change for Site AGRA_SITE state (disabled).
-INFO: 10/12/2020 04:38:59 AM MESSAGE: Deleting Site AGRA_SITE..
-INFO: 10/12/2020 04:39:00 AM MESSAGE: DONE

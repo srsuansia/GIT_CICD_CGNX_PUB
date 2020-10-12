@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:37:03 AM MESSAGE: Beginning to DESTROY site GORAKHPUR_SITE(16024730534260230)..
-INFO: 10/12/2020 04:37:03 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:37:03 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:37:04 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:37:04 AM MESSAGE: No Change for Site GORAKHPUR_SITE state (disabled).
-INFO: 10/12/2020 04:37:04 AM MESSAGE: Deleting Site GORAKHPUR_SITE..
-INFO: 10/12/2020 04:37:04 AM MESSAGE: DONE

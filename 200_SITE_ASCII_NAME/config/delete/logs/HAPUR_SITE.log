@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:42:08 AM MESSAGE: Beginning to DESTROY site HAPUR_SITE(16024733888470067)..
-INFO: 10/12/2020 04:42:08 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:42:08 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:42:08 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:42:09 AM MESSAGE: No Change for Site HAPUR_SITE state (disabled).
-INFO: 10/12/2020 04:42:09 AM MESSAGE: Deleting Site HAPUR_SITE..
-INFO: 10/12/2020 04:42:09 AM MESSAGE: DONE

@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:40:25 AM MESSAGE: Beginning to DESTROY site KURNOOL_SITE(16024732670450056)..
-INFO: 10/12/2020 04:40:25 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:40:25 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:40:25 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:40:25 AM MESSAGE: No Change for Site KURNOOL_SITE state (disabled).
-INFO: 10/12/2020 04:40:25 AM MESSAGE: Deleting Site KURNOOL_SITE..
-INFO: 10/12/2020 04:40:26 AM MESSAGE: DONE

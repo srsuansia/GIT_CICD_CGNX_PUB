@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:40:41 AM MESSAGE: Beginning to DESTROY site RAMPUR_SITE(16024732918600109)..
-INFO: 10/12/2020 04:40:41 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:40:41 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:40:42 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:40:42 AM MESSAGE: No Change for Site RAMPUR_SITE state (disabled).
-INFO: 10/12/2020 04:40:42 AM MESSAGE: Deleting Site RAMPUR_SITE..
-INFO: 10/12/2020 04:40:42 AM MESSAGE: DONE

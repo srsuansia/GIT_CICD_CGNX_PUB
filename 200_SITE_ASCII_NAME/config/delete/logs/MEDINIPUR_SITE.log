@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:41:29 AM MESSAGE: Beginning to DESTROY site MEDINIPUR_SITE(16024733351820179)..
-INFO: 10/12/2020 04:41:29 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:41:30 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:41:30 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:41:30 AM MESSAGE: No Change for Site MEDINIPUR_SITE state (disabled).
-INFO: 10/12/2020 04:41:30 AM MESSAGE: Deleting Site MEDINIPUR_SITE..
-INFO: 10/12/2020 04:41:31 AM MESSAGE: DONE

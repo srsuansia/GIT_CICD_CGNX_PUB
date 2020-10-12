@@ -1,7 +1,0 @@
-INFO: 10/12/2020 04:38:47 AM MESSAGE: Beginning to DESTROY site HUBLI_SITE(16024731675010015)..
-INFO: 10/12/2020 04:38:47 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
-INFO: 10/12/2020 04:38:48 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
-INFO: 10/12/2020 04:38:49 AM MESSAGE: Disabling site..
-INFO: 10/12/2020 04:38:50 AM MESSAGE: No Change for Site HUBLI_SITE state (disabled).
-INFO: 10/12/2020 04:38:50 AM MESSAGE: Deleting Site HUBLI_SITE..
-INFO: 10/12/2020 04:38:52 AM MESSAGE: DONE
