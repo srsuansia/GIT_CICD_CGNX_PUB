@@ -15,3 +15,7 @@ INFO: 10/12/2020 02:29:47 AM MESSAGE: No Change for Site SITE_NEWYORK.
 INFO: 10/12/2020 02:29:47 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
 INFO: 10/12/2020 02:29:47 AM MESSAGE:  No Change for Waninterface Circuit to BSNL.
 ERROR: 10/12/2020 02:29:47 AM ERROR: Element SPOKE_01(4210024d-4f88-0811-bbea-40503cf61773) is already assigned to site BLR_SITE
+INFO: 10/12/2020 02:29:56 AM MESSAGE: No Change for Site SITE_NEWYORK.
+INFO: 10/12/2020 02:29:56 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 10/12/2020 02:29:56 AM MESSAGE:  No Change for Waninterface Circuit to BSNL.
+ERROR: 10/12/2020 02:29:56 AM ERROR: Element SPOKE_01(4210024d-4f88-0811-bbea-40503cf61773) is already assigned to site BLR_SITE
