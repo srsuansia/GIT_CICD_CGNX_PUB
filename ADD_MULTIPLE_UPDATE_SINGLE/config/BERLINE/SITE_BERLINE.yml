@@ -13,7 +13,7 @@ sites v4.5:
       street:
       street2:
     admin_state: monitor
-    description: Berline for (DC) HUB config testing
+    description: Testing Berling site for MT
     element_cluster_role: SPOKE
     elements v2.3:
       HUB_01:
