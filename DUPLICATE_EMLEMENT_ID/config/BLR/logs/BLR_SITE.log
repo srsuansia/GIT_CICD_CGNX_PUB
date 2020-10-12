@@ -5,3 +5,24 @@ INFO: 10/12/2020 02:29:10 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-
 INFO: 10/12/2020 02:29:10 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
 INFO: 10/12/2020 02:29:21 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 10 seconds out of 10.
 ERROR: 10/12/2020 02:29:31 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 10 seconds. Exiting.
+INFO: 10/12/2020 02:30:19 AM MESSAGE: No Change for Site BLR_SITE.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:  No Change for Spoke Cluster BLR_OFFICE_HA.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:  Element: Code is at correct version 5.4.1-b12.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:   No Change for Element SPOKE_01.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/12/2020 02:30:19 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/12/2020 02:30:20 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/12/2020 02:30:20 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/12/2020 02:30:20 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/12/2020 02:30:20 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/12/2020 02:30:20 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_01.
+INFO: 10/12/2020 02:30:20 AM MESSAGE:    No Change for BGP Global Config 16024697643290107.
+INFO: 10/12/2020 02:30:20 AM MESSAGE:    No Change for NTP 16024697285240153.
+INFO: 10/12/2020 02:30:20 AM MESSAGE:    Created dnsservices BLRDnsService01.
+INFO: 10/12/2020 02:30:21 AM MESSAGE:    No Change for Toolkit 16024697442740079.
+INFO: 10/12/2020 02:30:21 AM MESSAGE: No Change for Site BLR_SITE state (monitor).
+INFO: 10/12/2020 02:30:21 AM MESSAGE: DONE
