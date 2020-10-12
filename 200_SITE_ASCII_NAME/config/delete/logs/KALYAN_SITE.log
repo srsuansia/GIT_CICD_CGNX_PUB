@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:39:07 AM MESSAGE: Beginning to DESTROY site KALYAN_SITE(16024814234160143)..
+INFO: 10/12/2020 06:39:07 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:39:07 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:39:07 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:39:07 AM MESSAGE: No Change for Site KALYAN_SITE state (disabled).
+INFO: 10/12/2020 06:39:08 AM MESSAGE: Deleting Site KALYAN_SITE..
+INFO: 10/12/2020 06:39:08 AM MESSAGE: DONE

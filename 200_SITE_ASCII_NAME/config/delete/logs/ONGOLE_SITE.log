@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:40:55 AM MESSAGE: Beginning to DESTROY site ONGOLE_SITE(16024815172450137)..
+INFO: 10/12/2020 06:40:55 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:40:55 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:40:56 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:40:56 AM MESSAGE: No Change for Site ONGOLE_SITE state (disabled).
+INFO: 10/12/2020 06:40:56 AM MESSAGE: Deleting Site ONGOLE_SITE..
+INFO: 10/12/2020 06:40:56 AM MESSAGE: DONE

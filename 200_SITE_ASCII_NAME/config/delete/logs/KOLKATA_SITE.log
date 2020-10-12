@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:45:03 AM MESSAGE: Beginning to DESTROY site KOLKATA_SITE(16024814432080041)..
+INFO: 10/12/2020 06:45:03 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:45:03 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:45:04 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:45:04 AM MESSAGE: No Change for Site KOLKATA_SITE state (disabled).
+INFO: 10/12/2020 06:45:04 AM MESSAGE: Deleting Site KOLKATA_SITE..
+INFO: 10/12/2020 06:45:04 AM MESSAGE: DONE

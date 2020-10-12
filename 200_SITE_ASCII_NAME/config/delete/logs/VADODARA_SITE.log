@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:43:12 AM MESSAGE: Beginning to DESTROY site VADODARA_SITE(16024816640070157)..
+INFO: 10/12/2020 06:43:13 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:43:13 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:43:13 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:43:13 AM MESSAGE: No Change for Site VADODARA_SITE state (disabled).
+INFO: 10/12/2020 06:43:13 AM MESSAGE: Deleting Site VADODARA_SITE..
+INFO: 10/12/2020 06:43:14 AM MESSAGE: DONE

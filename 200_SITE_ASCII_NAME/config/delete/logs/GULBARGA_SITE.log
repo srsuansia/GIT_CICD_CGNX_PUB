@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:44:08 AM MESSAGE: Beginning to DESTROY site GULBARGA_SITE(16024813585210162)..
+INFO: 10/12/2020 06:44:08 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:44:08 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:44:08 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:44:08 AM MESSAGE: No Change for Site GULBARGA_SITE state (disabled).
+INFO: 10/12/2020 06:44:08 AM MESSAGE: Deleting Site GULBARGA_SITE..
+INFO: 10/12/2020 06:44:09 AM MESSAGE: DONE

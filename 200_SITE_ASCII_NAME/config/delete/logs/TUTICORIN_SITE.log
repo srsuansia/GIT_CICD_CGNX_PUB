@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:44:30 AM MESSAGE: Beginning to DESTROY site TUTICORIN_SITE(16024816584720081)..
+INFO: 10/12/2020 06:44:30 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:44:31 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:44:31 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:44:31 AM MESSAGE: No Change for Site TUTICORIN_SITE state (disabled).
+INFO: 10/12/2020 06:44:31 AM MESSAGE: Deleting Site TUTICORIN_SITE..
+INFO: 10/12/2020 06:44:31 AM MESSAGE: DONE

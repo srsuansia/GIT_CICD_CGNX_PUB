@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:40:26 AM MESSAGE: Beginning to DESTROY site BRAHMAPUR_SITE(16024812797070072)..
+INFO: 10/12/2020 06:40:27 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:40:27 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:40:27 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:40:27 AM MESSAGE: No Change for Site BRAHMAPUR_SITE state (disabled).
+INFO: 10/12/2020 06:40:27 AM MESSAGE: Deleting Site BRAHMAPUR_SITE..
+INFO: 10/12/2020 06:40:28 AM MESSAGE: DONE
