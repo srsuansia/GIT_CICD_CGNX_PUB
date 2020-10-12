@@ -7,3 +7,67 @@ INFO: 10/12/2020 10:23:54 AM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/12/2020 10:23:54 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 10.
 INFO: 10/12/2020 10:24:04 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/12/2020 10:24:14 AM ERROR: Machine 4210024d-4f88-0811-bbea-40503cf61773 Claim took longer than 10 seconds. Exiting.
+INFO: 10/12/2020 10:25:35 AM MESSAGE: No Change for Site SITE_NEWYORK.
+INFO: 10/12/2020 10:25:35 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 10/12/2020 10:25:36 AM MESSAGE:  No Change for Waninterface Circuit to BSNL.
+INFO: 10/12/2020 10:25:36 AM MESSAGE:  Element: Changing element from 5.4.1-b12 to 5.4.1-b13.
+INFO: 10/12/2020 10:25:37 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
+ERROR: 10/12/2020 10:25:37 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 Assign failed: 
+REQUEST: PUT /v2.3/api/tenants/2750/elements/16024982345380119
+REQUEST HEADERS:
+	User-Agent: python-requests/2.24.0 (CGX SDK v5.4.1b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 445
+REQUEST BODY:
+{
+    "id": "16024982345380119",
+    "_etag": 8,
+    "_schema": 0,
+    "site_id": "16024982337790030",
+    "name": "SPOKE_02",
+    "description": null,
+    "cluster_insertion_mode": null,
+    "cluster_member_id": null,
+    "l3_direct_private_wan_forwarding": false,
+    "l3_lan_forwarding": false,
+    "network_policysetstack_id": null,
+    "priority_policysetstack_id": null,
+    "spoke_ha_config": null,
+    "tags": null,
+    "nat_policysetstack_id": null,
+    "vpn_to_vpn_forwarding": false,
+    "sw_obj": null
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Mon, 12 Oct 2020 10:25:37 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 287
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1602498337686008099992963001643399602342",
+    "_error": [
+        {
+            "code": "INVALID_JSON_COMMON_ATTR_MISMATCH",
+            "message": "\"Schema or _etag attribute in input JSON is invalid.\""
+        }
+    ]
+}
