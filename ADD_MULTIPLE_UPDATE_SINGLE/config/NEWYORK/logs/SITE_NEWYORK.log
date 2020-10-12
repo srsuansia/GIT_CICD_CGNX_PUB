@@ -71,3 +71,25 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 10/12/2020 10:25:47 AM MESSAGE: No Change for Site SITE_NEWYORK.
+INFO: 10/12/2020 10:25:47 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 10/12/2020 10:25:47 AM MESSAGE:  No Change for Waninterface Circuit to BSNL.
+INFO: 10/12/2020 10:25:48 AM MESSAGE:  Element: Changing element from 5.4.1-b12 to 5.4.1-b13.
+INFO: 10/12/2020 10:25:48 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
+INFO: 10/12/2020 10:25:49 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/12/2020 10:25:59 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/12/2020 10:26:00 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/12/2020 10:26:00 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/12/2020 10:26:01 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/12/2020 10:26:01 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/12/2020 10:26:01 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/12/2020 10:26:01 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/12/2020 10:26:01 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/12/2020 10:26:01 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/12/2020 10:26:01 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/12/2020 10:26:01 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_02.
+INFO: 10/12/2020 10:26:02 AM MESSAGE:    No Change for BGP Global Config 16024983513980075.
+INFO: 10/12/2020 10:26:02 AM MESSAGE:    No Change for NTP 16024982345890128.
+INFO: 10/12/2020 10:26:02 AM MESSAGE:    No Change for Toolkit 16024982695520109.
+INFO: 10/12/2020 10:26:02 AM MESSAGE: No Change for Site SITE_NEWYORK state (active).
+INFO: 10/12/2020 10:26:02 AM MESSAGE: DONE
