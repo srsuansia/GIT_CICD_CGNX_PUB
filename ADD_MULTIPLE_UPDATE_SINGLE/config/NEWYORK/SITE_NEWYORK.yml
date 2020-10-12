@@ -13,7 +13,7 @@ sites v4.5:
       street:
       street2:
     admin_state: active
-    description: Testing Newyork site for MT
+    description: Testing Newyork site for update
     element_cluster_role: SPOKE
     elements v2.3:
       SPOKE_02:

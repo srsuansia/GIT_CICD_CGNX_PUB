@@ -13,7 +13,7 @@ sites v4.5:
       street:
       street2:
     admin_state: disabled
-    description: Testing Johannesburg for MT
+    description: Testing Johannesburg for Update
     element_cluster_role: HUB
     elements v2.3: {}
     extended_tags:
