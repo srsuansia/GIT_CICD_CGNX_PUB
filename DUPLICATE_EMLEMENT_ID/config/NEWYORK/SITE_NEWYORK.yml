@@ -25,7 +25,7 @@ sites v4.5:
         cluster_member_id:
         connected: true
         deployment_op:
-        description:
+        description: Testing duplicate element description change
         element_security_zones v2.0: []
         interfaces v4.9:
           '1':
