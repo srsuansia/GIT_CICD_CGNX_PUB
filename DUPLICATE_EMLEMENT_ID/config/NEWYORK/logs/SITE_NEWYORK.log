@@ -1,0 +1,4 @@
+INFO: 10/12/2020 03:01:28 AM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 10/12/2020 03:01:28 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/12/2020 03:01:29 AM MESSAGE:  Created waninterface Circuit to BSNL.
+ERROR: 10/12/2020 03:01:29 AM ERROR: Element SPOKE_01(4210b512-5243-d410-01cb-e8bd6e482e14) is already assigned to site BLR_SITE
