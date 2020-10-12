@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:39:59 AM MESSAGE: Beginning to DESTROY site NAGERCOIL_SITE(16024814984480201)..
+INFO: 10/12/2020 06:39:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:39:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:39:59 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:39:59 AM MESSAGE: No Change for Site NAGERCOIL_SITE state (disabled).
+INFO: 10/12/2020 06:39:59 AM MESSAGE: Deleting Site NAGERCOIL_SITE..
+INFO: 10/12/2020 06:40:00 AM MESSAGE: DONE

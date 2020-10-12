@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:42:57 AM MESSAGE: Beginning to DESTROY site CALICUT_SITE(16024812879890054)..
+INFO: 10/12/2020 06:42:57 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:42:57 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:42:57 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:42:57 AM MESSAGE: No Change for Site CALICUT_SITE state (disabled).
+INFO: 10/12/2020 06:42:58 AM MESSAGE: Deleting Site CALICUT_SITE..
+INFO: 10/12/2020 06:42:58 AM MESSAGE: DONE

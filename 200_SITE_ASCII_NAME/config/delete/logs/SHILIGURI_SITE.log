@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:40:15 AM MESSAGE: Beginning to DESTROY site SHILIGURI_SITE(16024815966080104)..
+INFO: 10/12/2020 06:40:15 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:40:15 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:40:16 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:40:16 AM MESSAGE: No Change for Site SHILIGURI_SITE state (disabled).
+INFO: 10/12/2020 06:40:16 AM MESSAGE: Deleting Site SHILIGURI_SITE..
+INFO: 10/12/2020 06:40:16 AM MESSAGE: DONE

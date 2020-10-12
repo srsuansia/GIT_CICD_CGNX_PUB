@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:44:32 AM MESSAGE: Beginning to DESTROY site MUMBAI_SITE(16024814907220061)..
+INFO: 10/12/2020 06:44:32 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:44:32 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:44:33 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:44:33 AM MESSAGE: No Change for Site MUMBAI_SITE state (disabled).
+INFO: 10/12/2020 06:44:33 AM MESSAGE: Deleting Site MUMBAI_SITE..
+INFO: 10/12/2020 06:44:33 AM MESSAGE: DONE

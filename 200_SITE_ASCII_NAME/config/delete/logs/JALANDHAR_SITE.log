@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:39:30 AM MESSAGE: Beginning to DESTROY site JALANDHAR_SITE(16024814094540146)..
+INFO: 10/12/2020 06:39:30 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:39:31 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:39:32 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:39:32 AM MESSAGE: No Change for Site JALANDHAR_SITE state (disabled).
+INFO: 10/12/2020 06:39:32 AM MESSAGE: Deleting Site JALANDHAR_SITE..
+INFO: 10/12/2020 06:39:33 AM MESSAGE: DONE

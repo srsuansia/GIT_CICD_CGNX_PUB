@@ -1,0 +1,7 @@
+INFO: 10/12/2020 06:43:37 AM MESSAGE: Beginning to DESTROY site BHUSAVAL_SITE(16024812701660129)..
+INFO: 10/12/2020 06:43:37 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 06:43:37 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 06:43:38 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 06:43:38 AM MESSAGE: No Change for Site BHUSAVAL_SITE state (disabled).
+INFO: 10/12/2020 06:43:38 AM MESSAGE: Deleting Site BHUSAVAL_SITE..
+INFO: 10/12/2020 06:43:38 AM MESSAGE: DONE
