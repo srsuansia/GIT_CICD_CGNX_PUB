@@ -4,19 +4,19 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-10-12T02:45:46.521404Z
-+# Created at 2020-10-12T02:45:52.882116Z
+-# Created at 2020-10-12T02:45:56.187155Z
++# Created at 2020-10-12T02:46:02.656635Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    BLR_SITE:
      address:
-@@ -407,7 +408,7 @@
-               stalepath_time: 120
-           static v2.0: []
-         serial_number: 4210b512-5243-d410-01cb-e8bd6e482e14
--        software_version: 5.4.3-a8
-+        software_version: 5.4.1-b12
-         spoke_ha_config:
-         state: bound
-         tags:
+@@ -23,7 +24,7 @@
+         - SPOKE
+         cluster_insertion_mode:
+         cluster_member_id:
+-        connected: true
++        connected: false
+         deployment_op:
+         description:
+         dnsservices v2.0:
