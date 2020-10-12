@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-12T10:48:14.034711Z
+# Created at 2020-10-12T11:27:25.734720Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_NEWYORK:
@@ -377,7 +377,7 @@ sites v4.5:
               stalepath_time: 120
           static v2.0: []
         serial_number: 4210024d-4f88-0811-bbea-40503cf61773
-        software_version: 5.4.1-b13
+        software_version: 5.4.1-b12
         spoke_ha_config:
         state: bound
         tags:
