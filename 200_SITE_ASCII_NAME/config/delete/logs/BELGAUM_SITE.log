@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:43:02 AM MESSAGE: Beginning to DESTROY site BELGAUM_SITE(16024734470780142)..
+INFO: 10/12/2020 04:43:02 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:43:02 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:43:02 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:43:03 AM MESSAGE: No Change for Site BELGAUM_SITE state (disabled).
+INFO: 10/12/2020 04:43:03 AM MESSAGE: Deleting Site BELGAUM_SITE..
+INFO: 10/12/2020 04:43:03 AM MESSAGE: DONE

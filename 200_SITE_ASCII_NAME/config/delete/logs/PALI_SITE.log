@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:39:43 AM MESSAGE: Beginning to DESTROY site PALI_SITE(16024732358750093)..
+INFO: 10/12/2020 04:39:43 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:39:43 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:39:44 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:39:44 AM MESSAGE: No Change for Site PALI_SITE state (disabled).
+INFO: 10/12/2020 04:39:44 AM MESSAGE: Deleting Site PALI_SITE..
+INFO: 10/12/2020 04:39:44 AM MESSAGE: DONE

@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:41:40 AM MESSAGE: Beginning to DESTROY site DEHRA DUN_SITE(16024733475970254)..
+INFO: 10/12/2020 04:41:40 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:41:40 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:41:40 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:41:40 AM MESSAGE: No Change for Site DEHRA DUN_SITE state (disabled).
+INFO: 10/12/2020 04:41:41 AM MESSAGE: Deleting Site DEHRA DUN_SITE..
+INFO: 10/12/2020 04:41:41 AM MESSAGE: DONE

@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:39:58 AM MESSAGE: Beginning to DESTROY site SOLAPUR_SITE(16024732473890145)..
+INFO: 10/12/2020 04:39:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:39:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:40:01 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:40:02 AM MESSAGE: No Change for Site SOLAPUR_SITE state (disabled).
+INFO: 10/12/2020 04:40:02 AM MESSAGE: Deleting Site SOLAPUR_SITE..
+INFO: 10/12/2020 04:40:05 AM MESSAGE: DONE

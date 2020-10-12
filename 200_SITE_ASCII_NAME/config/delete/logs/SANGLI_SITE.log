@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:36:59 AM MESSAGE: Beginning to DESTROY site SANGLI_SITE(16024730490760024)..
+INFO: 10/12/2020 04:36:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:36:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:37:00 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:37:00 AM MESSAGE: No Change for Site SANGLI_SITE state (disabled).
+INFO: 10/12/2020 04:37:00 AM MESSAGE: Deleting Site SANGLI_SITE..
+INFO: 10/12/2020 04:37:01 AM MESSAGE: DONE

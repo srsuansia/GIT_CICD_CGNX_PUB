@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:39:36 AM MESSAGE: Beginning to DESTROY site BELLARY_SITE(16024732279640047)..
+INFO: 10/12/2020 04:39:36 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:39:36 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:39:36 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:39:36 AM MESSAGE: No Change for Site BELLARY_SITE state (disabled).
+INFO: 10/12/2020 04:39:37 AM MESSAGE: Deleting Site BELLARY_SITE..
+INFO: 10/12/2020 04:39:37 AM MESSAGE: DONE

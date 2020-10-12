@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:39:47 AM MESSAGE: Beginning to DESTROY site SIRSA_SITE(16024732396580248)..
+INFO: 10/12/2020 04:39:47 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:39:47 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:39:47 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:39:47 AM MESSAGE: No Change for Site SIRSA_SITE state (disabled).
+INFO: 10/12/2020 04:39:47 AM MESSAGE: Deleting Site SIRSA_SITE..
+INFO: 10/12/2020 04:39:48 AM MESSAGE: DONE

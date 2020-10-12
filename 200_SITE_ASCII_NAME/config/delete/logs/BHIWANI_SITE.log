@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:37:48 AM MESSAGE: Beginning to DESTROY site BHIWANI_SITE(16024730992230052)..
+INFO: 10/12/2020 04:37:48 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:37:48 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:37:48 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:37:48 AM MESSAGE: No Change for Site BHIWANI_SITE state (disabled).
+INFO: 10/12/2020 04:37:48 AM MESSAGE: Deleting Site BHIWANI_SITE..
+INFO: 10/12/2020 04:37:49 AM MESSAGE: DONE

@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:36:41 AM MESSAGE: Beginning to DESTROY site JAMMU_SITE(16024730287380107)..
+INFO: 10/12/2020 04:36:41 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:36:41 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:36:42 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:36:42 AM MESSAGE: No Change for Site JAMMU_SITE state (disabled).
+INFO: 10/12/2020 04:36:42 AM MESSAGE: Deleting Site JAMMU_SITE..
+INFO: 10/12/2020 04:36:42 AM MESSAGE: DONE

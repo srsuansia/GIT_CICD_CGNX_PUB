@@ -1,0 +1,7 @@
+INFO: 10/12/2020 04:40:07 AM MESSAGE: Beginning to DESTROY site PRODDATUR_SITE(16024732494210224)..
+INFO: 10/12/2020 04:40:07 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/12/2020 04:40:08 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/12/2020 04:40:09 AM MESSAGE: Disabling site..
+INFO: 10/12/2020 04:40:10 AM MESSAGE: No Change for Site PRODDATUR_SITE state (disabled).
+INFO: 10/12/2020 04:40:10 AM MESSAGE: Deleting Site PRODDATUR_SITE..
+INFO: 10/12/2020 04:40:10 AM MESSAGE: DONE
