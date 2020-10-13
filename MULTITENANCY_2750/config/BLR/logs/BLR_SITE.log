@@ -6,3 +6,66 @@ INFO: 10/13/2020 10:16:40 AM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/13/2020 10:16:40 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 10.
 INFO: 10/13/2020 10:16:50 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/13/2020 10:17:00 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 10 seconds. Exiting.
+INFO: 10/13/2020 10:19:04 AM MESSAGE: No Change for Site BLR_SITE.
+INFO: 10/13/2020 10:19:04 AM MESSAGE:  No Change for Spoke Cluster BLR_OFFICE_HA.
+INFO: 10/13/2020 10:19:05 AM MESSAGE:  Element: Changing element from 5.4.1-b12 to 5.4.3-a8.
+INFO: 10/13/2020 10:19:05 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+ERROR: 10/13/2020 10:19:05 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 Assign failed: 
+REQUEST: PUT /v2.3/api/tenants/2750/elements/16025842004760162
+REQUEST HEADERS:
+	User-Agent: python-requests/2.24.0 (CGX SDK v5.4.1b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 445
+REQUEST BODY:
+{
+    "id": "16025842004760162",
+    "_etag": 8,
+    "_schema": 0,
+    "site_id": "16025841998940058",
+    "name": "SPOKE_01",
+    "description": null,
+    "cluster_insertion_mode": null,
+    "cluster_member_id": null,
+    "l3_direct_private_wan_forwarding": false,
+    "l3_lan_forwarding": false,
+    "network_policysetstack_id": null,
+    "priority_policysetstack_id": null,
+    "spoke_ha_config": null,
+    "tags": null,
+    "nat_policysetstack_id": null,
+    "vpn_to_vpn_forwarding": false,
+    "sw_obj": null
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Tue, 13 Oct 2020 10:19:05 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 247
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1602584345715015000006099702763080389840",
+    "_warning": [
+        {
+            "code": "INVALID_REQUEST_ERROR_0001",
+            "message": "Invalid API request."
+        }
+    ]
+}
