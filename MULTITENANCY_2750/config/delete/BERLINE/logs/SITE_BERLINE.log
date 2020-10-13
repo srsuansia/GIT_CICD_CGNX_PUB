@@ -1,0 +1,16 @@
+INFO: 10/13/2020 10:07:37 AM MESSAGE: Beginning to DESTROY site SITE_BERLINE(16025773368860203)..
+INFO: 10/13/2020 10:07:37 AM MESSAGE: Un-assigning and de-claiming Element HUB_01(42155366-ed15-5343-0c8e-5c8ffb1631e4) bound to 16025773368860203.
+INFO: 10/13/2020 10:07:37 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/13/2020 10:07:37 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/13/2020 10:07:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/13/2020 10:07:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/13/2020 10:07:38 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from HUB_01:
+INFO: 10/13/2020 10:07:38 AM MESSAGE:    No Change for Spoke HA in Element HUB_01.
+INFO: 10/13/2020 10:07:39 AM MESSAGE:  Deleting Unconfigured Waninterface BSNL-test.
+INFO: 10/13/2020 10:07:39 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/13/2020 10:07:40 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/13/2020 10:07:40 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/13/2020 10:07:40 AM MESSAGE: Disabling site..
+INFO: 10/13/2020 10:07:40 AM MESSAGE: Updated Site SITE_BERLINE to state disabled.
+INFO: 10/13/2020 10:07:41 AM MESSAGE: Deleting Site SITE_BERLINE..
+INFO: 10/13/2020 10:07:42 AM MESSAGE: DONE
