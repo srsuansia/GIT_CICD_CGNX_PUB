@@ -1,0 +1,83 @@
+--- /tmp/ci/2750/GIT_CICD_CGNX_PUB/MULTITENANCY_2750/config/BLR/BLR_SITE.yml
++++ /tmp/ci/2750/BLR_SITE_controller.yml
+@@ -1,8 +1,9 @@
+ ---
+ type: cloudgenix template
+ version: 1.0
+-# Created at 2020-10-08T05:29:23.646152Z
++# Created at 2020-10-13T08:25:32.858226Z
+ # by system_2750@soumyars.com
++# FROM_CLOUDBLADE
+ sites v4.5:
+   BLR_SITE:
+     address:
+@@ -26,36 +27,6 @@
+         connected: true
+         deployment_op:
+         description:
+-        dnsservices v2.0:
+-          cache_config:
+-            cache_size: 150
+-          description: 'testing dnsservice '
+-          dns_queries_metadata:
+-            add_customer_premises_equipment:
+-              identifier_text: ''
+-              type: text
+-            add_subnets:
+-            - ipv4_address: 4.4.4.4
+-              ipv4_prefix_length: 16
+-              ipv6_prefix_length: 0
+-          dnsservice_profile_id: BLRDnsProfile01
+-          dnsservicerole_bindings:
+-          - dnsservicerole_id: BLRForwardRole
+-            interfaces:
+-            - interface_id: controller 1
+-          domains_to_addresses:
+-          - domain_names:
+-            - testdomain.com
+-            ipv4_address: 5.5.5.5
+-          domains_to_interfaces:
+-          - domain_names:
+-            - testdomain.com
+-            interface_id: '1'
+-          element_id: SPOKE_01
+-          enabled: true
+-          max_concurrent_dns_queries: 150
+-          name: BLRDnsService01
+-          tags:
+         element_security_zones v2.0: []
+         interfaces v4.9:
+           '1':
+@@ -387,29 +358,12 @@
+         priority_policysetstack_id:
+         role: SPOKE
+         routing:
+-          bgp:
+-            global_config v2.2:
+-              admin_distance: 20
+-              adv_interval: 1
+-              graceful_restart: false
+-              hold_time: 90
+-              keepalive_time: 30
+-              local_as_num:
+-              maximum_paths: 1
+-              md5_secret:
+-              multi_hop_limit: 1
+-              peer_auth_type: none
+-              peer_retry_time: 120
+-              prefix_adv_type:
+-              prefix_adv_type_to_lan: default
+-              prefixes_to_adv_to_wan:
+-              router_id:
+-              stalepath_time: 120
++          bgp: {}
+           static v2.0: []
+         serial_number: 4210b512-5243-d410-01cb-e8bd6e482e14
+-        software_version: 5.4.1-b12
++        software_version: 5.4.3-a8
+         spoke_ha_config:
+-        state: bound
++        state: bound_in_progress
+         tags:
+         tenant_id: '2750'
+         toolkit v2.2:
