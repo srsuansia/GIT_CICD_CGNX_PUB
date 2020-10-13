@@ -1,0 +1,8 @@
+INFO: 10/13/2020 10:17:02 AM MESSAGE: Created Site SITE_NEWYORK.
+INFO: 10/13/2020 10:17:02 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/13/2020 10:17:02 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/13/2020 10:17:02 AM MESSAGE:  Element: Code is at correct version 5.4.1-b13.
+INFO: 10/13/2020 10:17:02 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
+INFO: 10/13/2020 10:17:02 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/13/2020 10:17:13 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 10 seconds out of 10.
+ERROR: 10/13/2020 10:17:23 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 10 seconds. Exiting.
