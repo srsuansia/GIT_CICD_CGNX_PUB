@@ -69,3 +69,25 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 10/13/2020 10:19:17 AM MESSAGE: No Change for Site BLR_SITE.
+INFO: 10/13/2020 10:19:17 AM MESSAGE:  No Change for Spoke Cluster BLR_OFFICE_HA.
+INFO: 10/13/2020 10:19:18 AM MESSAGE:  Element: Changing element from 5.4.1-b12 to 5.4.3-a8.
+INFO: 10/13/2020 10:19:19 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 10/13/2020 10:19:20 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/13/2020 10:19:30 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/13/2020 10:19:30 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/13/2020 10:19:30 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/13/2020 10:19:30 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/13/2020 10:19:30 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/13/2020 10:19:30 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    No Change for Spoke HA in Element SPOKE_01.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    No Change for BGP Global Config 16025843619520087.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    No Change for NTP 16025842004940171.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    Created dnsservices BLRDnsService01.
+INFO: 10/13/2020 10:19:31 AM MESSAGE:    No Change for Toolkit 16025842245170246.
+INFO: 10/13/2020 10:19:31 AM MESSAGE: No Change for Site BLR_SITE state (monitor).
+INFO: 10/13/2020 10:19:31 AM MESSAGE: DONE
