@@ -111,3 +111,9 @@ INFO: 10/15/2020 04:27:05 PM MESSAGE:  No Change for Waninterface Circuit to Vod
 INFO: 10/15/2020 04:27:06 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/15/2020 04:27:16 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/15/2020 04:27:26 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 10 seconds. Exiting.
+INFO: 10/15/2020 04:27:36 PM MESSAGE: No Change for Site SITE_Madagascar.
+INFO: 10/15/2020 04:27:36 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/15/2020 04:27:37 PM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/15/2020 04:27:37 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/15/2020 04:27:47 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 04:27:57 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 10 seconds. Exiting.
