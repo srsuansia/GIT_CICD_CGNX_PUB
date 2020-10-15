@@ -285,3 +285,127 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 10/15/2020 12:29:51 PM MESSAGE: No Change for Site SITE_BLR.
+INFO: 10/15/2020 12:29:51 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/15/2020 12:29:51 PM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/15/2020 12:29:51 PM MESSAGE:  No Change for Spoke Cluster BLR_HA.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:   No Change for Element BLR_HA_ION_01.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 1.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 4.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 5.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 6.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 7.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 8.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Interface 9.
+INFO: 10/15/2020 12:29:52 PM MESSAGE:    No Change for Spoke HA in Element BLR_HA_ION_01.
+INFO: 10/15/2020 12:29:53 PM MESSAGE:    No Change for BGP Global Config 16027649001110012.
+INFO: 10/15/2020 12:29:53 PM MESSAGE:    No Change for NTP 16027646245920248.
+INFO: 10/15/2020 12:29:53 PM MESSAGE:    No Change for dnsservices blr_dns_service_config.
+INFO: 10/15/2020 12:29:53 PM MESSAGE:    No Change for Toolkit 16027646389090185.
+INFO: 10/15/2020 12:29:53 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/15/2020 12:29:53 PM MESSAGE:   No Change for Element BLR_HA_ION_02.
+INFO: 10/15/2020 12:29:53 PM MESSAGE:    No Change for Interface 1.
+INFO: 10/15/2020 12:29:53 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Interface 4.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Interface 5.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Interface 6.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Interface 7.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Interface 8.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Interface 9.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for Spoke HA in Element BLR_HA_ION_02.
+INFO: 10/15/2020 12:29:54 PM MESSAGE:    No Change for BGP Global Config 16027649571850015.
+ERROR: 10/15/2020 12:29:54 PM ERROR: NTP update failed: 
+REQUEST: PUT /v2.0/api/tenants/2750/elements/16027649099870028/ntp/16027649100040037
+REQUEST HEADERS:
+	User-Agent: python-requests/2.24.0 (CGX SDK v5.4.1b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 762
+REQUEST BODY:
+{
+    "id": "16027649100040037",
+    "_etag": 1,
+    "_schema": 1,
+    "_created_on_utc": 16027649100040037,
+    "_updated_on_utc": 16027649100040037,
+    "_debug": null,
+    "_info": null,
+    "_warning": null,
+    "_error": null,
+    "name": "default",
+    "description": "Default NTP template created by super user.",
+    "tags": null,
+    "ntp_servers": [
+        {
+            "host": "0.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "1.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "2.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "3.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "time.nist.gov",
+            "max_poll": 15,
+            "min_poll": 13,
+            "version": 4
+        }
+    ],
+    "source_interface_ids": [
+        "16027314864080228"
+    ]
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Thu, 15 Oct 2020 12:29:54 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 378
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1602764994876003700002758687766785753475",
+    "_error": [
+        {
+            "code": "NTP_CONFIG_INVALID_INTERFACE_IDS",
+            "message": "Source interface ids cannot be empty and should be valid.Interface ids should not be port that is part of logical interface group like bypass pair."
+        }
+    ]
+}
