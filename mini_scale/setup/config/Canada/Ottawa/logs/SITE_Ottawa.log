@@ -92,3 +92,9 @@ INFO: 10/15/2020 04:15:13 PM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/15/2020 04:15:13 PM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 0 seconds out of 10.
 INFO: 10/15/2020 04:15:24 PM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/15/2020 04:15:34 PM ERROR: Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc Claim took longer than 10 seconds. Exiting.
+INFO: 10/15/2020 04:22:06 PM MESSAGE: No Change for Site SITE_Ottawa.
+INFO: 10/15/2020 04:22:06 PM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/15/2020 04:22:06 PM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/15/2020 04:22:06 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/15/2020 04:22:16 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 04:22:26 PM ERROR: Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc state transition took longer than 10 seconds. Exiting.
