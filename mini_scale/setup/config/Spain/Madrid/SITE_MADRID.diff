@@ -1,15 +1,15 @@
---- /tmp/ci/2750/GIT_CICD_CGNX_PUB/mini_scale/setup/config/NewZealand/Wellington/SITE_Wellington.yml
-+++ /tmp/ci/2750/SITE_Wellington_controller.yml
+--- /tmp/ci/2750/GIT_CICD_CGNX_PUB/mini_scale/setup/config/Spain/Madrid/SITE_MADRID.yml
++++ /tmp/ci/2750/SITE_MADRID_controller.yml
 @@ -1,8 +1,9 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-10-15T14:07:02.437490Z
-+# Created at 2020-10-15T14:09:40.104911Z
+-# Created at 2020-10-15T14:07:47.280094Z
++# Created at 2020-10-15T14:09:45.247218Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
-   SITE_Wellington:
+   SITE_MADRID:
      address:
 @@ -23,7 +24,7 @@
          - SPOKE
