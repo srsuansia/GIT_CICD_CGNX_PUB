@@ -4,19 +4,19 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-10-15T12:42:29.398545Z
-+# Created at 2020-10-15T13:55:29.981629Z
+-# Created at 2020-10-15T13:55:35.573315Z
++# Created at 2020-10-15T13:55:43.436335Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    SITE_BLR:
      address:
-@@ -434,7 +435,7 @@
+@@ -23,7 +24,7 @@
          - SPOKE
          cluster_insertion_mode:
          cluster_member_id:
--        connected: true
-+        connected: false
+-        connected: false
++        connected: true
          deployment_op:
          description:
-         element_security_zones v2.0: []
+         dnsservices v2.0:
