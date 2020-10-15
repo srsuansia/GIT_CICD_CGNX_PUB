@@ -13,7 +13,7 @@ sites v4.5:
       street: Brigade Tower
       street2:
     admin_state: active
-    description: CGNX LAB - BLR Site
+    description: CGNX LAB - BLR HA Site
     element_cluster_role: SPOKE
     elements v2.3:
       BLR_HA_ION_01:
