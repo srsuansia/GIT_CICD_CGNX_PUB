@@ -1,0 +1,7 @@
+INFO: 10/15/2020 04:06:49 PM MESSAGE: Beginning to DESTROY site SITE_SFO(16027734725350078)..
+INFO: 10/15/2020 04:06:49 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/15/2020 04:06:50 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to T-Mobile.
+INFO: 10/15/2020 04:06:50 PM MESSAGE: Disabling site..
+INFO: 10/15/2020 04:06:50 PM MESSAGE: Updated Site SITE_SFO to state disabled.
+INFO: 10/15/2020 04:06:50 PM MESSAGE: Deleting Site SITE_SFO..
+INFO: 10/15/2020 04:06:51 PM MESSAGE: DONE
