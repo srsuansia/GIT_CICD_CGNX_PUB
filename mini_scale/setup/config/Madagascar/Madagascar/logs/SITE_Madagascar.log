@@ -93,3 +93,9 @@ INFO: 10/15/2020 04:16:25 PM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/15/2020 04:16:25 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 10.
 INFO: 10/15/2020 04:16:35 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/15/2020 04:16:45 PM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 10 seconds. Exiting.
+INFO: 10/15/2020 04:26:01 PM MESSAGE: No Change for Site SITE_Madagascar.
+INFO: 10/15/2020 04:26:02 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/15/2020 04:26:02 PM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/15/2020 04:26:02 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/15/2020 04:26:12 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 04:26:22 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 10 seconds. Exiting.
