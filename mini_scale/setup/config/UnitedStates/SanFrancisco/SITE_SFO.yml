@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-15T11:48:33.917987Z
+# Created at 2020-10-15T14:34:19.981553Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_SFO:
@@ -359,7 +359,6 @@ sites v4.5:
             min_poll: 13
             version: 4
           source_interface_ids:
-          - '16027316237040083'
           tags:
         priority_policysetstack_id:
         role: HUB
@@ -410,7 +409,7 @@ sites v4.5:
         vpn_to_vpn_forwarding: false
     extended_tags:
     hubclusters v2.0:
-      default-2750-16027297815780111:
+      default-2750-16027709321780185:
         admin_up: true
         load_alarm_threshold: 90
         subscription_factor: 0.5
