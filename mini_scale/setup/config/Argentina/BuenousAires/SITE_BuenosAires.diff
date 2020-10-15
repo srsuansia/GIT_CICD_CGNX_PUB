@@ -4,8 +4,8 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-10-15T14:34:18.201394Z
-+# Created at 2020-10-15T16:24:49.610943Z
+-# Created at 2020-10-15T16:24:53.758981Z
++# Created at 2020-10-15T16:30:32.975749Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
@@ -15,8 +15,8 @@
          - SPOKE
          cluster_insertion_mode:
          cluster_member_id:
--        connected: true
-+        connected: false
+-        connected: false
++        connected: true
          deployment_op:
          description:
          element_security_zones v2.0: []
