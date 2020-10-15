@@ -7,3 +7,20 @@ INFO: 10/15/2020 12:24:42 PM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/15/2020 12:24:43 PM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 0 seconds out of 10.
 INFO: 10/15/2020 12:24:53 PM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/15/2020 12:25:03 PM ERROR: Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc Claim took longer than 10 seconds. Exiting.
+INFO: 10/15/2020 12:31:22 PM MESSAGE: No Change for Site SITE_Ottawa.
+INFO: 10/15/2020 12:31:23 PM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/15/2020 12:31:23 PM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/15/2020 12:31:23 PM MESSAGE:  Element: Code is at correct version 5.4.3-a7.
+INFO: 10/15/2020 12:31:23 PM MESSAGE:   Assigning Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc.
+INFO: 10/15/2020 12:31:23 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/15/2020 12:31:34 PM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/15/2020 12:31:36 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/15/2020 12:31:36 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/15/2020 12:31:37 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/15/2020 12:31:37 PM MESSAGE:    No Change for Spoke HA in Element ION_CANADA.
+INFO: 10/15/2020 12:31:38 PM MESSAGE:    No Change for BGP Global Config 16027650853010239.
+INFO: 10/15/2020 12:31:38 PM MESSAGE:    No Change for NTP 16027646827070107.
+INFO: 10/15/2020 12:31:38 PM MESSAGE:    Created dnsservices dns_canada.
+INFO: 10/15/2020 12:31:39 PM MESSAGE:    No Change for Toolkit 16027647009120061.
+INFO: 10/15/2020 12:31:39 PM MESSAGE: No Change for Site SITE_Ottawa state (active).
+INFO: 10/15/2020 12:31:39 PM MESSAGE: DONE
