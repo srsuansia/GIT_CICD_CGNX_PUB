@@ -1,0 +1,63 @@
+---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-15T12:42:31.422643Z
+# by system_2750@soumyars.com
+sites v4.5:
+  SITE_Yakutsk:
+    address:
+      city: Yakutsk
+      country: Russia
+      post_code:
+      state:
+      street:
+      street2:
+    admin_state: active
+    description: Chinese spy site @ Yakutsk
+    element_cluster_role: SPOKE
+    elements v2.3: {}
+    extended_tags:
+    location:
+      description:
+      latitude: 62.03545379638672
+      longitude: 129.67547607421875
+    nat_policysetstack_id: Default-NATPolicySetStack
+    network_policysetstack_id: NetworkPolicySetStack
+    policy_set_id:
+    priority_policysetstack_id: PriorityPolicySetStack
+    security_policyset_id:
+    service_binding: Preset Domain
+    tags:
+    waninterfaces v2.5:
+      Circuit to T-Mobile:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: Metered 5G Internet
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: T-Mobile
+        network_type: publicwan
+        tags:
+        type: publicwan
+        vpnlink_configuration:
+      Circuit to Vodafone:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: Leased-Line
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: Vodafone
+        network_type: privatewan
+        tags:
+        type: privatewan
+        vpnlink_configuration:

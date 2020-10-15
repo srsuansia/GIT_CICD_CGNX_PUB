@@ -1,0 +1,63 @@
+---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-10-15T12:42:29.725515Z
+# by system_2750@soumyars.com
+sites v4.5:
+  SITE_BuenosAires:
+    address:
+      city: Buenos Aires
+      country: Argentina
+      post_code:
+      state:
+      street:
+      street2:
+    admin_state: active
+    description: PAN Office in Argentina
+    element_cluster_role: SPOKE
+    elements v2.3: {}
+    extended_tags:
+    location:
+      description:
+      latitude: -34.60368347167969
+      longitude: -58.38155746459961
+    nat_policysetstack_id: Default-NATPolicySetStack
+    network_policysetstack_id: NetworkPolicySetStack
+    policy_set_id:
+    priority_policysetstack_id: PriorityPolicySetStack
+    security_policyset_id:
+    service_binding: Preset Domain
+    tags:
+    waninterfaces v2.5:
+      Circuit to AT&T:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: Internet Cable
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: AT&T
+        network_type: publicwan
+        tags:
+        type: publicwan
+        vpnlink_configuration:
+      Circuit to Verizon:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: MPLS
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: Verizon
+        network_type: privatewan
+        tags:
+        type: privatewan
+        vpnlink_configuration:
