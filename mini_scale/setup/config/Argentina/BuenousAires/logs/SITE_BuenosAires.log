@@ -856,3 +856,12 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 10/15/2020 02:49:59 PM MESSAGE: Created Site SITE_BuenosAires.
+INFO: 10/15/2020 02:49:59 PM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/15/2020 02:49:59 PM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/15/2020 02:49:59 PM MESSAGE:  Machine 4210024d-4f88-0811-bbea-40503cf61773 is not CLAIMED, attempting to claim..
+INFO: 10/15/2020 02:49:59 PM MESSAGE:  Checking Machine 4210024d-4f88-0811-bbea-40503cf61773..
+INFO: 10/15/2020 02:49:59 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/15/2020 02:50:00 PM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 10.
+INFO: 10/15/2020 02:50:10 PM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 02:50:20 PM ERROR: Machine 4210024d-4f88-0811-bbea-40503cf61773 Claim took longer than 10 seconds. Exiting.
