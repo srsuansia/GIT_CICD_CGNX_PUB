@@ -1,0 +1,10 @@
+INFO: 10/15/2020 12:47:02 PM MESSAGE: Created Site SITE_BLR.
+INFO: 10/15/2020 12:47:02 PM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/15/2020 12:47:03 PM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 10/15/2020 12:47:03 PM MESSAGE:  Created Spoke Cluster BLR_HA.
+INFO: 10/15/2020 12:47:03 PM MESSAGE:  Machine 42108316-62af-0a63-0ed5-9ef9888ec291 is not CLAIMED, attempting to claim..
+INFO: 10/15/2020 12:47:03 PM MESSAGE:  Checking Machine 42108316-62af-0a63-0ed5-9ef9888ec291..
+INFO: 10/15/2020 12:47:03 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/15/2020 12:47:03 PM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 10.
+INFO: 10/15/2020 12:47:14 PM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 12:47:24 PM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 10 seconds. Exiting.
