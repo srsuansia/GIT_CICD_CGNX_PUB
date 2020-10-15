@@ -29,3 +29,10 @@ INFO: 10/15/2020 12:48:31 PM MESSAGE:  No Change for Spoke Cluster BLR_HA.
 INFO: 10/15/2020 12:48:32 PM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/15/2020 12:48:42 PM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/15/2020 12:48:52 PM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 10 seconds. Exiting.
+INFO: 10/15/2020 12:49:00 PM MESSAGE: No Change for Site SITE_BLR.
+INFO: 10/15/2020 12:49:00 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/15/2020 12:49:00 PM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/15/2020 12:49:00 PM MESSAGE:  No Change for Spoke Cluster BLR_HA.
+INFO: 10/15/2020 12:49:00 PM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/15/2020 12:49:10 PM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 12:49:20 PM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 10 seconds. Exiting.
