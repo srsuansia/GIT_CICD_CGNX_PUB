@@ -1,0 +1,9 @@
+INFO: 10/15/2020 12:25:30 PM MESSAGE: Created Site SITE_Stockholm.
+INFO: 10/15/2020 12:25:30 PM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/15/2020 12:25:30 PM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/15/2020 12:25:30 PM MESSAGE:  Machine 4210c205-332d-3591-47ad-27689e5858ca is not CLAIMED, attempting to claim..
+INFO: 10/15/2020 12:25:30 PM MESSAGE:  Checking Machine 4210c205-332d-3591-47ad-27689e5858ca..
+INFO: 10/15/2020 12:25:30 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/15/2020 12:25:31 PM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 0 seconds out of 10.
+INFO: 10/15/2020 12:25:41 PM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 12:25:51 PM ERROR: Machine 4210c205-332d-3591-47ad-27689e5858ca Claim took longer than 10 seconds. Exiting.

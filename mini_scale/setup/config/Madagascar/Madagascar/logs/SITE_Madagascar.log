@@ -1,0 +1,9 @@
+INFO: 10/15/2020 12:25:52 PM MESSAGE: Created Site SITE_Madagascar.
+INFO: 10/15/2020 12:25:53 PM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/15/2020 12:25:53 PM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/15/2020 12:25:53 PM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 10/15/2020 12:25:53 PM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 10/15/2020 12:25:53 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/15/2020 12:25:53 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 10.
+INFO: 10/15/2020 12:26:04 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 12:26:14 PM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 10 seconds. Exiting.
