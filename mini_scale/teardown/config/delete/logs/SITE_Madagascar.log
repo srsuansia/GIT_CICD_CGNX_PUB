@@ -18,3 +18,10 @@ INFO: 10/15/2020 12:12:23 PM MESSAGE: Disabling site..
 INFO: 10/15/2020 12:12:23 PM MESSAGE: Updated Site SITE_Madagascar to state disabled.
 INFO: 10/15/2020 12:12:23 PM MESSAGE: Deleting Site SITE_Madagascar..
 INFO: 10/15/2020 12:12:24 PM MESSAGE: DONE
+INFO: 10/15/2020 12:44:53 PM MESSAGE: Beginning to DESTROY site SITE_Madagascar(16027647526550104)..
+INFO: 10/15/2020 12:44:54 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 10/15/2020 12:44:54 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Vodafone.
+INFO: 10/15/2020 12:44:54 PM MESSAGE: Disabling site..
+INFO: 10/15/2020 12:44:54 PM MESSAGE: Updated Site SITE_Madagascar to state disabled.
+INFO: 10/15/2020 12:44:54 PM MESSAGE: Deleting Site SITE_Madagascar..
+INFO: 10/15/2020 12:44:55 PM MESSAGE: DONE
