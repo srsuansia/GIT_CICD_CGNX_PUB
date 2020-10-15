@@ -1,0 +1,20 @@
+INFO: 10/15/2020 12:12:13 PM MESSAGE: Beginning to DESTROY site SITE_Yakutsk(16027311439260125)..
+INFO: 10/15/2020 12:12:13 PM MESSAGE: Un-assigning and de-claiming Element ION_RUSSIA(42109602-faf3-0d3f-7a7d-339705c38c6b) bound to 16027311439260125.
+INFO: 10/15/2020 12:12:13 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/15/2020 12:12:13 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/15/2020 12:12:14 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/15/2020 12:12:14 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/15/2020 12:12:14 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/15/2020 12:12:14 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/15/2020 12:12:14 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/15/2020 12:12:14 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/15/2020 12:12:15 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/15/2020 12:12:15 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/15/2020 12:12:15 PM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_RUSSIA:
+INFO: 10/15/2020 12:12:15 PM MESSAGE:    No Change for Spoke HA in Element ION_RUSSIA.
+INFO: 10/15/2020 12:12:16 PM MESSAGE:  Deleting Unconfigured Waninterface 16027311446790151.
+INFO: 10/15/2020 12:12:16 PM MESSAGE:  Deleting Unconfigured Waninterface 16027311451440209.
+INFO: 10/15/2020 12:12:17 PM MESSAGE: Disabling site..
+INFO: 10/15/2020 12:12:17 PM MESSAGE: Updated Site SITE_Yakutsk to state disabled.
+INFO: 10/15/2020 12:12:17 PM MESSAGE: Deleting Site SITE_Yakutsk..
+INFO: 10/15/2020 12:12:18 PM MESSAGE: DONE

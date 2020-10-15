@@ -1,0 +1,20 @@
+INFO: 10/15/2020 12:12:25 PM MESSAGE: Beginning to DESTROY site SITE_BuenosAires(16027301502500191)..
+INFO: 10/15/2020 12:12:25 PM MESSAGE: Un-assigning and de-claiming Element ION_ARGENTINA_01(4210024d-4f88-0811-bbea-40503cf61773) bound to 16027301502500191.
+INFO: 10/15/2020 12:12:25 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/15/2020 12:12:25 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/15/2020 12:12:25 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/15/2020 12:12:25 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/15/2020 12:12:25 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/15/2020 12:12:25 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/15/2020 12:12:26 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/15/2020 12:12:26 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/15/2020 12:12:26 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/15/2020 12:12:26 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/15/2020 12:12:26 PM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_ARGENTINA_01:
+INFO: 10/15/2020 12:12:27 PM MESSAGE:    No Change for Spoke HA in Element ION_ARGENTINA_01.
+INFO: 10/15/2020 12:12:28 PM MESSAGE:  Deleting Unconfigured Waninterface 16027301509190003.
+INFO: 10/15/2020 12:12:28 PM MESSAGE:  Deleting Unconfigured Waninterface 16027301515380019.
+INFO: 10/15/2020 12:12:29 PM MESSAGE: Disabling site..
+INFO: 10/15/2020 12:12:29 PM MESSAGE: Updated Site SITE_BuenosAires to state disabled.
+INFO: 10/15/2020 12:12:29 PM MESSAGE: Deleting Site SITE_BuenosAires..
+INFO: 10/15/2020 12:12:29 PM MESSAGE: DONE

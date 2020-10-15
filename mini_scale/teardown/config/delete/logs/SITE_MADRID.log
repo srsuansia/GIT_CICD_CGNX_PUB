@@ -1,0 +1,14 @@
+INFO: 10/15/2020 12:12:30 PM MESSAGE: Beginning to DESTROY site SITE_MADRID(16027299657390015)..
+INFO: 10/15/2020 12:12:31 PM MESSAGE: Un-assigning and de-claiming Element ION_SPAIN(42155366-ed15-5343-0c8e-5c8ffb1631e4) bound to 16027299657390015.
+INFO: 10/15/2020 12:12:31 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/15/2020 12:12:31 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/15/2020 12:12:31 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/15/2020 12:12:32 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/15/2020 12:12:32 PM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_SPAIN:
+INFO: 10/15/2020 12:12:32 PM MESSAGE:    No Change for Spoke HA in Element ION_SPAIN.
+INFO: 10/15/2020 12:12:33 PM MESSAGE:  Deleting Unconfigured Waninterface 16027299665100083.
+INFO: 10/15/2020 12:12:35 PM MESSAGE:  Deleting Unconfigured Waninterface 16027299670830099.
+INFO: 10/15/2020 12:12:35 PM MESSAGE: Disabling site..
+INFO: 10/15/2020 12:12:35 PM MESSAGE: Updated Site SITE_MADRID to state disabled.
+INFO: 10/15/2020 12:12:35 PM MESSAGE: Deleting Site SITE_MADRID..
+INFO: 10/15/2020 12:12:36 PM MESSAGE: DONE
