@@ -114,3 +114,109 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 10/15/2020 02:14:21 PM MESSAGE: No Change for Site SITE_BuenosAires.
+INFO: 10/15/2020 02:14:22 PM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/15/2020 02:14:22 PM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/15/2020 02:14:23 PM MESSAGE:  Element: Code is at correct version 5.4.1-b13.
+INFO: 10/15/2020 02:14:23 PM MESSAGE:   No Change for Element ION_ARGENTINA_01.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 1.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 4.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 5.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 6.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 7.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 8.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Interface 9.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for Spoke HA in Element ION_ARGENTINA_01.
+INFO: 10/15/2020 02:14:24 PM MESSAGE:    No Change for BGP Global Config 16027708894060114.
+ERROR: 10/15/2020 02:14:25 PM ERROR: NTP update failed: 
+REQUEST: PUT /v2.0/api/tenants/2750/elements/16027647085700181/ntp/16027647087370208
+REQUEST HEADERS:
+	User-Agent: python-requests/2.24.0 (CGX SDK v5.4.1b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 762
+REQUEST BODY:
+{
+    "id": "16027647087370208",
+    "_etag": 1,
+    "_schema": 1,
+    "_created_on_utc": 16027647087370208,
+    "_updated_on_utc": 16027647087370208,
+    "_debug": null,
+    "_info": null,
+    "_warning": null,
+    "_error": null,
+    "name": "default",
+    "description": "Default NTP template created by super user.",
+    "tags": null,
+    "ntp_servers": [
+        {
+            "host": "0.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "1.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "2.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "3.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "time.nist.gov",
+            "max_poll": 15,
+            "min_poll": 13,
+            "version": 4
+        }
+    ],
+    "source_interface_ids": [
+        "16027314792480164"
+    ]
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Thu, 15 Oct 2020 14:14:25 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 378
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1602771264983002099993256049099305799822",
+    "_error": [
+        {
+            "code": "NTP_CONFIG_INVALID_INTERFACE_IDS",
+            "message": "Source interface ids cannot be empty and should be valid.Interface ids should not be port that is part of logical interface group like bypass pair."
+        }
+    ]
+}
