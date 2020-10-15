@@ -7,3 +7,26 @@ INFO: 10/15/2020 12:26:44 PM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/15/2020 12:26:44 PM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b still claiming, waited so far 0 seconds out of 10.
 INFO: 10/15/2020 12:26:54 PM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/15/2020 12:27:04 PM ERROR: Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Claim took longer than 10 seconds. Exiting.
+INFO: 10/15/2020 02:09:13 PM MESSAGE: Created Site SITE_Yakutsk.
+INFO: 10/15/2020 02:09:14 PM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/15/2020 02:09:15 PM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/15/2020 02:09:16 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/15/2020 02:09:17 PM MESSAGE:   Assigning Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b.
+INFO: 10/15/2020 02:09:17 PM MESSAGE:   Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/15/2020 02:09:27 PM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/15/2020 02:09:27 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/15/2020 02:09:27 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/15/2020 02:09:27 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/15/2020 02:09:27 PM MESSAGE:    No Change for Interface 4.
+INFO: 10/15/2020 02:09:27 PM MESSAGE:    No Change for Interface 5.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    No Change for Interface 6.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    No Change for Interface 7.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    No Change for Interface 8.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    No Change for Interface 9.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    No Change for Spoke HA in Element ION_RUSSIA.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    No Change for BGP Global Config 16027709593310069.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    No Change for NTP 16027648047490166.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    Created dnsservices dns_RUSSIA.
+INFO: 10/15/2020 02:09:28 PM MESSAGE:    No Change for Toolkit 16027648183740249.
+INFO: 10/15/2020 02:09:28 PM MESSAGE: No Change for Site SITE_Yakutsk state (active).
+INFO: 10/15/2020 02:09:28 PM MESSAGE: DONE

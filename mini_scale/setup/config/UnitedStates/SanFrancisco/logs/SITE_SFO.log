@@ -7,3 +7,111 @@ INFO: 10/15/2020 12:26:21 PM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/15/2020 12:26:22 PM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 0 seconds out of 10.
 INFO: 10/15/2020 12:26:32 PM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/15/2020 12:26:42 PM ERROR: Machine 42105040-2306-707f-aaf4-2b273808c47b Claim took longer than 10 seconds. Exiting.
+INFO: 10/15/2020 02:08:53 PM MESSAGE: Created Site SITE_SFO.
+INFO: 10/15/2020 02:08:54 PM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/15/2020 02:08:55 PM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/15/2020 02:08:55 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/15/2020 02:08:55 PM MESSAGE:   Assigning Element Serial: 42105040-2306-707f-aaf4-2b273808c47b.
+INFO: 10/15/2020 02:08:59 PM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/15/2020 02:08:59 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/15/2020 02:09:00 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/15/2020 02:09:01 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/15/2020 02:09:02 PM MESSAGE:    No Change for Interface 4.
+INFO: 10/15/2020 02:09:02 PM MESSAGE:    No Change for Interface 5.
+INFO: 10/15/2020 02:09:03 PM MESSAGE:    No Change for Interface 6.
+INFO: 10/15/2020 02:09:04 PM MESSAGE:    No Change for Interface 7.
+INFO: 10/15/2020 02:09:04 PM MESSAGE:    No Change for Interface 8.
+INFO: 10/15/2020 02:09:05 PM MESSAGE:    No Change for Interface 9.
+INFO: 10/15/2020 02:09:05 PM MESSAGE:    Updating Spoke HA for Element ION_SFO.
+WARNING: 10/15/2020 02:09:06 PM WARNING: Routing Prefix List auto-prefix-adv-and-distribute is auto_generated. Skipping.
+WARNING: 10/15/2020 02:09:06 PM WARNING: Routing Prefix List auto-prefix-adv-no-distribute is auto_generated. Skipping.
+INFO: 10/15/2020 02:09:07 PM MESSAGE:    No Change for BGP Global Config 16027709371740168.
+ERROR: 10/15/2020 02:09:07 PM ERROR: NTP update failed: 
+REQUEST: PUT /v2.0/api/tenants/2750/elements/16027647814400242/ntp/16027647819300014
+REQUEST HEADERS:
+	User-Agent: python-requests/2.24.0 (CGX SDK v5.4.1b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 762
+REQUEST BODY:
+{
+    "id": "16027647819300014",
+    "_etag": 1,
+    "_schema": 1,
+    "_created_on_utc": 16027647819300014,
+    "_updated_on_utc": 16027647819300014,
+    "_debug": null,
+    "_info": null,
+    "_warning": null,
+    "_error": null,
+    "name": "default",
+    "description": "Default NTP template created by super user.",
+    "tags": null,
+    "ntp_servers": [
+        {
+            "host": "0.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "1.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "2.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "3.cloudgenix.pool.ntp.org",
+            "max_poll": 10,
+            "min_poll": 9,
+            "version": 4
+        },
+        {
+            "host": "time.nist.gov",
+            "max_poll": 15,
+            "min_poll": 13,
+            "version": 4
+        }
+    ],
+    "source_interface_ids": [
+        "16027316237040083"
+    ]
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Thu, 15 Oct 2020 14:09:07 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 378
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1602770947396010599993711750235799126598",
+    "_error": [
+        {
+            "code": "NTP_CONFIG_INVALID_INTERFACE_IDS",
+            "message": "Source interface ids cannot be empty and should be valid.Interface ids should not be port that is part of logical interface group like bypass pair."
+        }
+    ]
+}
