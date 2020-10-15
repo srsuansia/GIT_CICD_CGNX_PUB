@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-15T11:48:30.483614Z
+# Created at 2020-10-15T13:55:49.524352Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_BLR:
@@ -13,7 +13,7 @@ sites v4.5:
       street: Brigade Tower
       street2:
     admin_state: active
-    description: CGNX LAB - BLR Site
+    description: CGNX LAB - BLR HA Site
     element_cluster_role: SPOKE
     elements v2.3:
       BLR_HA_ION_01:
@@ -437,32 +437,6 @@ sites v4.5:
         connected: true
         deployment_op:
         description:
-        dnsservices v2.0:
-          cache_config:
-            cache_size: 150
-          description:
-          dns_queries_metadata:
-            add_customer_premises_equipment:
-              identifier_text: ''
-              type: element_name
-          dnsservice_profile_id: BLRDnsProfile01
-          dnsservicerole_bindings:
-          - dnsservicerole_id: BLRForwardRole
-            interfaces:
-            - interface_id: '1'
-          domains_to_addresses:
-          - domain_names:
-            - exampleblr.com
-            ipv4_address: 111.111.111.112
-          domains_to_interfaces:
-          - domain_names:
-            - exampleblr02.com
-            interface_id: '1'
-          element_id: BLR_HA_ION_02
-          enabled: true
-          max_concurrent_dns_queries: 150
-          name: blr_dns_service_config
-          tags:
         element_security_zones v2.0: []
         interfaces v4.9:
           '1':
@@ -796,7 +770,6 @@ sites v4.5:
             min_poll: 13
             version: 4
           source_interface_ids:
-          - '16027314864080228'
           tags:
         priority_policysetstack_id:
         role: SPOKE
