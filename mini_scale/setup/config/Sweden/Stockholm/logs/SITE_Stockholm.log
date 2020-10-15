@@ -81,3 +81,12 @@ INFO: 10/15/2020 02:57:58 PM MESSAGE:    No Change for NTP 16027734223190192.
 INFO: 10/15/2020 02:57:58 PM MESSAGE:    No Change for Toolkit 16027734358270171.
 INFO: 10/15/2020 02:57:58 PM MESSAGE: No Change for Site SITE_Stockholm state (active).
 INFO: 10/15/2020 02:57:58 PM MESSAGE: DONE
+INFO: 10/15/2020 04:16:02 PM MESSAGE: Created Site SITE_Stockholm.
+INFO: 10/15/2020 04:16:02 PM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/15/2020 04:16:02 PM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/15/2020 04:16:02 PM MESSAGE:  Machine 4210c205-332d-3591-47ad-27689e5858ca is not CLAIMED, attempting to claim..
+INFO: 10/15/2020 04:16:02 PM MESSAGE:  Checking Machine 4210c205-332d-3591-47ad-27689e5858ca..
+INFO: 10/15/2020 04:16:02 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/15/2020 04:16:03 PM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 0 seconds out of 10.
+INFO: 10/15/2020 04:16:13 PM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 04:16:23 PM ERROR: Machine 4210c205-332d-3591-47ad-27689e5858ca Claim took longer than 10 seconds. Exiting.

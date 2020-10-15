@@ -908,3 +908,12 @@ INFO: 10/15/2020 02:57:17 PM MESSAGE:    No Change for NTP 16027734000990115.
 INFO: 10/15/2020 02:57:17 PM MESSAGE:    No Change for Toolkit 16027734134760069.
 INFO: 10/15/2020 02:57:17 PM MESSAGE: No Change for Site SITE_BuenosAires state (active).
 INFO: 10/15/2020 02:57:17 PM MESSAGE: DONE
+INFO: 10/15/2020 04:15:36 PM MESSAGE: Created Site SITE_BuenosAires.
+INFO: 10/15/2020 04:15:37 PM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/15/2020 04:15:38 PM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/15/2020 04:15:39 PM MESSAGE:  Machine 4210024d-4f88-0811-bbea-40503cf61773 is not CLAIMED, attempting to claim..
+INFO: 10/15/2020 04:15:39 PM MESSAGE:  Checking Machine 4210024d-4f88-0811-bbea-40503cf61773..
+INFO: 10/15/2020 04:15:39 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/15/2020 04:15:40 PM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 10.
+INFO: 10/15/2020 04:15:50 PM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/15/2020 04:16:00 PM ERROR: Machine 4210024d-4f88-0811-bbea-40503cf61773 Claim took longer than 10 seconds. Exiting.
