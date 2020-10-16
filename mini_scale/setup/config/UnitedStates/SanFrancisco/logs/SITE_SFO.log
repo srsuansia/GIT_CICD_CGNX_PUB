@@ -1839,3 +1839,9 @@ INFO: 10/16/2020 01:26:21 PM MESSAGE:  No Change for Waninterface Circuit to T-M
 INFO: 10/16/2020 01:26:21 PM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 01:26:31 PM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 01:26:41 PM ERROR: Element Serial: 42105040-2306-707f-aaf4-2b273808c47b state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 01:26:56 PM MESSAGE: No Change for Site SITE_SFO.
+INFO: 10/16/2020 01:26:56 PM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 10/16/2020 01:26:56 PM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 01:26:57 PM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 01:27:07 PM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 01:27:17 PM ERROR: Element Serial: 42105040-2306-707f-aaf4-2b273808c47b state transition took longer than 10 seconds. Exiting.
