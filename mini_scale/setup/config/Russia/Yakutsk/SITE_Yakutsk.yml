@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-16T06:55:06.178434Z
+# Created at 2020-10-16T06:55:21.540528Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_Yakutsk:
@@ -23,7 +23,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode:
         cluster_member_id:
-        connected: false
+        connected: true
         deployment_op:
         description:
         dnsservices v2.0:
