@@ -1216,3 +1216,9 @@ INFO: 10/16/2020 08:02:46 AM MESSAGE:  No Change for Waninterface Circuit to Ver
 INFO: 10/16/2020 08:02:46 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 08:02:56 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 08:03:06 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 08:03:17 AM MESSAGE: No Change for Site SITE_BuenosAires.
+INFO: 10/16/2020 08:03:17 AM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/16/2020 08:03:18 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/16/2020 08:03:18 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 08:03:28 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 08:03:38 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 10 seconds. Exiting.
