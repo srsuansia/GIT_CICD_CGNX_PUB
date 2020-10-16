@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-16T06:53:15.276267Z
+# Created at 2020-10-16T06:53:28.952313Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_Madagascar:
@@ -23,7 +23,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode:
         cluster_member_id:
-        connected: false
+        connected: true
         deployment_op:
         description:
         dnsservices v2.0:
