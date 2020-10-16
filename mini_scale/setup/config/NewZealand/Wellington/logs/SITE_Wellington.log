@@ -549,3 +549,12 @@ INFO: 10/16/2020 12:38:52 PM MESSAGE:    Created dnsservices dns_nz.
 INFO: 10/16/2020 12:38:52 PM MESSAGE:    No Change for Toolkit 16028516789610161.
 INFO: 10/16/2020 12:38:52 PM MESSAGE: No Change for Site SITE_Wellington state (active).
 INFO: 10/16/2020 12:38:52 PM MESSAGE: DONE
+INFO: 10/16/2020 01:07:49 PM MESSAGE: Created Site SITE_Wellington.
+INFO: 10/16/2020 01:07:50 PM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 01:07:50 PM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/16/2020 01:07:50 PM MESSAGE:  Machine 4210b124-3b4a-78f6-5787-8b16141f625f is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 01:07:50 PM MESSAGE:  Checking Machine 4210b124-3b4a-78f6-5787-8b16141f625f..
+INFO: 10/16/2020 01:07:50 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 01:07:51 PM MESSAGE:   Machine 4210b124-3b4a-78f6-5787-8b16141f625f still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 01:08:01 PM MESSAGE:   Machine 4210b124-3b4a-78f6-5787-8b16141f625f still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 01:08:11 PM ERROR: Machine 4210b124-3b4a-78f6-5787-8b16141f625f Claim took longer than 10 seconds. Exiting.
