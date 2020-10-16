@@ -562,3 +562,9 @@ INFO: 10/16/2020 01:09:45 PM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/16/2020 01:09:45 PM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 0 seconds out of 10.
 INFO: 10/16/2020 01:09:56 PM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 01:10:06 PM ERROR: Machine 4210c205-332d-3591-47ad-27689e5858ca Claim took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 01:22:43 PM MESSAGE: No Change for Site SITE_Stockholm.
+INFO: 10/16/2020 01:22:43 PM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 01:22:43 PM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/16/2020 01:22:44 PM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 01:22:54 PM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 01:23:04 PM ERROR: Element Serial: 4210c205-332d-3591-47ad-27689e5858ca state transition took longer than 10 seconds. Exiting.
