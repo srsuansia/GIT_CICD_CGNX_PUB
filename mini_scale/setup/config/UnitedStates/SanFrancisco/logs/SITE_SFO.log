@@ -1525,3 +1525,27 @@ INFO: 10/16/2020 09:26:32 AM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/16/2020 09:26:32 AM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 0 seconds out of 10.
 INFO: 10/16/2020 09:26:43 AM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 09:26:53 AM ERROR: Machine 42105040-2306-707f-aaf4-2b273808c47b Claim took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 09:34:46 AM MESSAGE: No Change for Site SITE_SFO.
+INFO: 10/16/2020 09:34:46 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 10/16/2020 09:34:46 AM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 09:34:47 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/16/2020 09:34:47 AM MESSAGE:   Assigning Element Serial: 42105040-2306-707f-aaf4-2b273808c47b.
+INFO: 10/16/2020 09:34:47 AM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 09:34:58 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/16/2020 09:34:58 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 09:34:58 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 09:34:58 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 09:34:58 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/16/2020 09:34:58 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/16/2020 09:34:58 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/16/2020 09:34:59 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/16/2020 09:34:59 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/16/2020 09:34:59 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/16/2020 09:34:59 AM MESSAGE:    Updating Spoke HA for Element ION_SFO.
+WARNING: 10/16/2020 09:34:59 AM WARNING: Routing Prefix List auto-prefix-adv-and-distribute is auto_generated. Skipping.
+WARNING: 10/16/2020 09:34:59 AM WARNING: Routing Prefix List auto-prefix-adv-no-distribute is auto_generated. Skipping.
+INFO: 10/16/2020 09:34:59 AM MESSAGE:    No Change for BGP Global Config 16028408880120087.
+INFO: 10/16/2020 09:35:00 AM MESSAGE:    No Change for NTP 16028403928940217.
+INFO: 10/16/2020 09:35:00 AM MESSAGE:    No Change for Toolkit 16028404080020248.
+INFO: 10/16/2020 09:35:00 AM MESSAGE: No Change for Site SITE_SFO state (active).
+INFO: 10/16/2020 09:35:00 AM MESSAGE: DONE
