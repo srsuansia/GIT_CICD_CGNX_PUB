@@ -1006,3 +1006,43 @@ INFO: 10/16/2020 03:07:21 AM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/16/2020 03:07:21 AM MESSAGE:   Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 still claiming, waited so far 0 seconds out of 10.
 INFO: 10/16/2020 03:07:31 AM MESSAGE:   Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 03:07:41 AM ERROR: Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 Claim took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 03:07:54 AM MESSAGE: No Change for Site SITE_BLR.
+INFO: 10/16/2020 03:07:54 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/16/2020 03:07:54 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/16/2020 03:07:54 AM MESSAGE:  No Change for Spoke Cluster BLR_HA.
+INFO: 10/16/2020 03:07:54 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/16/2020 03:07:54 AM MESSAGE:   No Change for Element BLR_HA_ION_01.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/16/2020 03:07:55 AM MESSAGE:    No Change for Spoke HA in Element BLR_HA_ION_01.
+INFO: 10/16/2020 03:07:56 AM MESSAGE:    No Change for BGP Global Config 16028176280880044.
+INFO: 10/16/2020 03:07:56 AM MESSAGE:    No Change for NTP 16028173553560226.
+INFO: 10/16/2020 03:07:56 AM MESSAGE:    No Change for dnsservices blr_dns_service_config.
+INFO: 10/16/2020 03:07:56 AM MESSAGE:    No Change for Toolkit 16028173688220001.
+INFO: 10/16/2020 03:07:56 AM MESSAGE:  Element: Changing element from 5.4.1-b5 to 5.4.1-b15.
+INFO: 10/16/2020 03:07:56 AM MESSAGE:   Assigning Element Serial: 4210fff5-706e-5c8c-7e74-85f94d992ea1.
+INFO: 10/16/2020 03:07:57 AM MESSAGE:   Element Serial: 4210fff5-706e-5c8c-7e74-85f94d992ea1 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 03:08:07 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/16/2020 03:08:07 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 03:08:07 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 03:08:07 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 03:08:07 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/16/2020 03:08:07 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/16/2020 03:08:07 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/16/2020 03:08:08 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/16/2020 03:08:08 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/16/2020 03:08:08 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/16/2020 03:08:08 AM MESSAGE:    Updating Spoke HA for Element BLR_HA_ION_02.
+INFO: 10/16/2020 03:08:08 AM MESSAGE:    No Change for BGP Global Config 16028176804660158.
+INFO: 10/16/2020 03:08:08 AM MESSAGE:    No Change for NTP 16028176417420047.
+INFO: 10/16/2020 03:08:08 AM MESSAGE:    No Change for Toolkit 16028176565020213.
+INFO: 10/16/2020 03:08:09 AM MESSAGE: No Change for Site SITE_BLR state (active).
+INFO: 10/16/2020 03:08:09 AM MESSAGE: DONE
