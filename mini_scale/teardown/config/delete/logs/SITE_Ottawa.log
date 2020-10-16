@@ -166,3 +166,10 @@ INFO: 10/16/2020 01:04:07 PM MESSAGE: Disabling site..
 INFO: 10/16/2020 01:04:08 PM MESSAGE: Updated Site SITE_Ottawa to state disabled.
 INFO: 10/16/2020 01:04:08 PM MESSAGE: Deleting Site SITE_Ottawa..
 INFO: 10/16/2020 01:04:08 PM MESSAGE: DONE
+INFO: 10/16/2020 02:01:20 PM MESSAGE: Beginning to DESTROY site SITE_Ottawa(16028537386840190)..
+INFO: 10/16/2020 02:01:20 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/16/2020 02:01:20 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/16/2020 02:01:21 PM MESSAGE: Disabling site..
+INFO: 10/16/2020 02:01:21 PM MESSAGE: Updated Site SITE_Ottawa to state disabled.
+INFO: 10/16/2020 02:01:21 PM MESSAGE: Deleting Site SITE_Ottawa..
+INFO: 10/16/2020 02:01:21 PM MESSAGE: DONE

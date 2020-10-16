@@ -245,3 +245,10 @@ INFO: 10/16/2020 01:03:04 PM MESSAGE: Disabling site..
 INFO: 10/16/2020 01:03:04 PM MESSAGE: Updated Site SITE_Wellington to state disabled.
 INFO: 10/16/2020 01:03:04 PM MESSAGE: Deleting Site SITE_Wellington..
 INFO: 10/16/2020 01:03:05 PM MESSAGE: DONE
+INFO: 10/16/2020 02:00:59 PM MESSAGE: Beginning to DESTROY site SITE_Wellington(16028536696040187)..
+INFO: 10/16/2020 02:00:59 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 02:00:59 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Vodafone.
+INFO: 10/16/2020 02:00:59 PM MESSAGE: Disabling site..
+INFO: 10/16/2020 02:00:59 PM MESSAGE: Updated Site SITE_Wellington to state disabled.
+INFO: 10/16/2020 02:00:59 PM MESSAGE: Deleting Site SITE_Wellington..
+INFO: 10/16/2020 02:00:59 PM MESSAGE: DONE
