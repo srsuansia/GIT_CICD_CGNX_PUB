@@ -4,8 +4,8 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-10-16T08:09:34.185856Z
-+# Created at 2020-10-16T08:09:55.934268Z
+-# Created at 2020-10-16T08:09:59.548330Z
++# Created at 2020-10-16T08:10:32.199968Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
@@ -15,8 +15,8 @@
          - SPOKE
          cluster_insertion_mode:
          cluster_member_id:
--        connected: true
-+        connected: false
+-        connected: false
++        connected: true
          deployment_op:
          description:
          dnsservices v2.0:
