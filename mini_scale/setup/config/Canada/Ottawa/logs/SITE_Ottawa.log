@@ -571,3 +571,9 @@ INFO: 10/16/2020 01:19:28 PM MESSAGE:  No Change for Waninterface Circuit to Ver
 INFO: 10/16/2020 01:19:28 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 01:19:38 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 01:19:48 PM ERROR: Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 01:19:59 PM MESSAGE: No Change for Site SITE_Ottawa.
+INFO: 10/16/2020 01:19:59 PM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/16/2020 01:20:00 PM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/16/2020 01:20:00 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 01:20:10 PM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 01:20:20 PM ERROR: Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc state transition took longer than 10 seconds. Exiting.
