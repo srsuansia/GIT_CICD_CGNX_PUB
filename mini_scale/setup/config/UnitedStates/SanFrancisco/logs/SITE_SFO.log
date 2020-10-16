@@ -1395,3 +1395,12 @@ INFO: 10/16/2020 03:13:40 AM MESSAGE:    No Change for NTP 16028175136830181.
 INFO: 10/16/2020 03:13:40 AM MESSAGE:    No Change for Toolkit 16028175294700235.
 INFO: 10/16/2020 03:13:40 AM MESSAGE: No Change for Site SITE_SFO state (active).
 INFO: 10/16/2020 03:13:40 AM MESSAGE: DONE
+INFO: 10/16/2020 04:18:29 AM MESSAGE: Created Site SITE_SFO.
+INFO: 10/16/2020 04:18:29 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/16/2020 04:18:30 AM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 04:18:30 AM MESSAGE:  Machine 42105040-2306-707f-aaf4-2b273808c47b is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 04:18:30 AM MESSAGE:  Checking Machine 42105040-2306-707f-aaf4-2b273808c47b..
+INFO: 10/16/2020 04:18:30 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 04:18:31 AM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 04:18:41 AM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 04:18:51 AM ERROR: Machine 42105040-2306-707f-aaf4-2b273808c47b Claim took longer than 10 seconds. Exiting.
