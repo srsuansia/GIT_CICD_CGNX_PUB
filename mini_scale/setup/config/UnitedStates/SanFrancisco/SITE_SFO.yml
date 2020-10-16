@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-16T10:53:23.508197Z
+# Created at 2020-10-16T11:29:34.967512Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_SFO:
@@ -23,7 +23,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode: auto
         cluster_member_id:
-        connected: true
+        connected: false
         deployment_op:
         description:
         element_security_zones v2.0: []
@@ -409,7 +409,7 @@ sites v4.5:
         vpn_to_vpn_forwarding: false
     extended_tags:
     hubclusters v2.0:
-      default-2750-16028450939520215:
+      default-2750-16028477605000005:
         admin_up: true
         load_alarm_threshold: 90
         subscription_factor: 0.5

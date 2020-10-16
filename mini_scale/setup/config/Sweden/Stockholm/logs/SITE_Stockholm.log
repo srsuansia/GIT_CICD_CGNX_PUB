@@ -427,3 +427,25 @@ INFO: 10/16/2020 11:20:38 AM MESSAGE:  No Change for Waninterface Circuit to Ver
 INFO: 10/16/2020 11:20:38 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 11:20:48 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 11:20:58 AM ERROR: Element Serial: 4210c205-332d-3591-47ad-27689e5858ca state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 11:28:50 AM MESSAGE: Created Site SITE_Stockholm.
+INFO: 10/16/2020 11:28:50 AM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 11:28:50 AM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/16/2020 11:28:50 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/16/2020 11:28:50 AM MESSAGE:   Assigning Element Serial: 4210c205-332d-3591-47ad-27689e5858ca.
+INFO: 10/16/2020 11:28:51 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 11:29:01 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/16/2020 11:29:01 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 11:29:01 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 11:29:01 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for Spoke HA in Element ION_SWEDEN.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for BGP Global Config 16028477330700141.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for NTP 16028463485600082.
+INFO: 10/16/2020 11:29:02 AM MESSAGE:    No Change for Toolkit 16028474606600179.
+INFO: 10/16/2020 11:29:02 AM MESSAGE: No Change for Site SITE_Stockholm state (active).
+INFO: 10/16/2020 11:29:02 AM MESSAGE: DONE

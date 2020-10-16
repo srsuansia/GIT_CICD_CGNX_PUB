@@ -462,3 +462,26 @@ INFO: 10/16/2020 11:09:13 AM MESSAGE:  No Change for Waninterface Circuit to Vod
 INFO: 10/16/2020 11:09:13 AM MESSAGE:   Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 11:09:23 AM MESSAGE:   Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 11:09:33 AM ERROR: Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 11:27:15 AM MESSAGE: Created Site SITE_Wellington.
+INFO: 10/16/2020 11:27:15 AM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 11:27:16 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/16/2020 11:27:16 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/16/2020 11:27:16 AM MESSAGE:   Assigning Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f.
+INFO: 10/16/2020 11:27:16 AM MESSAGE:   Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/16/2020 11:27:27 AM MESSAGE:    No Change for Spoke HA in Element ION_NZ.
+INFO: 10/16/2020 11:27:28 AM MESSAGE:    No Change for BGP Global Config 16028476388690215.
+INFO: 10/16/2020 11:27:28 AM MESSAGE:    No Change for NTP 16028462293170142.
+INFO: 10/16/2020 11:27:28 AM MESSAGE:    Created dnsservices dns_nz.
+INFO: 10/16/2020 11:27:28 AM MESSAGE:    No Change for Toolkit 16028473956960123.
+INFO: 10/16/2020 11:27:28 AM MESSAGE: No Change for Site SITE_Wellington state (active).
+INFO: 10/16/2020 11:27:28 AM MESSAGE: DONE

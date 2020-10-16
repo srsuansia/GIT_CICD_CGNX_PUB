@@ -1338,3 +1338,25 @@ INFO: 10/16/2020 11:18:27 AM MESSAGE:  No Change for Waninterface Circuit to Ver
 INFO: 10/16/2020 11:18:28 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 11:18:38 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 11:18:48 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 11:28:35 AM MESSAGE: Created Site SITE_BuenosAires.
+INFO: 10/16/2020 11:28:35 AM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/16/2020 11:28:35 AM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/16/2020 11:28:36 AM MESSAGE:  Element: Code is at correct version 5.4.1-b13.
+INFO: 10/16/2020 11:28:36 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
+INFO: 10/16/2020 11:28:36 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 11:28:46 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/16/2020 11:28:46 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 11:28:46 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Spoke HA in Element ION_ARGENTINA_01.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for BGP Global Config 16028477187630160.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for NTP 16028463226790090.
+INFO: 10/16/2020 11:28:47 AM MESSAGE:    No Change for Toolkit 16028474189180063.
+INFO: 10/16/2020 11:28:48 AM MESSAGE: No Change for Site SITE_BuenosAires state (active).
+INFO: 10/16/2020 11:28:48 AM MESSAGE: DONE
