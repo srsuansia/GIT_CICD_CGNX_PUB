@@ -170,3 +170,10 @@ INFO: 10/16/2020 07:46:46 AM MESSAGE: Disabling site..
 INFO: 10/16/2020 07:46:46 AM MESSAGE: Updated Site SITE_BLR to state disabled.
 INFO: 10/16/2020 07:46:46 AM MESSAGE: Deleting Site SITE_BLR..
 INFO: 10/16/2020 07:46:47 AM MESSAGE: DONE
+INFO: 10/16/2020 08:21:36 AM MESSAGE: Beginning to DESTROY site SITE_BLR(16028347757440195)..
+INFO: 10/16/2020 08:21:36 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 10/16/2020 08:21:36 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 10/16/2020 08:21:36 AM MESSAGE: Disabling site..
+INFO: 10/16/2020 08:21:37 AM MESSAGE: Updated Site SITE_BLR to state disabled.
+INFO: 10/16/2020 08:21:37 AM MESSAGE: Deleting Site SITE_BLR..
+INFO: 10/16/2020 08:21:37 AM MESSAGE: DONE

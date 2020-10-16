@@ -118,3 +118,10 @@ INFO: 10/16/2020 07:46:11 AM MESSAGE: Disabling site..
 INFO: 10/16/2020 07:46:12 AM MESSAGE: Updated Site SITE_Stockholm to state disabled.
 INFO: 10/16/2020 07:46:12 AM MESSAGE: Deleting Site SITE_Stockholm..
 INFO: 10/16/2020 07:46:13 AM MESSAGE: DONE
+INFO: 10/16/2020 08:21:28 AM MESSAGE: Beginning to DESTROY site SITE_Stockholm(16028348786490083)..
+INFO: 10/16/2020 08:21:28 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 08:21:28 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/16/2020 08:21:28 AM MESSAGE: Disabling site..
+INFO: 10/16/2020 08:21:29 AM MESSAGE: Updated Site SITE_Stockholm to state disabled.
+INFO: 10/16/2020 08:21:29 AM MESSAGE: Deleting Site SITE_Stockholm..
+INFO: 10/16/2020 08:21:29 AM MESSAGE: DONE
