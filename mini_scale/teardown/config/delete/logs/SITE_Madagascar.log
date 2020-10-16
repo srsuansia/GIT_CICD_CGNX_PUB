@@ -172,3 +172,23 @@ INFO: 10/16/2020 11:22:32 AM MESSAGE: Disabling site..
 INFO: 10/16/2020 11:22:33 AM MESSAGE: Updated Site SITE_Madagascar to state disabled.
 INFO: 10/16/2020 11:22:33 AM MESSAGE: Deleting Site SITE_Madagascar..
 INFO: 10/16/2020 11:22:33 AM MESSAGE: DONE
+INFO: 10/16/2020 11:54:09 AM MESSAGE: Beginning to DESTROY site SITE_Madagascar(16028477448570205)..
+INFO: 10/16/2020 11:54:10 AM MESSAGE: Un-assigning and de-claiming Element ION_MADAGASCAR(4210b512-5243-d410-01cb-e8bd6e482e14) bound to 16028477448570205.
+INFO: 10/16/2020 11:54:10 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/16/2020 11:54:10 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/16/2020 11:54:10 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/16/2020 11:54:10 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/16/2020 11:54:11 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/16/2020 11:54:11 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/16/2020 11:54:11 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/16/2020 11:54:11 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/16/2020 11:54:11 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/16/2020 11:54:11 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/16/2020 11:54:12 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_MADAGASCAR:
+INFO: 10/16/2020 11:54:12 AM MESSAGE:    No Change for Spoke HA in Element ION_MADAGASCAR.
+INFO: 10/16/2020 11:54:13 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 10/16/2020 11:54:13 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Vodafone.
+INFO: 10/16/2020 11:54:13 AM MESSAGE: Disabling site..
+INFO: 10/16/2020 11:54:14 AM MESSAGE: Updated Site SITE_Madagascar to state disabled.
+INFO: 10/16/2020 11:54:14 AM MESSAGE: Deleting Site SITE_Madagascar..
+INFO: 10/16/2020 11:54:14 AM MESSAGE: DONE

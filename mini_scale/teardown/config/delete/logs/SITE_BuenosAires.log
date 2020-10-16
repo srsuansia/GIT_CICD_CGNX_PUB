@@ -172,3 +172,23 @@ INFO: 10/16/2020 11:22:34 AM MESSAGE: Disabling site..
 INFO: 10/16/2020 11:22:35 AM MESSAGE: Updated Site SITE_BuenosAires to state disabled.
 INFO: 10/16/2020 11:22:35 AM MESSAGE: Deleting Site SITE_BuenosAires..
 INFO: 10/16/2020 11:22:35 AM MESSAGE: DONE
+INFO: 10/16/2020 11:54:15 AM MESSAGE: Beginning to DESTROY site SITE_BuenosAires(16028477152010255)..
+INFO: 10/16/2020 11:54:15 AM MESSAGE: Un-assigning and de-claiming Element ION_ARGENTINA_01(4210024d-4f88-0811-bbea-40503cf61773) bound to 16028477152010255.
+INFO: 10/16/2020 11:54:15 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/16/2020 11:54:16 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/16/2020 11:54:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/16/2020 11:54:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/16/2020 11:54:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/16/2020 11:54:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/16/2020 11:54:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/16/2020 11:54:18 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/16/2020 11:54:18 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/16/2020 11:54:18 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/16/2020 11:54:18 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_ARGENTINA_01:
+INFO: 10/16/2020 11:54:18 AM MESSAGE:    No Change for Spoke HA in Element ION_ARGENTINA_01.
+INFO: 10/16/2020 11:54:19 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/16/2020 11:54:19 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/16/2020 11:54:20 AM MESSAGE: Disabling site..
+INFO: 10/16/2020 11:54:20 AM MESSAGE: Updated Site SITE_BuenosAires to state disabled.
+INFO: 10/16/2020 11:54:20 AM MESSAGE: Deleting Site SITE_BuenosAires..
+INFO: 10/16/2020 11:54:21 AM MESSAGE: DONE
