@@ -1056,3 +1056,31 @@ INFO: 10/16/2020 04:15:54 AM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/16/2020 04:15:54 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 10.
 INFO: 10/16/2020 04:16:04 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 04:16:14 AM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 04:20:16 AM MESSAGE: No Change for Site SITE_BLR.
+INFO: 10/16/2020 04:20:16 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/16/2020 04:20:16 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/16/2020 04:20:17 AM MESSAGE:  No Change for Spoke Cluster BLR_HA.
+INFO: 10/16/2020 04:20:17 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/16/2020 04:20:17 AM MESSAGE:   Assigning Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291.
+INFO: 10/16/2020 04:20:17 AM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 04:20:27 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/16/2020 04:20:27 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 04:20:27 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    Updating Spoke HA for Element BLR_HA_ION_01.
+INFO: 10/16/2020 04:20:28 AM MESSAGE:    No Change for BGP Global Config 16028220195090124.
+INFO: 10/16/2020 04:20:29 AM MESSAGE:    No Change for NTP 16028217546670076.
+INFO: 10/16/2020 04:20:29 AM MESSAGE:    Created dnsservices blr_dns_service_config.
+INFO: 10/16/2020 04:20:29 AM MESSAGE:    No Change for Toolkit 16028217680920252.
+INFO: 10/16/2020 04:20:29 AM MESSAGE:  Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 04:20:29 AM MESSAGE:  Checking Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1..
+INFO: 10/16/2020 04:20:29 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 04:20:29 AM MESSAGE:   Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 04:20:39 AM MESSAGE:   Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 04:20:50 AM ERROR: Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 Claim took longer than 10 seconds. Exiting.
