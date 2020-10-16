@@ -123,3 +123,26 @@ INFO: 10/16/2020 02:02:24 AM MESSAGE:    Created dnsservices dns_spain.
 INFO: 10/16/2020 02:02:25 AM MESSAGE:    No Change for Toolkit 16028137204180150.
 INFO: 10/16/2020 02:02:25 AM MESSAGE: No Change for Site SITE_MADRID state (active).
 INFO: 10/16/2020 02:02:25 AM MESSAGE: DONE
+INFO: 10/16/2020 03:02:58 AM MESSAGE: Created Site SITE_MADRID.
+INFO: 10/16/2020 03:02:59 AM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 03:03:01 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/16/2020 03:03:01 AM MESSAGE:  Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 03:03:02 AM MESSAGE:  Checking Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4..
+INFO: 10/16/2020 03:03:02 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 03:03:03 AM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 03:03:13 AM MESSAGE:  Claimed. Continuing..
+INFO: 10/16/2020 03:03:13 AM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 03:03:23 AM MESSAGE:  Element: Code is at correct version 5.4.1-b14.
+INFO: 10/16/2020 03:03:23 AM MESSAGE:   Assigning Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4.
+INFO: 10/16/2020 03:03:23 AM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 03:03:34 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/16/2020 03:03:34 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 03:03:34 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 03:03:34 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 03:03:34 AM MESSAGE:    No Change for Spoke HA in Element ION_SPAIN.
+INFO: 10/16/2020 03:03:34 AM MESSAGE:    No Change for BGP Global Config 16028174049620116.
+INFO: 10/16/2020 03:03:34 AM MESSAGE:    No Change for NTP 16028173831400140.
+INFO: 10/16/2020 03:03:35 AM MESSAGE:    Created dnsservices dns_spain.
+INFO: 10/16/2020 03:03:35 AM MESSAGE:    No Change for Toolkit 16028173918440010.
+INFO: 10/16/2020 03:03:35 AM MESSAGE: No Change for Site SITE_MADRID state (active).
+INFO: 10/16/2020 03:03:35 AM MESSAGE: DONE
