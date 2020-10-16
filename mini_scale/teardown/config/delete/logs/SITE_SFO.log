@@ -45,3 +45,23 @@ INFO: 10/16/2020 02:21:29 AM MESSAGE: Disabling site..
 INFO: 10/16/2020 02:21:30 AM MESSAGE: Updated Site SITE_SFO to state disabled.
 INFO: 10/16/2020 02:21:30 AM MESSAGE: Deleting Site SITE_SFO..
 INFO: 10/16/2020 02:21:30 AM MESSAGE: DONE
+INFO: 10/16/2020 03:48:54 AM MESSAGE: Beginning to DESTROY site SITE_SFO(16028175118200116)..
+INFO: 10/16/2020 03:48:54 AM MESSAGE: Un-assigning and de-claiming Element ION_SFO(42105040-2306-707f-aaf4-2b273808c47b) bound to 16028175118200116.
+INFO: 10/16/2020 03:48:54 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/16/2020 03:48:54 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/16/2020 03:48:54 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/16/2020 03:48:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/16/2020 03:48:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/16/2020 03:48:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/16/2020 03:48:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/16/2020 03:48:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/16/2020 03:48:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/16/2020 03:48:56 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/16/2020 03:48:56 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_SFO:
+INFO: 10/16/2020 03:48:56 AM MESSAGE:    No Change for Spoke HA in Element ION_SFO.
+INFO: 10/16/2020 03:48:57 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/16/2020 03:48:58 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 03:48:58 AM MESSAGE: Disabling site..
+INFO: 10/16/2020 03:48:59 AM MESSAGE: Updated Site SITE_SFO to state disabled.
+INFO: 10/16/2020 03:48:59 AM MESSAGE: Deleting Site SITE_SFO..
+INFO: 10/16/2020 03:48:59 AM MESSAGE: DONE
