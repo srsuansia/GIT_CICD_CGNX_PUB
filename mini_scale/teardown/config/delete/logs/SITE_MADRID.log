@@ -159,3 +159,17 @@ INFO: 10/16/2020 12:21:19 PM MESSAGE: Disabling site..
 INFO: 10/16/2020 12:21:19 PM MESSAGE: Updated Site SITE_MADRID to state disabled.
 INFO: 10/16/2020 12:21:19 PM MESSAGE: Deleting Site SITE_MADRID..
 INFO: 10/16/2020 12:21:20 PM MESSAGE: DONE
+INFO: 10/16/2020 01:03:24 PM MESSAGE: Beginning to DESTROY site SITE_MADRID(16028517090540222)..
+INFO: 10/16/2020 01:03:24 PM MESSAGE: Un-assigning and de-claiming Element ION_SPAIN(42155366-ed15-5343-0c8e-5c8ffb1631e4) bound to 16028517090540222.
+INFO: 10/16/2020 01:03:24 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/16/2020 01:03:24 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/16/2020 01:03:25 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/16/2020 01:03:25 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/16/2020 01:03:25 PM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_SPAIN:
+INFO: 10/16/2020 01:03:25 PM MESSAGE:    No Change for Spoke HA in Element ION_SPAIN.
+INFO: 10/16/2020 01:03:26 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 01:03:26 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Vodafone.
+INFO: 10/16/2020 01:03:27 PM MESSAGE: Disabling site..
+INFO: 10/16/2020 01:03:27 PM MESSAGE: Updated Site SITE_MADRID to state disabled.
+INFO: 10/16/2020 01:03:27 PM MESSAGE: Deleting Site SITE_MADRID..
+INFO: 10/16/2020 01:03:28 PM MESSAGE: DONE

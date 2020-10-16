@@ -152,3 +152,17 @@ INFO: 10/16/2020 12:21:35 PM MESSAGE: Disabling site..
 INFO: 10/16/2020 12:21:35 PM MESSAGE: Updated Site SITE_Ottawa to state disabled.
 INFO: 10/16/2020 12:21:35 PM MESSAGE: Deleting Site SITE_Ottawa..
 INFO: 10/16/2020 12:21:36 PM MESSAGE: DONE
+INFO: 10/16/2020 01:03:59 PM MESSAGE: Beginning to DESTROY site SITE_Ottawa(16028517485780219)..
+INFO: 10/16/2020 01:03:59 PM MESSAGE: Un-assigning and de-claiming Element ION_CANADA(42104b4e-0494-1acd-04b3-5dd1b0e40bfc) bound to 16028517485780219.
+INFO: 10/16/2020 01:03:59 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/16/2020 01:04:01 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/16/2020 01:04:01 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/16/2020 01:04:02 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/16/2020 01:04:03 PM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_CANADA:
+INFO: 10/16/2020 01:04:04 PM MESSAGE:    No Change for Spoke HA in Element ION_CANADA.
+INFO: 10/16/2020 01:04:07 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/16/2020 01:04:07 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/16/2020 01:04:07 PM MESSAGE: Disabling site..
+INFO: 10/16/2020 01:04:08 PM MESSAGE: Updated Site SITE_Ottawa to state disabled.
+INFO: 10/16/2020 01:04:08 PM MESSAGE: Deleting Site SITE_Ottawa..
+INFO: 10/16/2020 01:04:08 PM MESSAGE: DONE
