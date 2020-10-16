@@ -382,3 +382,9 @@ INFO: 10/16/2020 01:08:34 PM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/16/2020 01:08:35 PM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 still claiming, waited so far 0 seconds out of 10.
 INFO: 10/16/2020 01:08:45 PM MESSAGE:   Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 01:08:55 PM ERROR: Machine 42155366-ed15-5343-0c8e-5c8ffb1631e4 Claim took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 01:16:25 PM MESSAGE: No Change for Site SITE_MADRID.
+INFO: 10/16/2020 01:16:25 PM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 01:16:25 PM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/16/2020 01:16:25 PM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 01:16:35 PM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 01:16:45 PM ERROR: Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 state transition took longer than 10 seconds. Exiting.
