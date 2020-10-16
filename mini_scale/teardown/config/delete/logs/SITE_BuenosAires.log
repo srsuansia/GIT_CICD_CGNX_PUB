@@ -165,3 +165,10 @@ INFO: 10/16/2020 10:59:36 AM MESSAGE: Disabling site..
 INFO: 10/16/2020 10:59:37 AM MESSAGE: Updated Site SITE_BuenosAires to state disabled.
 INFO: 10/16/2020 10:59:37 AM MESSAGE: Deleting Site SITE_BuenosAires..
 INFO: 10/16/2020 10:59:37 AM MESSAGE: DONE
+INFO: 10/16/2020 11:22:34 AM MESSAGE: Beginning to DESTROY site SITE_BuenosAires(16028463218530221)..
+INFO: 10/16/2020 11:22:34 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/16/2020 11:22:34 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/16/2020 11:22:34 AM MESSAGE: Disabling site..
+INFO: 10/16/2020 11:22:35 AM MESSAGE: Updated Site SITE_BuenosAires to state disabled.
+INFO: 10/16/2020 11:22:35 AM MESSAGE: Deleting Site SITE_BuenosAires..
+INFO: 10/16/2020 11:22:35 AM MESSAGE: DONE

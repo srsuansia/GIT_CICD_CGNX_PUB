@@ -178,3 +178,10 @@ INFO: 10/16/2020 10:59:23 AM MESSAGE: Disabling site..
 INFO: 10/16/2020 10:59:23 AM MESSAGE: Updated Site SITE_Yakutsk to state disabled.
 INFO: 10/16/2020 10:59:24 AM MESSAGE: Deleting Site SITE_Yakutsk..
 INFO: 10/16/2020 10:59:25 AM MESSAGE: DONE
+INFO: 10/16/2020 11:22:30 AM MESSAGE: Beginning to DESTROY site SITE_Yakutsk(16028464143140006)..
+INFO: 10/16/2020 11:22:30 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 11:22:30 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Vodafone.
+INFO: 10/16/2020 11:22:30 AM MESSAGE: Disabling site..
+INFO: 10/16/2020 11:22:30 AM MESSAGE: Updated Site SITE_Yakutsk to state disabled.
+INFO: 10/16/2020 11:22:31 AM MESSAGE: Deleting Site SITE_Yakutsk..
+INFO: 10/16/2020 11:22:31 AM MESSAGE: DONE
