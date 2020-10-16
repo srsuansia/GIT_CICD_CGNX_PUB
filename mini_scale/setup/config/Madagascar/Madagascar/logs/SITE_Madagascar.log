@@ -117,3 +117,12 @@ INFO: 10/15/2020 04:27:37 PM MESSAGE:  No Change for Waninterface Circuit to Vod
 INFO: 10/15/2020 04:27:37 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/15/2020 04:27:47 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/15/2020 04:27:57 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 02:03:36 AM MESSAGE: Created Site SITE_Madagascar.
+INFO: 10/16/2020 02:03:36 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/16/2020 02:03:36 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/16/2020 02:03:36 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 02:03:36 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 10/16/2020 02:03:36 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 02:03:37 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 02:03:47 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 02:03:57 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 10 seconds. Exiting.
