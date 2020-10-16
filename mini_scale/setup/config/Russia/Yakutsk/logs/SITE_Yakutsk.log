@@ -560,3 +560,12 @@ INFO: 10/16/2020 10:54:02 AM MESSAGE:    Created dnsservices dns_RUSSIA.
 INFO: 10/16/2020 10:54:02 AM MESSAGE:    No Change for Toolkit 16028451389280198.
 INFO: 10/16/2020 10:54:02 AM MESSAGE: No Change for Site SITE_Yakutsk state (active).
 INFO: 10/16/2020 10:54:02 AM MESSAGE: DONE
+INFO: 10/16/2020 11:06:54 AM MESSAGE: Created Site SITE_Yakutsk.
+INFO: 10/16/2020 11:06:54 AM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 11:06:54 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/16/2020 11:06:54 AM MESSAGE:  Machine 42109602-faf3-0d3f-7a7d-339705c38c6b is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 11:06:54 AM MESSAGE:  Checking Machine 42109602-faf3-0d3f-7a7d-339705c38c6b..
+INFO: 10/16/2020 11:06:55 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 11:06:55 AM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 11:07:05 AM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 11:07:15 AM ERROR: Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Claim took longer than 10 seconds. Exiting.
