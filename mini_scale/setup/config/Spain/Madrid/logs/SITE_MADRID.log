@@ -400,3 +400,9 @@ INFO: 10/16/2020 01:17:26 PM MESSAGE:  No Change for Waninterface Circuit to Vod
 INFO: 10/16/2020 01:17:26 PM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 01:17:36 PM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 01:17:46 PM ERROR: Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 01:17:56 PM MESSAGE: No Change for Site SITE_MADRID.
+INFO: 10/16/2020 01:17:56 PM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 01:17:56 PM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/16/2020 01:17:56 PM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 01:18:06 PM MESSAGE:   Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 01:18:16 PM ERROR: Element Serial: 42155366-ed15-5343-0c8e-5c8ffb1631e4 state transition took longer than 10 seconds. Exiting.
