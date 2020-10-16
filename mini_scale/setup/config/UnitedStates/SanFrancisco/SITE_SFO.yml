@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-16T12:14:31.664758Z
+# Created at 2020-10-16T12:45:45.210725Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_SFO:
@@ -409,7 +409,7 @@ sites v4.5:
         vpn_to_vpn_forwarding: false
     extended_tags:
     hubclusters v2.0:
-      default-2750-16028499804600239:
+      default-2750-16028518458050157:
         admin_up: true
         load_alarm_threshold: 90
         subscription_factor: 0.5
