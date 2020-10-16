@@ -502,3 +502,12 @@ INFO: 10/16/2020 12:11:20 PM MESSAGE:    No Change for dnsservices dns_canada.
 INFO: 10/16/2020 12:11:20 PM MESSAGE:    No Change for Toolkit 16028499019200076.
 INFO: 10/16/2020 12:11:20 PM MESSAGE: No Change for Site SITE_Ottawa state (active).
 INFO: 10/16/2020 12:11:20 PM MESSAGE: DONE
+INFO: 10/16/2020 12:35:49 PM MESSAGE: Created Site SITE_Ottawa.
+INFO: 10/16/2020 12:35:50 PM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/16/2020 12:35:51 PM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/16/2020 12:35:52 PM MESSAGE:  Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 12:35:52 PM MESSAGE:  Checking Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc..
+INFO: 10/16/2020 12:35:52 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 12:35:53 PM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 12:36:03 PM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 12:36:13 PM ERROR: Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc Claim took longer than 10 seconds. Exiting.
