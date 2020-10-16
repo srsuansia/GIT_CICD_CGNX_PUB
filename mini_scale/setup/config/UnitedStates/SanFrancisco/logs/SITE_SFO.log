@@ -1851,3 +1851,12 @@ INFO: 10/16/2020 01:27:28 PM MESSAGE:  No Change for Waninterface Circuit to T-M
 INFO: 10/16/2020 01:27:28 PM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 01:27:38 PM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 01:27:48 PM ERROR: Element Serial: 42105040-2306-707f-aaf4-2b273808c47b state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 03:45:48 PM MESSAGE: Created Site SITE_SFO.
+INFO: 10/16/2020 03:45:49 PM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/16/2020 03:45:49 PM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 03:45:49 PM MESSAGE:  Machine 42105040-2306-707f-aaf4-2b273808c47b is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 03:45:49 PM MESSAGE:  Checking Machine 42105040-2306-707f-aaf4-2b273808c47b..
+INFO: 10/16/2020 03:45:50 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 03:45:50 PM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 03:46:00 PM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 03:46:10 PM ERROR: Machine 42105040-2306-707f-aaf4-2b273808c47b Claim took longer than 10 seconds. Exiting.
