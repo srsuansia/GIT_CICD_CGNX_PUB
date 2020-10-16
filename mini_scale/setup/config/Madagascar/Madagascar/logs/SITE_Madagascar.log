@@ -409,3 +409,12 @@ INFO: 10/16/2020 08:06:42 AM MESSAGE:    No Change for dnsservices dns_madagasca
 INFO: 10/16/2020 08:06:42 AM MESSAGE:    No Change for Toolkit 16028349187680236.
 INFO: 10/16/2020 08:06:42 AM MESSAGE: No Change for Site SITE_Madagascar state (active).
 INFO: 10/16/2020 08:06:42 AM MESSAGE: DONE
+INFO: 10/16/2020 09:26:06 AM MESSAGE: Created Site SITE_Madagascar.
+INFO: 10/16/2020 09:26:07 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/16/2020 09:26:08 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/16/2020 09:26:08 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 10/16/2020 09:26:09 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 10/16/2020 09:26:09 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/16/2020 09:26:09 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 10.
+INFO: 10/16/2020 09:26:20 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 09:26:30 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 10 seconds. Exiting.
