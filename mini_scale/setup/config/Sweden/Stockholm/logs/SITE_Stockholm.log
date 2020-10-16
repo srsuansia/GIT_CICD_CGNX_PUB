@@ -409,3 +409,9 @@ INFO: 10/16/2020 11:18:58 AM MESSAGE:  No Change for Waninterface Circuit to Ver
 INFO: 10/16/2020 11:18:59 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 11:19:09 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 11:19:19 AM ERROR: Element Serial: 4210c205-332d-3591-47ad-27689e5858ca state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 11:19:31 AM MESSAGE: No Change for Site SITE_Stockholm.
+INFO: 10/16/2020 11:19:31 AM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 11:19:31 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/16/2020 11:19:32 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 11:19:42 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 11:19:52 AM ERROR: Element Serial: 4210c205-332d-3591-47ad-27689e5858ca state transition took longer than 10 seconds. Exiting.
