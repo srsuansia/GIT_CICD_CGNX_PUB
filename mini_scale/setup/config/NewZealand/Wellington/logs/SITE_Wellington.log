@@ -450,3 +450,9 @@ INFO: 10/16/2020 11:08:03 AM MESSAGE:  No Change for Waninterface Circuit to Vod
 INFO: 10/16/2020 11:08:03 AM MESSAGE:   Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
 INFO: 10/16/2020 11:08:13 AM MESSAGE:   Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 11:08:23 AM ERROR: Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f state transition took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 11:08:39 AM MESSAGE: No Change for Site SITE_Wellington.
+INFO: 10/16/2020 11:08:40 AM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/16/2020 11:08:42 AM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/16/2020 11:08:42 AM MESSAGE:   Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 11:08:53 AM MESSAGE:   Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 11:09:03 AM ERROR: Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f state transition took longer than 10 seconds. Exiting.
