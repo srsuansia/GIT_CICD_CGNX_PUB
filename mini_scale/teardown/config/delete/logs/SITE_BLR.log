@@ -137,3 +137,36 @@ INFO: 10/16/2020 06:28:10 AM MESSAGE: Disabling site..
 INFO: 10/16/2020 06:28:10 AM MESSAGE: Updated Site SITE_BLR to state disabled.
 INFO: 10/16/2020 06:28:10 AM MESSAGE: Deleting Site SITE_BLR..
 INFO: 10/16/2020 06:28:11 AM MESSAGE: DONE
+INFO: 10/16/2020 07:46:37 AM MESSAGE: Beginning to DESTROY site SITE_BLR(16028305510240081)..
+INFO: 10/16/2020 07:46:37 AM MESSAGE: Un-assigning and de-claiming Element BLR_HA_ION_01(42108316-62af-0a63-0ed5-9ef9888ec291) bound to 16028305510240081.
+INFO: 10/16/2020 07:46:37 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/16/2020 07:46:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/16/2020 07:46:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/16/2020 07:46:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/16/2020 07:46:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/16/2020 07:46:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/16/2020 07:46:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/16/2020 07:46:39 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/16/2020 07:46:39 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/16/2020 07:46:39 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/16/2020 07:46:39 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from BLR_HA_ION_01:
+INFO: 10/16/2020 07:46:39 AM MESSAGE:    Updating Spoke HA for Element BLR_HA_ION_01.
+INFO: 10/16/2020 07:46:40 AM MESSAGE: Un-assigning and de-claiming Element BLR_HA_ION_02(4210fff5-706e-5c8c-7e74-85f94d992ea1) bound to 16028305510240081.
+INFO: 10/16/2020 07:46:41 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/16/2020 07:46:41 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/16/2020 07:46:41 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/16/2020 07:46:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/16/2020 07:46:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/16/2020 07:46:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/16/2020 07:46:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/16/2020 07:46:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/16/2020 07:46:42 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/16/2020 07:46:43 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/16/2020 07:46:43 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from BLR_HA_ION_02:
+INFO: 10/16/2020 07:46:43 AM MESSAGE:    Updating Spoke HA for Element BLR_HA_ION_02.
+INFO: 10/16/2020 07:46:45 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 10/16/2020 07:46:45 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 10/16/2020 07:46:46 AM MESSAGE: Disabling site..
+INFO: 10/16/2020 07:46:46 AM MESSAGE: Updated Site SITE_BLR to state disabled.
+INFO: 10/16/2020 07:46:46 AM MESSAGE: Deleting Site SITE_BLR..
+INFO: 10/16/2020 07:46:47 AM MESSAGE: DONE
