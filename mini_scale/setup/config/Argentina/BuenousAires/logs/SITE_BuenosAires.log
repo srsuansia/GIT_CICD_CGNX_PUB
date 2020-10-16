@@ -1314,3 +1314,9 @@ INFO: 10/16/2020 11:05:22 AM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/16/2020 11:05:22 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 10.
 INFO: 10/16/2020 11:05:32 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 11:05:42 AM ERROR: Machine 4210024d-4f88-0811-bbea-40503cf61773 Claim took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 11:16:51 AM MESSAGE: No Change for Site SITE_BuenosAires.
+INFO: 10/16/2020 11:16:51 AM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/16/2020 11:16:51 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/16/2020 11:16:51 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 11:17:02 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 10 seconds out of 10.
+ERROR: 10/16/2020 11:17:12 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 10 seconds. Exiting.
