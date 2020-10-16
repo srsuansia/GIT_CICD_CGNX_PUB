@@ -526,3 +526,26 @@ INFO: 10/16/2020 12:05:58 PM MESSAGE:   Unclaimed(allocated). Beginning Claim pr
 INFO: 10/16/2020 12:05:59 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 10.
 INFO: 10/16/2020 12:06:09 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 10 seconds out of 10.
 ERROR: 10/16/2020 12:06:19 PM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 10 seconds. Exiting.
+INFO: 10/16/2020 12:13:12 PM MESSAGE: No Change for Site SITE_Madagascar.
+INFO: 10/16/2020 12:13:12 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/16/2020 12:13:12 PM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/16/2020 12:13:12 PM MESSAGE:  Element: Code is at correct version 5.4.3-a8.
+INFO: 10/16/2020 12:13:12 PM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 10/16/2020 12:13:13 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 10.
+INFO: 10/16/2020 12:13:23 PM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/16/2020 12:13:23 PM MESSAGE:    No Change for Interface 2.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Interface 3.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Interface 4.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Interface 5.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Interface 6.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Interface 7.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Interface 8.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Interface 9.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for Spoke HA in Element ION_MADAGASCAR.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for BGP Global Config 16028503954360009.
+INFO: 10/16/2020 12:13:24 PM MESSAGE:    No Change for NTP 16028499591330064.
+INFO: 10/16/2020 12:13:25 PM MESSAGE:    Created dnsservices dns_madagascar.
+INFO: 10/16/2020 12:13:25 PM MESSAGE:    No Change for Toolkit 16028499730840152.
+INFO: 10/16/2020 12:13:25 PM MESSAGE: No Change for Site SITE_Madagascar state (active).
+INFO: 10/16/2020 12:13:25 PM MESSAGE: DONE
