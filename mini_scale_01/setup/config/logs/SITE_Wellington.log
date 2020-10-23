@@ -15,3 +15,24 @@ INFO: 10/23/2020 02:22:47 AM MESSAGE:  Element: Code is at correct version 5.4.1
 INFO: 10/23/2020 02:22:47 AM MESSAGE:   Assigning Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f.
 INFO: 10/23/2020 02:22:47 AM MESSAGE:   Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 10/23/2020 02:22:53 AM ERROR: Element Serial: 4210b124-3b4a-78f6-5787-8b16141f625f state transition took longer than 5 seconds. Exiting.
+INFO: 10/23/2020 02:23:02 AM MESSAGE: No Change for Site SITE_Wellington.
+INFO: 10/23/2020 02:23:02 AM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/23/2020 02:23:02 AM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/23/2020 02:23:02 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/23/2020 02:23:02 AM MESSAGE:   No Change for Element ION_NZ.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for Spoke HA in Element ION_NZ.
+INFO: 10/23/2020 02:23:03 AM MESSAGE:    No Change for BGP Global Config 16034197685900159.
+INFO: 10/23/2020 02:23:04 AM MESSAGE:    No Change for NTP 16034196830200196.
+INFO: 10/23/2020 02:23:04 AM MESSAGE:    No Change for Toolkit 16034196978990146.
+INFO: 10/23/2020 02:23:04 AM MESSAGE: No Change for Site SITE_Wellington state (active).
+INFO: 10/23/2020 02:23:04 AM MESSAGE: DONE
