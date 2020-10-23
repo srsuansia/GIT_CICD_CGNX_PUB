@@ -33,3 +33,9 @@ INFO: 10/23/2020 02:09:01 AM MESSAGE:  No Change for Waninterface Circuit to Ver
 INFO: 10/23/2020 02:09:01 AM MESSAGE:  No Change for Spoke Cluster BLR_HA.
 INFO: 10/23/2020 02:09:01 AM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 10/23/2020 02:09:07 AM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 5 seconds. Exiting.
+INFO: 10/23/2020 02:09:19 AM MESSAGE: No Change for Site SITE_BLR.
+INFO: 10/23/2020 02:09:19 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/23/2020 02:09:20 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/23/2020 02:09:21 AM MESSAGE:  No Change for Spoke Cluster BLR_HA.
+INFO: 10/23/2020 02:09:21 AM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 10/23/2020 02:09:27 AM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 5 seconds. Exiting.
