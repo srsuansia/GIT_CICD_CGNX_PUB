@@ -15,3 +15,24 @@ INFO: 10/23/2020 02:25:41 AM MESSAGE:  Element: Code is at correct version 5.4.1
 INFO: 10/23/2020 02:25:41 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
 INFO: 10/23/2020 02:25:42 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 10/23/2020 02:25:48 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 5 seconds. Exiting.
+INFO: 10/23/2020 02:25:59 AM MESSAGE: No Change for Site SITE_BuenosAires.
+INFO: 10/23/2020 02:25:59 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/23/2020 02:25:59 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/23/2020 02:26:00 AM MESSAGE:  Element: Code is at correct version 5.4.1-b13.
+INFO: 10/23/2020 02:26:00 AM MESSAGE:   No Change for Element ION_ARGENTINA_01.
+INFO: 10/23/2020 02:26:00 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/23/2020 02:26:00 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/23/2020 02:26:00 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/23/2020 02:26:00 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/23/2020 02:26:00 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for Spoke HA in Element ION_ARGENTINA_01.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for BGP Global Config 16034199437970125.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for NTP 16034197109970117.
+INFO: 10/23/2020 02:26:01 AM MESSAGE:    No Change for Toolkit 16034197262050181.
+INFO: 10/23/2020 02:26:01 AM MESSAGE: No Change for Site SITE_BuenosAires state (active).
+INFO: 10/23/2020 02:26:02 AM MESSAGE: DONE
