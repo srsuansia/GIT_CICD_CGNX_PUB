@@ -8,3 +8,10 @@ INFO: 10/23/2020 02:21:50 AM MESSAGE:  Checking Machine 4210024d-4f88-0811-bbea-
 INFO: 10/23/2020 02:21:50 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 10/23/2020 02:21:51 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 5.
 ERROR: 10/23/2020 02:21:57 AM ERROR: Machine 4210024d-4f88-0811-bbea-40503cf61773 Claim took longer than 5 seconds. Exiting.
+INFO: 10/23/2020 02:25:40 AM MESSAGE: No Change for Site SITE_BuenosAires.
+INFO: 10/23/2020 02:25:40 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/23/2020 02:25:40 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/23/2020 02:25:41 AM MESSAGE:  Element: Code is at correct version 5.4.1-b13.
+INFO: 10/23/2020 02:25:41 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
+INFO: 10/23/2020 02:25:42 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 10/23/2020 02:25:48 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 5 seconds. Exiting.
