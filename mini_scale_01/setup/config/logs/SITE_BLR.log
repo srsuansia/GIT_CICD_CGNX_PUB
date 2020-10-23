@@ -1,0 +1,11 @@
+WARNING: 10/23/2020 01:57:54 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Airtel" in YAML file, but this may cause issues if configuration is re-applied to site.
+WARNING: 10/23/2020 01:57:54 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Verizon" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 10/23/2020 02:07:36 AM MESSAGE: Created Site SITE_BLR.
+INFO: 10/23/2020 02:07:37 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/23/2020 02:07:37 AM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/23/2020 02:07:37 AM MESSAGE:  Created Spoke Cluster BLR_HA.
+INFO: 10/23/2020 02:07:37 AM MESSAGE:  Machine 42108316-62af-0a63-0ed5-9ef9888ec291 is not CLAIMED, attempting to claim..
+INFO: 10/23/2020 02:07:37 AM MESSAGE:  Checking Machine 42108316-62af-0a63-0ed5-9ef9888ec291..
+INFO: 10/23/2020 02:07:37 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/23/2020 02:07:37 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/23/2020 02:07:43 AM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 5 seconds. Exiting.
