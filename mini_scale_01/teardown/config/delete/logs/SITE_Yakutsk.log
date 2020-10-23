@@ -18,3 +18,23 @@ INFO: 10/23/2020 02:05:40 AM MESSAGE: Disabling site..
 INFO: 10/23/2020 02:05:40 AM MESSAGE: Updated Site SITE_Yakutsk to state disabled.
 INFO: 10/23/2020 02:05:40 AM MESSAGE: Deleting Site SITE_Yakutsk..
 INFO: 10/23/2020 02:05:41 AM MESSAGE: DONE
+INFO: 10/23/2020 02:49:15 AM MESSAGE: Beginning to DESTROY site SITE_Yakutsk(16034196901220255)..
+INFO: 10/23/2020 02:49:15 AM MESSAGE: Un-assigning and de-claiming Element ION_RUSSIA(42109602-faf3-0d3f-7a7d-339705c38c6b) bound to 16034196901220255.
+INFO: 10/23/2020 02:49:16 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/23/2020 02:49:16 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/23/2020 02:49:16 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/23/2020 02:49:16 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/23/2020 02:49:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/23/2020 02:49:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/23/2020 02:49:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/23/2020 02:49:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/23/2020 02:49:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/23/2020 02:49:17 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/23/2020 02:49:17 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_RUSSIA:
+INFO: 10/23/2020 02:49:17 AM MESSAGE:    No Change for Spoke HA in Element ION_RUSSIA.
+INFO: 10/23/2020 02:49:18 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 10/23/2020 02:49:19 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/23/2020 02:49:19 AM MESSAGE: Disabling site..
+INFO: 10/23/2020 02:49:19 AM MESSAGE: Updated Site SITE_Yakutsk to state disabled.
+INFO: 10/23/2020 02:49:19 AM MESSAGE: Deleting Site SITE_Yakutsk..
+INFO: 10/23/2020 02:49:20 AM MESSAGE: DONE
