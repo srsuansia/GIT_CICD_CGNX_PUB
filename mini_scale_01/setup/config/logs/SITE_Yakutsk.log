@@ -1,2 +1,10 @@
 WARNING: 10/23/2020 01:57:40 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Airtel" in YAML file, but this may cause issues if configuration is re-applied to site.
 WARNING: 10/23/2020 01:57:40 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to At&T" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 10/23/2020 02:21:30 AM MESSAGE: Created Site SITE_Yakutsk.
+INFO: 10/23/2020 02:21:30 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/23/2020 02:21:30 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/23/2020 02:21:30 AM MESSAGE:  Machine 42109602-faf3-0d3f-7a7d-339705c38c6b is not CLAIMED, attempting to claim..
+INFO: 10/23/2020 02:21:30 AM MESSAGE:  Checking Machine 42109602-faf3-0d3f-7a7d-339705c38c6b..
+INFO: 10/23/2020 02:21:30 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/23/2020 02:21:31 AM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/23/2020 02:21:37 AM ERROR: Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Claim took longer than 5 seconds. Exiting.

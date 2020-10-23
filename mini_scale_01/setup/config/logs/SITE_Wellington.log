@@ -1,2 +1,10 @@
 WARNING: 10/23/2020 01:57:38 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to T-Mobile" in YAML file, but this may cause issues if configuration is re-applied to site.
 WARNING: 10/23/2020 01:57:38 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Vodafone" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 10/23/2020 02:21:22 AM MESSAGE: Created Site SITE_Wellington.
+INFO: 10/23/2020 02:21:22 AM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/23/2020 02:21:22 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/23/2020 02:21:22 AM MESSAGE:  Machine 4210b124-3b4a-78f6-5787-8b16141f625f is not CLAIMED, attempting to claim..
+INFO: 10/23/2020 02:21:22 AM MESSAGE:  Checking Machine 4210b124-3b4a-78f6-5787-8b16141f625f..
+INFO: 10/23/2020 02:21:22 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/23/2020 02:21:23 AM MESSAGE:   Machine 4210b124-3b4a-78f6-5787-8b16141f625f still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/23/2020 02:21:29 AM ERROR: Machine 4210b124-3b4a-78f6-5787-8b16141f625f Claim took longer than 5 seconds. Exiting.

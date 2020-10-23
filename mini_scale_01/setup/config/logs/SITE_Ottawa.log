@@ -1,2 +1,10 @@
 WARNING: 10/23/2020 01:57:52 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to BSNL" in YAML file, but this may cause issues if configuration is re-applied to site.
 WARNING: 10/23/2020 01:57:52 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Jio" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 10/23/2020 02:22:21 AM MESSAGE: Created Site SITE_Ottawa.
+INFO: 10/23/2020 02:22:21 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/23/2020 02:22:21 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 10/23/2020 02:22:21 AM MESSAGE:  Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc is not CLAIMED, attempting to claim..
+INFO: 10/23/2020 02:22:21 AM MESSAGE:  Checking Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc..
+INFO: 10/23/2020 02:22:21 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/23/2020 02:22:22 AM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/23/2020 02:22:28 AM ERROR: Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc Claim took longer than 5 seconds. Exiting.

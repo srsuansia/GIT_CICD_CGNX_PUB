@@ -1,2 +1,10 @@
 WARNING: 10/23/2020 01:57:45 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Airtel" in YAML file, but this may cause issues if configuration is re-applied to site.
 WARNING: 10/23/2020 01:57:45 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Jio" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 10/23/2020 02:21:47 AM MESSAGE: Created Site SITE_BuenosAires.
+INFO: 10/23/2020 02:21:48 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/23/2020 02:21:49 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 10/23/2020 02:21:49 AM MESSAGE:  Machine 4210024d-4f88-0811-bbea-40503cf61773 is not CLAIMED, attempting to claim..
+INFO: 10/23/2020 02:21:50 AM MESSAGE:  Checking Machine 4210024d-4f88-0811-bbea-40503cf61773..
+INFO: 10/23/2020 02:21:50 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/23/2020 02:21:51 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/23/2020 02:21:57 AM ERROR: Machine 4210024d-4f88-0811-bbea-40503cf61773 Claim took longer than 5 seconds. Exiting.

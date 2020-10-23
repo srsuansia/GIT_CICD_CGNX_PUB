@@ -1,2 +1,10 @@
 WARNING: 10/23/2020 01:57:49 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to AT&T" in YAML file, but this may cause issues if configuration is re-applied to site.
 WARNING: 10/23/2020 01:57:49 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Vodafone" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 10/23/2020 02:22:01 AM MESSAGE: Created Site SITE_Stockholm.
+INFO: 10/23/2020 02:22:03 AM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/23/2020 02:22:04 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/23/2020 02:22:04 AM MESSAGE:  Machine 4210c205-332d-3591-47ad-27689e5858ca is not CLAIMED, attempting to claim..
+INFO: 10/23/2020 02:22:04 AM MESSAGE:  Checking Machine 4210c205-332d-3591-47ad-27689e5858ca..
+INFO: 10/23/2020 02:22:04 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/23/2020 02:22:04 AM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/23/2020 02:22:10 AM ERROR: Machine 4210c205-332d-3591-47ad-27689e5858ca Claim took longer than 5 seconds. Exiting.
