@@ -40,3 +40,10 @@ INFO: 10/24/2020 07:15:36 AM MESSAGE: Disabling site..
 INFO: 10/24/2020 07:15:36 AM MESSAGE: Updated Site SITE_Ottawa to state disabled.
 INFO: 10/24/2020 07:15:37 AM MESSAGE: Deleting Site SITE_Ottawa..
 INFO: 10/24/2020 07:15:37 AM MESSAGE: DONE
+INFO: 10/24/2020 07:58:21 AM MESSAGE: Beginning to DESTROY site SITE_Ottawa(16035239998900056)..
+INFO: 10/24/2020 07:58:21 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to BSNL.
+INFO: 10/24/2020 07:58:21 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 10/24/2020 07:58:22 AM MESSAGE: Disabling site..
+INFO: 10/24/2020 07:58:22 AM MESSAGE: Updated Site SITE_Ottawa to state disabled.
+INFO: 10/24/2020 07:58:23 AM MESSAGE: Deleting Site SITE_Ottawa..
+INFO: 10/24/2020 07:58:24 AM MESSAGE: DONE

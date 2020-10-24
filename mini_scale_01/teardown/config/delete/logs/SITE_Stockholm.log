@@ -58,3 +58,10 @@ INFO: 10/24/2020 07:15:26 AM MESSAGE: Disabling site..
 INFO: 10/24/2020 07:15:26 AM MESSAGE: Updated Site SITE_Stockholm to state disabled.
 INFO: 10/24/2020 07:15:26 AM MESSAGE: Deleting Site SITE_Stockholm..
 INFO: 10/24/2020 07:15:26 AM MESSAGE: DONE
+INFO: 10/24/2020 07:58:17 AM MESSAGE: Beginning to DESTROY site SITE_Stockholm(16035239755370082)..
+INFO: 10/24/2020 07:58:17 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/24/2020 07:58:17 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Vodafone.
+INFO: 10/24/2020 07:58:17 AM MESSAGE: Disabling site..
+INFO: 10/24/2020 07:58:17 AM MESSAGE: Updated Site SITE_Stockholm to state disabled.
+INFO: 10/24/2020 07:58:18 AM MESSAGE: Deleting Site SITE_Stockholm..
+INFO: 10/24/2020 07:58:18 AM MESSAGE: DONE

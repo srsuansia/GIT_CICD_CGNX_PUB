@@ -45,3 +45,10 @@ INFO: 10/24/2020 07:15:21 AM MESSAGE: Disabling site..
 INFO: 10/24/2020 07:15:21 AM MESSAGE: Updated Site SITE_BuenosAires to state disabled.
 INFO: 10/24/2020 07:15:21 AM MESSAGE: Deleting Site SITE_BuenosAires..
 INFO: 10/24/2020 07:15:21 AM MESSAGE: DONE
+INFO: 10/24/2020 07:58:15 AM MESSAGE: Beginning to DESTROY site SITE_BuenosAires(16035239675160126)..
+INFO: 10/24/2020 07:58:15 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 10/24/2020 07:58:15 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 10/24/2020 07:58:15 AM MESSAGE: Disabling site..
+INFO: 10/24/2020 07:58:15 AM MESSAGE: Updated Site SITE_BuenosAires to state disabled.
+INFO: 10/24/2020 07:58:15 AM MESSAGE: Deleting Site SITE_BuenosAires..
+INFO: 10/24/2020 07:58:16 AM MESSAGE: DONE
