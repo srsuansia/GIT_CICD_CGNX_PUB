@@ -186,3 +186,8 @@ INFO: 10/24/2020 07:26:05 AM MESSAGE:  No Change for Waninterface Circuit to AT&
 INFO: 10/24/2020 07:26:05 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
 INFO: 10/24/2020 07:26:05 AM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 10/24/2020 07:26:11 AM ERROR: Element Serial: 42105040-2306-707f-aaf4-2b273808c47b state transition took longer than 5 seconds. Exiting.
+INFO: 10/24/2020 07:26:20 AM MESSAGE: No Change for Site SITE_SFO.
+INFO: 10/24/2020 07:26:20 AM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/24/2020 07:26:20 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/24/2020 07:26:20 AM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 07:26:26 AM ERROR: Element Serial: 42105040-2306-707f-aaf4-2b273808c47b state transition took longer than 5 seconds. Exiting.
