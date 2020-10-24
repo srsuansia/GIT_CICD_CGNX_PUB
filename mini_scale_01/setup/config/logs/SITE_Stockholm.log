@@ -135,3 +135,11 @@ INFO: 10/24/2020 02:09:16 AM MESSAGE:    No Change for NTP 16035050017870192.
 INFO: 10/24/2020 02:09:17 AM MESSAGE:    No Change for Toolkit 16035050175040059.
 INFO: 10/24/2020 02:09:17 AM MESSAGE: No Change for Site SITE_Stockholm state (active).
 INFO: 10/24/2020 02:09:18 AM MESSAGE: DONE
+INFO: 10/24/2020 07:19:36 AM MESSAGE: Created Site SITE_Stockholm.
+INFO: 10/24/2020 07:19:37 AM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/24/2020 07:19:37 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/24/2020 07:19:38 AM MESSAGE:  Machine 4210c205-332d-3591-47ad-27689e5858ca is not CLAIMED, attempting to claim..
+INFO: 10/24/2020 07:19:38 AM MESSAGE:  Checking Machine 4210c205-332d-3591-47ad-27689e5858ca..
+INFO: 10/24/2020 07:19:38 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/24/2020 07:19:39 AM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 07:19:45 AM ERROR: Machine 4210c205-332d-3591-47ad-27689e5858ca Claim took longer than 5 seconds. Exiting.

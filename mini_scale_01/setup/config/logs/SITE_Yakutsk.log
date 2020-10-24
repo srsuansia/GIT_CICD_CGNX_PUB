@@ -156,3 +156,11 @@ INFO: 10/24/2020 02:08:13 AM MESSAGE:    No Change for NTP 16035049777010122.
 INFO: 10/24/2020 02:08:13 AM MESSAGE:    No Change for Toolkit 16035049932310142.
 INFO: 10/24/2020 02:08:13 AM MESSAGE: No Change for Site SITE_Yakutsk state (active).
 INFO: 10/24/2020 02:08:13 AM MESSAGE: DONE
+INFO: 10/24/2020 07:19:12 AM MESSAGE: Created Site SITE_Yakutsk.
+INFO: 10/24/2020 07:19:12 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/24/2020 07:19:12 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 10/24/2020 07:19:12 AM MESSAGE:  Machine 42109602-faf3-0d3f-7a7d-339705c38c6b is not CLAIMED, attempting to claim..
+INFO: 10/24/2020 07:19:12 AM MESSAGE:  Checking Machine 42109602-faf3-0d3f-7a7d-339705c38c6b..
+INFO: 10/24/2020 07:19:12 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/24/2020 07:19:12 AM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 07:19:19 AM ERROR: Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Claim took longer than 5 seconds. Exiting.
