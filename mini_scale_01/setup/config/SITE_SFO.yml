@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-24T02:09:52.184415Z
+# Created at 2020-10-24T02:10:04.480886Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_SFO:
@@ -23,7 +23,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode: auto
         cluster_member_id:
-        connected: false
+        connected: true
         deployment_op:
         description:
         element_security_zones v2.0: []
