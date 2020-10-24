@@ -176,3 +176,8 @@ INFO: 10/24/2020 07:19:51 AM MESSAGE:  Checking Machine 42105040-2306-707f-aaf4-
 INFO: 10/24/2020 07:19:52 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 10/24/2020 07:19:52 AM MESSAGE:   Machine 42105040-2306-707f-aaf4-2b273808c47b still claiming, waited so far 0 seconds out of 5.
 ERROR: 10/24/2020 07:19:58 AM ERROR: Machine 42105040-2306-707f-aaf4-2b273808c47b Claim took longer than 5 seconds. Exiting.
+INFO: 10/24/2020 07:25:47 AM MESSAGE: No Change for Site SITE_SFO.
+INFO: 10/24/2020 07:25:47 AM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/24/2020 07:25:47 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/24/2020 07:25:47 AM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 07:25:53 AM ERROR: Element Serial: 42105040-2306-707f-aaf4-2b273808c47b state transition took longer than 5 seconds. Exiting.
