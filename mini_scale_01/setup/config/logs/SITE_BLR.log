@@ -387,3 +387,9 @@ INFO: 10/24/2020 07:20:09 AM MESSAGE:  Checking Machine 42108316-62af-0a63-0ed5-
 INFO: 10/24/2020 07:20:09 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 10/24/2020 07:20:09 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 5.
 ERROR: 10/24/2020 07:20:15 AM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 5 seconds. Exiting.
+INFO: 10/24/2020 07:28:05 AM MESSAGE: No Change for Site SITE_BLR.
+INFO: 10/24/2020 07:28:05 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/24/2020 07:28:05 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/24/2020 07:28:05 AM MESSAGE:  No Change for Spoke Cluster BLR_HA.
+INFO: 10/24/2020 07:28:05 AM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 07:28:11 AM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 5 seconds. Exiting.
