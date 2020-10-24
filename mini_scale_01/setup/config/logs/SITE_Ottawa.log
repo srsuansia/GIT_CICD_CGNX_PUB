@@ -45,3 +45,11 @@ INFO: 10/23/2020 02:29:01 AM MESSAGE:    No Change for NTP 16034197417960104.
 INFO: 10/23/2020 02:29:01 AM MESSAGE:    No Change for Toolkit 16034197568780245.
 INFO: 10/23/2020 02:29:01 AM MESSAGE: No Change for Site SITE_Ottawa state (active).
 INFO: 10/23/2020 02:29:01 AM MESSAGE: DONE
+INFO: 10/24/2020 02:03:38 AM MESSAGE: Created Site SITE_Ottawa.
+INFO: 10/24/2020 02:03:38 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/24/2020 02:03:39 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 10/24/2020 02:03:39 AM MESSAGE:  Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc is not CLAIMED, attempting to claim..
+INFO: 10/24/2020 02:03:39 AM MESSAGE:  Checking Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc..
+INFO: 10/24/2020 02:03:39 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/24/2020 02:03:40 AM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 02:03:46 AM ERROR: Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc Claim took longer than 5 seconds. Exiting.

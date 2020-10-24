@@ -57,3 +57,11 @@ INFO: 10/23/2020 02:23:28 AM MESSAGE:    No Change for NTP 16034196830200196.
 INFO: 10/23/2020 02:23:28 AM MESSAGE:    No Change for Toolkit 16034196978990146.
 INFO: 10/23/2020 02:23:28 AM MESSAGE: No Change for Site SITE_Wellington state (active).
 INFO: 10/23/2020 02:23:28 AM MESSAGE: DONE
+INFO: 10/24/2020 02:02:48 AM MESSAGE: Created Site SITE_Wellington.
+INFO: 10/24/2020 02:02:48 AM MESSAGE:  Created waninterface Circuit to T-Mobile.
+INFO: 10/24/2020 02:02:49 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/24/2020 02:02:49 AM MESSAGE:  Machine 4210b124-3b4a-78f6-5787-8b16141f625f is not CLAIMED, attempting to claim..
+INFO: 10/24/2020 02:02:49 AM MESSAGE:  Checking Machine 4210b124-3b4a-78f6-5787-8b16141f625f..
+INFO: 10/24/2020 02:02:49 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/24/2020 02:02:49 AM MESSAGE:   Machine 4210b124-3b4a-78f6-5787-8b16141f625f still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 02:02:55 AM ERROR: Machine 4210b124-3b4a-78f6-5787-8b16141f625f Claim took longer than 5 seconds. Exiting.

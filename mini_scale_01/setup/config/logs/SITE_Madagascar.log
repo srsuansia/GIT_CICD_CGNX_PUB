@@ -78,3 +78,11 @@ INFO: 10/23/2020 02:25:27 AM MESSAGE:    No Change for NTP 16034196989290222.
 INFO: 10/23/2020 02:25:28 AM MESSAGE:    No Change for Toolkit 16034197136960020.
 INFO: 10/23/2020 02:25:28 AM MESSAGE: No Change for Site SITE_Madagascar state (active).
 INFO: 10/23/2020 02:25:28 AM MESSAGE: DONE
+INFO: 10/24/2020 02:03:04 AM MESSAGE: Created Site SITE_Madagascar.
+INFO: 10/24/2020 02:03:05 AM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/24/2020 02:03:05 AM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/24/2020 02:03:05 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 10/24/2020 02:03:05 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 10/24/2020 02:03:05 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/24/2020 02:03:05 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 02:03:11 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.
