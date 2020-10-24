@@ -143,3 +143,8 @@ INFO: 10/24/2020 07:19:38 AM MESSAGE:  Checking Machine 4210c205-332d-3591-47ad-
 INFO: 10/24/2020 07:19:38 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 10/24/2020 07:19:39 AM MESSAGE:   Machine 4210c205-332d-3591-47ad-27689e5858ca still claiming, waited so far 0 seconds out of 5.
 ERROR: 10/24/2020 07:19:45 AM ERROR: Machine 4210c205-332d-3591-47ad-27689e5858ca Claim took longer than 5 seconds. Exiting.
+INFO: 10/24/2020 07:24:39 AM MESSAGE: No Change for Site SITE_Stockholm.
+INFO: 10/24/2020 07:24:39 AM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/24/2020 07:24:39 AM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/24/2020 07:24:39 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 07:24:45 AM ERROR: Element Serial: 4210c205-332d-3591-47ad-27689e5858ca state transition took longer than 5 seconds. Exiting.
