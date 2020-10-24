@@ -38,3 +38,23 @@ INFO: 10/23/2020 02:49:25 AM MESSAGE: Disabling site..
 INFO: 10/23/2020 02:49:25 AM MESSAGE: Updated Site SITE_Madagascar to state disabled.
 INFO: 10/23/2020 02:49:25 AM MESSAGE: Deleting Site SITE_Madagascar..
 INFO: 10/23/2020 02:49:26 AM MESSAGE: DONE
+INFO: 10/24/2020 07:15:13 AM MESSAGE: Beginning to DESTROY site SITE_Madagascar(16035049847980124)..
+INFO: 10/24/2020 07:15:14 AM MESSAGE: Un-assigning and de-claiming Element ION_MADAGASCAR(4210b512-5243-d410-01cb-e8bd6e482e14) bound to 16035049847980124.
+INFO: 10/24/2020 07:15:14 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/24/2020 07:15:14 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/24/2020 07:15:14 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/24/2020 07:15:14 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/24/2020 07:15:14 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/24/2020 07:15:14 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/24/2020 07:15:14 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/24/2020 07:15:15 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/24/2020 07:15:15 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/24/2020 07:15:15 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/24/2020 07:15:15 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_MADAGASCAR:
+INFO: 10/24/2020 07:15:15 AM MESSAGE:    No Change for Spoke HA in Element ION_MADAGASCAR.
+INFO: 10/24/2020 07:15:16 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/24/2020 07:15:16 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/24/2020 07:15:17 AM MESSAGE: Disabling site..
+INFO: 10/24/2020 07:15:17 AM MESSAGE: Updated Site SITE_Madagascar to state disabled.
+INFO: 10/24/2020 07:15:17 AM MESSAGE: Deleting Site SITE_Madagascar..
+INFO: 10/24/2020 07:15:20 AM MESSAGE: DONE
