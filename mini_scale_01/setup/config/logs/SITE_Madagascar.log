@@ -86,3 +86,10 @@ INFO: 10/24/2020 02:03:05 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-
 INFO: 10/24/2020 02:03:05 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 10/24/2020 02:03:05 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
 ERROR: 10/24/2020 02:03:11 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.
+INFO: 10/24/2020 02:05:56 AM MESSAGE: No Change for Site SITE_Madagascar.
+INFO: 10/24/2020 02:05:56 AM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/24/2020 02:05:56 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/24/2020 02:05:56 AM MESSAGE:  Element: Code is at correct version 5.4.3-a8.
+INFO: 10/24/2020 02:05:56 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 10/24/2020 02:05:57 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 02:06:03 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
