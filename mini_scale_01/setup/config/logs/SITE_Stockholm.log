@@ -163,3 +163,10 @@ INFO: 10/24/2020 07:25:30 AM MESSAGE:  No Change for Waninterface Circuit to AT&
 INFO: 10/24/2020 07:25:30 AM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
 INFO: 10/24/2020 07:25:31 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 10/24/2020 07:25:37 AM ERROR: Element Serial: 4210c205-332d-3591-47ad-27689e5858ca state transition took longer than 5 seconds. Exiting.
+INFO: 10/24/2020 08:11:28 AM MESSAGE: Created Site SITE_Stockholm.
+INFO: 10/24/2020 08:11:28 AM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/24/2020 08:11:28 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/24/2020 08:11:29 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/24/2020 08:11:29 AM MESSAGE:   Assigning Element Serial: 4210c205-332d-3591-47ad-27689e5858ca.
+INFO: 10/24/2020 08:11:29 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 08:11:35 AM ERROR: Element Serial: 4210c205-332d-3591-47ad-27689e5858ca state transition took longer than 5 seconds. Exiting.

@@ -118,3 +118,10 @@ INFO: 10/24/2020 07:27:48 AM MESSAGE:  No Change for Waninterface Circuit to BSN
 INFO: 10/24/2020 07:27:48 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
 INFO: 10/24/2020 07:27:48 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 10/24/2020 07:27:54 AM ERROR: Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc state transition took longer than 5 seconds. Exiting.
+INFO: 10/24/2020 08:11:45 AM MESSAGE: Created Site SITE_Ottawa.
+INFO: 10/24/2020 08:11:45 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/24/2020 08:11:45 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 10/24/2020 08:11:45 AM MESSAGE:  Element: Code is at correct version 5.4.3-a7.
+INFO: 10/24/2020 08:11:45 AM MESSAGE:   Assigning Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc.
+INFO: 10/24/2020 08:11:46 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 10/24/2020 08:11:52 AM ERROR: Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc state transition took longer than 5 seconds. Exiting.
