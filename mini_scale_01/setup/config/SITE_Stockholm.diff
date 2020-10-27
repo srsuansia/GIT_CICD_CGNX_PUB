@@ -5,13 +5,20 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-10-24T02:08:57.265665Z
-+# Created at 2020-10-24T08:15:13.755668Z
++# Created at 2020-10-27T07:44:28.419132Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    SITE_Stockholm:
      address:
-@@ -29,40 +30,34 @@
+@@ -23,46 +24,40 @@
+         - SPOKE
+         cluster_insertion_mode:
+         cluster_member_id:
+-        connected: true
++        connected: false
+         deployment_op:
+         description:
          element_security_zones v2.0: []
          interfaces v4.9:
            '1':
