@@ -487,3 +487,12 @@ INFO: 10/24/2020 08:18:14 AM MESSAGE:    No Change for NTP 16035269809980194.
 INFO: 10/24/2020 08:18:14 AM MESSAGE:    No Change for Toolkit 16035269970420083.
 INFO: 10/24/2020 08:18:14 AM MESSAGE: No Change for Site SITE_BLR state (active).
 INFO: 10/24/2020 08:18:14 AM MESSAGE: DONE
+INFO: 10/27/2020 07:39:04 AM MESSAGE: Created Site SITE_BLR.
+INFO: 10/27/2020 07:39:05 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/27/2020 07:39:05 AM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/27/2020 07:39:05 AM MESSAGE:  Created Spoke Cluster BLR_HA.
+INFO: 10/27/2020 07:39:05 AM MESSAGE:  Machine 42108316-62af-0a63-0ed5-9ef9888ec291 is not CLAIMED, attempting to claim..
+INFO: 10/27/2020 07:39:05 AM MESSAGE:  Checking Machine 42108316-62af-0a63-0ed5-9ef9888ec291..
+INFO: 10/27/2020 07:39:05 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/27/2020 07:39:06 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/27/2020 07:39:12 AM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 5 seconds. Exiting.

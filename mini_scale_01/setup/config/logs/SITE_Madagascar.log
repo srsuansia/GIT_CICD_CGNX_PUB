@@ -296,3 +296,8 @@ INFO: 10/24/2020 08:14:03 AM MESSAGE:    No Change for NTP 16035239606390136.
 INFO: 10/24/2020 08:14:03 AM MESSAGE:    No Change for Toolkit 16035269227460197.
 INFO: 10/24/2020 08:14:03 AM MESSAGE: No Change for Site SITE_Madagascar state (active).
 INFO: 10/24/2020 08:14:03 AM MESSAGE: DONE
+INFO: 10/27/2020 07:38:15 AM MESSAGE: Created Site SITE_Madagascar.
+INFO: 10/27/2020 07:38:15 AM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/27/2020 07:38:15 AM MESSAGE:  Created waninterface Circuit to Verizon.
+INFO: 10/27/2020 07:38:16 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 10/27/2020 07:38:22 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
