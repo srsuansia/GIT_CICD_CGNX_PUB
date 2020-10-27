@@ -140,3 +140,8 @@ INFO: 10/27/2020 07:38:25 AM MESSAGE:  Created waninterface Circuit to Airtel.
 INFO: 10/27/2020 07:38:25 AM MESSAGE:  Created waninterface Circuit to Jio.
 INFO: 10/27/2020 07:38:25 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 10/27/2020 07:38:32 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 5 seconds. Exiting.
+INFO: 10/27/2020 07:43:02 AM MESSAGE: No Change for Site SITE_BuenosAires.
+INFO: 10/27/2020 07:43:03 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/27/2020 07:43:03 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/27/2020 07:43:03 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 10/27/2020 07:43:09 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 5 seconds. Exiting.
