@@ -85,3 +85,10 @@ INFO: 10/27/2020 07:30:05 AM MESSAGE: Disabling site..
 INFO: 10/27/2020 07:30:06 AM MESSAGE: Updated Site SITE_Madagascar to state disabled.
 INFO: 10/27/2020 07:30:06 AM MESSAGE: Deleting Site SITE_Madagascar..
 INFO: 10/27/2020 07:30:09 AM MESSAGE: DONE
+INFO: 10/28/2020 02:33:55 PM MESSAGE: Beginning to DESTROY site SITE_Madagascar(16037842955590151)..
+INFO: 10/28/2020 02:33:55 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/28/2020 02:33:55 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/28/2020 02:33:55 PM MESSAGE: Disabling site..
+INFO: 10/28/2020 02:33:56 PM MESSAGE: Updated Site SITE_Madagascar to state disabled.
+INFO: 10/28/2020 02:33:56 PM MESSAGE: Deleting Site SITE_Madagascar..
+INFO: 10/28/2020 02:33:56 PM MESSAGE: DONE

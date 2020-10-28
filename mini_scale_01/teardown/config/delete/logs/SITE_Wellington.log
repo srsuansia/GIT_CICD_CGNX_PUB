@@ -98,3 +98,23 @@ INFO: 10/27/2020 07:29:38 AM MESSAGE: Disabling site..
 INFO: 10/27/2020 07:29:39 AM MESSAGE: Updated Site SITE_Wellington to state disabled.
 INFO: 10/27/2020 07:29:39 AM MESSAGE: Deleting Site SITE_Wellington..
 INFO: 10/27/2020 07:29:40 AM MESSAGE: DONE
+INFO: 10/28/2020 02:33:47 PM MESSAGE: Beginning to DESTROY site SITE_Wellington(16037842797380205)..
+INFO: 10/28/2020 02:33:47 PM MESSAGE: Un-assigning and de-claiming Element ION_NZ(4210b124-3b4a-78f6-5787-8b16141f625f) bound to 16037842797380205.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/28/2020 02:33:48 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/28/2020 02:33:49 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/28/2020 02:33:49 PM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_NZ:
+INFO: 10/28/2020 02:33:49 PM MESSAGE:    No Change for Spoke HA in Element ION_NZ.
+INFO: 10/28/2020 02:33:50 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to T-Mobile.
+INFO: 10/28/2020 02:33:50 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Vodafone.
+INFO: 10/28/2020 02:33:50 PM MESSAGE: Disabling site..
+INFO: 10/28/2020 02:33:51 PM MESSAGE: Updated Site SITE_Wellington to state disabled.
+INFO: 10/28/2020 02:33:51 PM MESSAGE: Deleting Site SITE_Wellington..
+INFO: 10/28/2020 02:33:52 PM MESSAGE: DONE

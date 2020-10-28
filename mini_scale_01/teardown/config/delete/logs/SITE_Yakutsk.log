@@ -85,3 +85,10 @@ INFO: 10/27/2020 07:29:50 AM MESSAGE: Disabling site..
 INFO: 10/27/2020 07:29:51 AM MESSAGE: Updated Site SITE_Yakutsk to state disabled.
 INFO: 10/27/2020 07:29:51 AM MESSAGE: Deleting Site SITE_Yakutsk..
 INFO: 10/27/2020 07:29:53 AM MESSAGE: DONE
+INFO: 10/28/2020 02:33:53 PM MESSAGE: Beginning to DESTROY site SITE_Yakutsk(16037842877010208)..
+INFO: 10/28/2020 02:33:53 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 10/28/2020 02:33:53 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 10/28/2020 02:33:53 PM MESSAGE: Disabling site..
+INFO: 10/28/2020 02:33:53 PM MESSAGE: Updated Site SITE_Yakutsk to state disabled.
+INFO: 10/28/2020 02:33:53 PM MESSAGE: Deleting Site SITE_Yakutsk..
+INFO: 10/28/2020 02:33:54 PM MESSAGE: DONE
