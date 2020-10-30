@@ -276,3 +276,10 @@ INFO: 10/30/2020 10:15:31 AM MESSAGE:  Checking Machine 42109602-faf3-0d3f-7a7d-
 INFO: 10/30/2020 10:15:31 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 10/30/2020 10:15:31 AM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b still claiming, waited so far 0 seconds out of 5.
 ERROR: 10/30/2020 10:15:37 AM ERROR: Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Claim took longer than 5 seconds. Exiting.
+INFO: 10/30/2020 10:17:43 AM MESSAGE: No Change for Site SITE_Yakutsk.
+INFO: 10/30/2020 10:17:43 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/30/2020 10:17:43 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 10/30/2020 10:17:43 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/30/2020 10:17:43 AM MESSAGE:   Assigning Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b.
+INFO: 10/30/2020 10:17:43 AM MESSAGE:   Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 10/30/2020 10:17:49 AM ERROR: Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b state transition took longer than 5 seconds. Exiting.
