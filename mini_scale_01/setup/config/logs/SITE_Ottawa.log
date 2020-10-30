@@ -185,3 +185,10 @@ INFO: 10/27/2020 07:46:15 AM MESSAGE:    No Change for NTP 16037843371840108.
 INFO: 10/27/2020 07:46:15 AM MESSAGE:    No Change for Toolkit 16037843532600212.
 INFO: 10/27/2020 07:46:15 AM MESSAGE: No Change for Site SITE_Ottawa state (active).
 INFO: 10/27/2020 07:46:16 AM MESSAGE: DONE
+INFO: 10/30/2020 12:53:26 AM MESSAGE: Created Site SITE_Ottawa.
+INFO: 10/30/2020 12:53:27 AM MESSAGE:  Created waninterface Circuit to BSNL.
+INFO: 10/30/2020 12:53:27 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 10/30/2020 12:53:27 AM MESSAGE:  Element: Code is at correct version 5.4.3-a7.
+INFO: 10/30/2020 12:53:27 AM MESSAGE:   Assigning Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc.
+INFO: 10/30/2020 12:53:27 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 10/30/2020 12:53:33 AM ERROR: Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc state transition took longer than 5 seconds. Exiting.

@@ -227,3 +227,10 @@ INFO: 10/27/2020 07:44:30 AM MESSAGE:    No Change for NTP 16037843204490227.
 INFO: 10/27/2020 07:44:30 AM MESSAGE:    No Change for Toolkit 16037843360590027.
 INFO: 10/27/2020 07:44:30 AM MESSAGE: No Change for Site SITE_Stockholm state (active).
 INFO: 10/27/2020 07:44:31 AM MESSAGE: DONE
+INFO: 10/30/2020 12:53:09 AM MESSAGE: Created Site SITE_Stockholm.
+INFO: 10/30/2020 12:53:09 AM MESSAGE:  Created waninterface Circuit to AT&T.
+INFO: 10/30/2020 12:53:09 AM MESSAGE:  Created waninterface Circuit to Vodafone.
+INFO: 10/30/2020 12:53:10 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/30/2020 12:53:10 AM MESSAGE:   Assigning Element Serial: 4210c205-332d-3591-47ad-27689e5858ca.
+INFO: 10/30/2020 12:53:10 AM MESSAGE:   Element Serial: 4210c205-332d-3591-47ad-27689e5858ca not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 10/30/2020 12:53:16 AM ERROR: Element Serial: 4210c205-332d-3591-47ad-27689e5858ca state transition took longer than 5 seconds. Exiting.
