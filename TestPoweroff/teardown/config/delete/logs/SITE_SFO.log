@@ -1,0 +1,20 @@
+INFO: 10/30/2020 01:18:22 AM MESSAGE: Beginning to DESTROY site SITE_SFO(16040191974930090)..
+INFO: 10/30/2020 01:18:22 AM MESSAGE: Un-assigning and de-claiming Element ION_SFO(42105040-2306-707f-aaf4-2b273808c47b) bound to 16040191974930090.
+INFO: 10/30/2020 01:18:22 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/30/2020 01:18:22 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/30/2020 01:18:23 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/30/2020 01:18:23 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/30/2020 01:18:23 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/30/2020 01:18:23 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/30/2020 01:18:23 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/30/2020 01:18:23 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/30/2020 01:18:23 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/30/2020 01:18:23 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/30/2020 01:18:24 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_SFO:
+INFO: 10/30/2020 01:18:24 AM MESSAGE:    No Change for Spoke HA in Element ION_SFO.
+INFO: 10/30/2020 01:18:26 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/30/2020 01:18:26 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/30/2020 01:18:27 AM MESSAGE: Disabling site..
+INFO: 10/30/2020 01:18:27 AM MESSAGE: Updated Site SITE_SFO to state disabled.
+INFO: 10/30/2020 01:18:27 AM MESSAGE: Deleting Site SITE_SFO..
+INFO: 10/30/2020 01:18:28 AM MESSAGE: DONE

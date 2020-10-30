@@ -1,0 +1,20 @@
+INFO: 10/30/2020 01:17:56 AM MESSAGE: Beginning to DESTROY site SITE_Madagascar(16040191683000196)..
+INFO: 10/30/2020 01:17:56 AM MESSAGE: Un-assigning and de-claiming Element ION_MADAGASCAR(4210b512-5243-d410-01cb-e8bd6e482e14) bound to 16040191683000196.
+INFO: 10/30/2020 01:17:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 10/30/2020 01:17:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 10/30/2020 01:17:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 10/30/2020 01:17:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 10/30/2020 01:17:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 10/30/2020 01:17:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 10/30/2020 01:17:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 10/30/2020 01:17:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 10/30/2020 01:17:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 10/30/2020 01:17:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 10/30/2020 01:17:58 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_MADAGASCAR:
+INFO: 10/30/2020 01:17:58 AM MESSAGE:    No Change for Spoke HA in Element ION_MADAGASCAR.
+INFO: 10/30/2020 01:17:59 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 10/30/2020 01:18:00 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Verizon.
+INFO: 10/30/2020 01:18:00 AM MESSAGE: Disabling site..
+INFO: 10/30/2020 01:18:00 AM MESSAGE: Updated Site SITE_Madagascar to state disabled.
+INFO: 10/30/2020 01:18:01 AM MESSAGE: Deleting Site SITE_Madagascar..
+INFO: 10/30/2020 01:18:01 AM MESSAGE: DONE
