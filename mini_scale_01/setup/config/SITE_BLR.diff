@@ -5,90 +5,18 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-10-23T01:57:26.796132Z
-+# Created at 2020-10-30T00:59:37.114765Z
++# Created at 2020-10-30T01:00:00.647384Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    SITE_BLR:
      address:
-@@ -414,40 +415,34 @@
+@@ -408,7 +409,7 @@
+         - SPOKE
+         cluster_insertion_mode:
+         cluster_member_id:
+-        connected: true
++        connected: false
+         deployment_op:
+         description:
          element_security_zones v2.0: []
-         interfaces v4.9:
-           '1':
--            admin_up: true
--            attached_lan_networks:
--            bound_interfaces:
--            bypass_pair:
--            description: ''
--            devicemgmt_policysetstack_id:
--            dhcp_relay:
--            directed_broadcast: false
--            ethernet_port:
--              full_duplex: false
--              speed: 0
--            ipv4_config:
--              dhcp_config:
--              dns_v4_config:
--              routes:
--              static_config:
--              type: dhcp
--            mac_address:
--            mtu: 1500
--            nat_address:
--            nat_pools:
--            nat_port: 0
--            nat_zone_id: internet
--            network_context_id:
--            parent:
--            pppoe_config:
--            scope: global
--            service_link_config:
--            site_wan_interface_ids:
--            - Circuit to Airtel
--            sub_interface:
--            tags:
--            type: port
--            used_for: public
-+            admin_up: false
-+            attached_lan_networks:
-+            bound_interfaces:
-+            bypass_pair:
-+            description: ''
-+            devicemgmt_policysetstack_id:
-+            dhcp_relay:
-+            directed_broadcast: false
-+            ethernet_port:
-+              full_duplex: false
-+              speed: 0
-+            ipv4_config:
-+            mac_address:
-+            mtu: 1500
-+            nat_address:
-+            nat_pools:
-+            nat_port: 0
-+            nat_zone_id:
-+            network_context_id:
-+            parent:
-+            pppoe_config:
-+            scope: local
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: port
-+            used_for: none
-           '2':
-             admin_up: false
-             attached_lan_networks:
-@@ -770,11 +765,6 @@
-         serial_number: 4210fff5-706e-5c8c-7e74-85f94d992ea1
-         software_version: 5.4.1-b15
-         spoke_ha_config:
--          cluster_id: BLR_HA
--          enable: true
--          priority: 20
--          source_interface: controller 1
--          track:
-         state: bound
-         tags:
-         tenant_id: '2750'
