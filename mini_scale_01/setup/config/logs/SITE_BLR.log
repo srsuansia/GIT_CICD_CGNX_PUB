@@ -830,3 +830,25 @@ INFO: 10/30/2020 10:23:41 AM MESSAGE:  Checking Machine 4210fff5-706e-5c8c-7e74-
 INFO: 10/30/2020 10:23:41 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 10/30/2020 10:23:41 AM MESSAGE:   Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 still claiming, waited so far 0 seconds out of 5.
 ERROR: 10/30/2020 10:23:47 AM ERROR: Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 Claim took longer than 5 seconds. Exiting.
+INFO: 10/30/2020 10:23:58 AM MESSAGE: No Change for Site SITE_BLR.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:  No Change for Spoke Cluster BLR_HA.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:   No Change for Element BLR_HA_ION_01.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/30/2020 10:23:58 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for Spoke HA in Element BLR_HA_ION_01.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for BGP Global Config 16040534038050226.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for NTP 16040529892010057.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:    No Change for Toolkit 16040530047820126.
+INFO: 10/30/2020 10:23:59 AM MESSAGE:   Element Serial: 4210fff5-706e-5c8c-7e74-85f94d992ea1 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 0 seconds out of 5.
+ERROR: 10/30/2020 10:24:06 AM ERROR: Element Serial: 4210fff5-706e-5c8c-7e74-85f94d992ea1 state transition took longer than 5 seconds. Exiting.
