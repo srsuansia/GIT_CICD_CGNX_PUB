@@ -320,3 +320,24 @@ INFO: 10/30/2020 10:17:31 AM MESSAGE:    No Change for NTP 16040529232590248.
 INFO: 10/30/2020 10:17:31 AM MESSAGE:    No Change for Toolkit 16040529386260133.
 INFO: 10/30/2020 10:17:31 AM MESSAGE: No Change for Site SITE_Wellington state (active).
 INFO: 10/30/2020 10:17:32 AM MESSAGE: DONE
+INFO: 10/30/2020 10:20:18 AM MESSAGE: No Change for Site SITE_Wellington.
+INFO: 10/30/2020 10:20:18 AM MESSAGE:  No Change for Waninterface Circuit to T-Mobile.
+INFO: 10/30/2020 10:20:18 AM MESSAGE:  No Change for Waninterface Circuit to Vodafone.
+INFO: 10/30/2020 10:20:18 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:   No Change for Element ION_NZ.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/30/2020 10:20:19 AM MESSAGE:    No Change for Spoke HA in Element ION_NZ.
+INFO: 10/30/2020 10:20:20 AM MESSAGE:    No Change for BGP Global Config 16040530142970151.
+INFO: 10/30/2020 10:20:20 AM MESSAGE:    No Change for NTP 16040529232590248.
+INFO: 10/30/2020 10:20:20 AM MESSAGE:    No Change for Toolkit 16040529386260133.
+INFO: 10/30/2020 10:20:20 AM MESSAGE: No Change for Site SITE_Wellington state (active).
+INFO: 10/30/2020 10:20:20 AM MESSAGE: DONE
