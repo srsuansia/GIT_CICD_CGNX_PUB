@@ -267,3 +267,18 @@ INFO: 10/30/2020 10:22:41 AM MESSAGE:    No Change for NTP 16040529756620249.
 INFO: 10/30/2020 10:22:42 AM MESSAGE:    No Change for Toolkit 16040529930000227.
 INFO: 10/30/2020 10:22:42 AM MESSAGE: No Change for Site SITE_Ottawa state (active).
 INFO: 10/30/2020 10:22:42 AM MESSAGE: DONE
+INFO: 10/30/2020 10:22:53 AM MESSAGE: No Change for Site SITE_Ottawa.
+INFO: 10/30/2020 10:22:54 AM MESSAGE:  No Change for Waninterface Circuit to BSNL.
+INFO: 10/30/2020 10:22:54 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/30/2020 10:22:54 AM MESSAGE:  Element: Code is at correct version 5.4.3-a7.
+INFO: 10/30/2020 10:22:55 AM MESSAGE:   No Change for Element ION_CANADA.
+INFO: 10/30/2020 10:22:55 AM MESSAGE:    No Change for Interface 1.
+INFO: 10/30/2020 10:22:55 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/30/2020 10:22:55 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/30/2020 10:22:56 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/30/2020 10:22:56 AM MESSAGE:    No Change for Spoke HA in Element ION_CANADA.
+INFO: 10/30/2020 10:22:56 AM MESSAGE:    No Change for BGP Global Config 16040533472270236.
+INFO: 10/30/2020 10:22:57 AM MESSAGE:    No Change for NTP 16040529756620249.
+INFO: 10/30/2020 10:22:57 AM MESSAGE:    No Change for Toolkit 16040529930000227.
+INFO: 10/30/2020 10:22:58 AM MESSAGE: No Change for Site SITE_Ottawa state (active).
+INFO: 10/30/2020 10:22:58 AM MESSAGE: DONE

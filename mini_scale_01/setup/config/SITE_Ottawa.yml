@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-10-30T10:22:43.041961Z
+# Created at 2020-10-30T10:22:59.271696Z
 # by system_2750@soumyars.com
 sites v4.5:
   SITE_Ottawa:
@@ -23,7 +23,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode:
         cluster_member_id:
-        connected: false
+        connected: true
         deployment_op:
         description:
         element_security_zones v2.0: []
