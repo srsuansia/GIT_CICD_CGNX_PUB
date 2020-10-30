@@ -245,3 +245,10 @@ INFO: 10/30/2020 10:16:15 AM MESSAGE:  Checking Machine 42104b4e-0494-1acd-04b3-
 INFO: 10/30/2020 10:16:15 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 10/30/2020 10:16:15 AM MESSAGE:   Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc still claiming, waited so far 0 seconds out of 5.
 ERROR: 10/30/2020 10:16:21 AM ERROR: Machine 42104b4e-0494-1acd-04b3-5dd1b0e40bfc Claim took longer than 5 seconds. Exiting.
+INFO: 10/30/2020 10:22:23 AM MESSAGE: No Change for Site SITE_Ottawa.
+INFO: 10/30/2020 10:22:24 AM MESSAGE:  No Change for Waninterface Circuit to BSNL.
+INFO: 10/30/2020 10:22:24 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 10/30/2020 10:22:24 AM MESSAGE:  Element: Code is at correct version 5.4.3-a7.
+INFO: 10/30/2020 10:22:24 AM MESSAGE:   Assigning Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc.
+INFO: 10/30/2020 10:22:24 AM MESSAGE:   Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 10/30/2020 10:22:30 AM ERROR: Element Serial: 42104b4e-0494-1acd-04b3-5dd1b0e40bfc state transition took longer than 5 seconds. Exiting.
