@@ -4,95 +4,19 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-10-30T00:57:23.872773Z
-+# Created at 2020-10-30T10:21:49.152761Z
+-# Created at 2020-10-30T10:21:53.480762Z
++# Created at 2020-10-30T10:22:03.051771Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    SITE_SFO:
      address:
-@@ -23,46 +24,40 @@
+@@ -23,7 +24,7 @@
          - SPOKE
          cluster_insertion_mode: auto
          cluster_member_id:
--        connected: true
-+        connected: false
+-        connected: false
++        connected: true
          deployment_op:
          description:
          element_security_zones v2.0: []
-         interfaces v4.9:
-           '1':
--            admin_up: true
--            attached_lan_networks:
--            bound_interfaces:
--            bypass_pair:
--            description: ''
--            devicemgmt_policysetstack_id:
--            dhcp_relay:
--            directed_broadcast: false
--            ethernet_port:
--              full_duplex: false
--              speed: 0
--            ipv4_config:
--              dhcp_config:
--              dns_v4_config:
--              routes:
--              static_config:
--              type: dhcp
--            mac_address:
--            mtu: 1500
--            nat_address:
--            nat_pools:
--            nat_port: 0
--            nat_zone_id:
--            network_context_id:
--            parent:
--            pppoe_config:
--            scope: local
--            service_link_config:
--            site_wan_interface_ids:
--            - Circuit to AT&T
--            sub_interface:
--            tags:
--            type: port
--            used_for: public
-+            admin_up: false
-+            attached_lan_networks:
-+            bound_interfaces:
-+            bypass_pair:
-+            description: ''
-+            devicemgmt_policysetstack_id:
-+            dhcp_relay:
-+            directed_broadcast: false
-+            ethernet_port:
-+              full_duplex: false
-+              speed: 0
-+            ipv4_config:
-+            mac_address:
-+            mtu: 1500
-+            nat_address:
-+            nat_pools:
-+            nat_port: 0
-+            nat_zone_id:
-+            network_context_id:
-+            parent:
-+            pppoe_config:
-+            scope: local
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: port
-+            used_for: none
-           '2':
-             admin_up: false
-             attached_lan_networks:
-@@ -409,7 +404,7 @@
-         vpn_to_vpn_forwarding: true
-     extended_tags:
-     hubclusters v2.0:
--      default-2750-16040191974930090:
-+      default-2750-16040529660740067:
-         admin_up: true
-         load_alarm_threshold: 90
-         subscription_factor: 0.5
