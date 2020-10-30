@@ -332,3 +332,26 @@ INFO: 10/30/2020 10:21:31 AM MESSAGE:  Element: Code is at correct version 5.4.1
 INFO: 10/30/2020 10:21:31 AM MESSAGE:   Assigning Element Serial: 42105040-2306-707f-aaf4-2b273808c47b.
 INFO: 10/30/2020 10:21:31 AM MESSAGE:   Element Serial: 42105040-2306-707f-aaf4-2b273808c47b not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 10/30/2020 10:21:37 AM ERROR: Element Serial: 42105040-2306-707f-aaf4-2b273808c47b state transition took longer than 5 seconds. Exiting.
+INFO: 10/30/2020 10:21:50 AM MESSAGE: No Change for Site SITE_SFO.
+INFO: 10/30/2020 10:21:50 AM MESSAGE:  No Change for Waninterface Circuit to AT&T.
+INFO: 10/30/2020 10:21:50 AM MESSAGE:  No Change for Waninterface Circuit to Verizon.
+INFO: 10/30/2020 10:21:50 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 10/30/2020 10:21:50 AM MESSAGE:   No Change for Element ION_SFO.
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    No Change for Interface 2.
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    No Change for Interface 3.
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    No Change for Interface 4.
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    No Change for Interface 5.
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    No Change for Interface 6.
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    No Change for Interface 7.
+INFO: 10/30/2020 10:21:51 AM MESSAGE:    No Change for Interface 8.
+INFO: 10/30/2020 10:21:52 AM MESSAGE:    No Change for Interface 9.
+INFO: 10/30/2020 10:21:52 AM MESSAGE:    No Change for Spoke HA in Element ION_SFO.
+WARNING: 10/30/2020 10:21:52 AM WARNING: Routing Prefix List auto-prefix-adv-and-distribute is auto_generated. Skipping.
+WARNING: 10/30/2020 10:21:52 AM WARNING: Routing Prefix List auto-prefix-adv-no-distribute is auto_generated. Skipping.
+INFO: 10/30/2020 10:21:52 AM MESSAGE:    No Change for BGP Global Config 16040532936070152.
+INFO: 10/30/2020 10:21:52 AM MESSAGE:    No Change for NTP 16040529674560187.
+INFO: 10/30/2020 10:21:52 AM MESSAGE:    No Change for Toolkit 16040529834870251.
+INFO: 10/30/2020 10:21:52 AM MESSAGE: No Change for Site SITE_SFO state (active).
+INFO: 10/30/2020 10:21:52 AM MESSAGE: DONE
