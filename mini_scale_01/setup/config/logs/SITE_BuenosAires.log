@@ -209,3 +209,11 @@ INFO: 10/30/2020 01:01:08 AM MESSAGE:    No Change for NTP 16037839106100115.
 INFO: 10/30/2020 01:01:09 AM MESSAGE:    No Change for Toolkit 16038833013280229.
 INFO: 10/30/2020 01:01:09 AM MESSAGE: No Change for Site SITE_BuenosAires state (active).
 INFO: 10/30/2020 01:01:09 AM MESSAGE: DONE
+INFO: 10/30/2020 10:15:48 AM MESSAGE: Created Site SITE_BuenosAires.
+INFO: 10/30/2020 10:15:49 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 10/30/2020 10:15:49 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 10/30/2020 10:15:50 AM MESSAGE:  Machine 4210024d-4f88-0811-bbea-40503cf61773 is not CLAIMED, attempting to claim..
+INFO: 10/30/2020 10:15:50 AM MESSAGE:  Checking Machine 4210024d-4f88-0811-bbea-40503cf61773..
+INFO: 10/30/2020 10:15:50 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 10/30/2020 10:15:50 AM MESSAGE:   Machine 4210024d-4f88-0811-bbea-40503cf61773 still claiming, waited so far 0 seconds out of 5.
+ERROR: 10/30/2020 10:15:57 AM ERROR: Machine 4210024d-4f88-0811-bbea-40503cf61773 Claim took longer than 5 seconds. Exiting.
