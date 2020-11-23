@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-11-23T11:12:43.446998Z
+# Created at 2020-11-23T11:12:54.772350Z
 # by system_2750@soumyars.com
 sites v4.5:
   TestVISite:
@@ -17,7 +17,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode:
         cluster_member_id:
-        connected: true
+        connected: false
         deployment_op:
         description:
         element_security_zones v2.0: []
