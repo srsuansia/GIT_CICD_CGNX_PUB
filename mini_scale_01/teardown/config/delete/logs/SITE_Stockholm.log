@@ -105,3 +105,23 @@ INFO: 10/28/2020 02:34:04 PM MESSAGE: Disabling site..
 INFO: 10/28/2020 02:34:04 PM MESSAGE: Updated Site SITE_Stockholm to state disabled.
 INFO: 10/28/2020 02:34:05 PM MESSAGE: Deleting Site SITE_Stockholm..
 INFO: 10/28/2020 02:34:05 PM MESSAGE: DONE
+INFO: 11/23/2020 10:08:06 AM MESSAGE: Beginning to DESTROY site SITE_Stockholm(16040529579900119)..
+INFO: 11/23/2020 10:08:06 AM MESSAGE: Un-assigning and de-claiming Element ION_SWEDEN(4210c205-332d-3591-47ad-27689e5858ca) bound to 16040529579900119.
+INFO: 11/23/2020 10:08:06 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 11/23/2020 10:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 11/23/2020 10:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 11/23/2020 10:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 11/23/2020 10:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 11/23/2020 10:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 11/23/2020 10:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 11/23/2020 10:08:08 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 11/23/2020 10:08:08 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 11/23/2020 10:08:08 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 11/23/2020 10:08:08 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_SWEDEN:
+INFO: 11/23/2020 10:08:08 AM MESSAGE:    No Change for Spoke HA in Element ION_SWEDEN.
+INFO: 11/23/2020 10:08:09 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to AT&T.
+INFO: 11/23/2020 10:08:10 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Vodafone.
+INFO: 11/23/2020 10:08:10 AM MESSAGE: Disabling site..
+INFO: 11/23/2020 10:08:11 AM MESSAGE: Updated Site SITE_Stockholm to state disabled.
+INFO: 11/23/2020 10:08:11 AM MESSAGE: Deleting Site SITE_Stockholm..
+INFO: 11/23/2020 10:08:11 AM MESSAGE: DONE
