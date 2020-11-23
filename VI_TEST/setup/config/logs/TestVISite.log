@@ -28,3 +28,11 @@ INFO: 11/23/2020 10:36:06 AM MESSAGE:  No Change for Waninterface Circuit to Air
 INFO: 11/23/2020 10:36:06 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
 INFO: 11/23/2020 10:36:07 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 11/23/2020 10:36:13 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 5 seconds. Exiting.
+INFO: 11/23/2020 10:48:42 AM MESSAGE: Created Site TestVISite.
+INFO: 11/23/2020 10:48:42 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 11/23/2020 10:48:42 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 11/23/2020 10:48:42 AM MESSAGE:  Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 is not CLAIMED, attempting to claim..
+INFO: 11/23/2020 10:48:42 AM MESSAGE:  Checking Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1..
+INFO: 11/23/2020 10:48:43 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 11/23/2020 10:48:43 AM MESSAGE:   Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 still claiming, waited so far 0 seconds out of 5.
+ERROR: 11/23/2020 10:48:49 AM ERROR: Machine 4210fff5-706e-5c8c-7e74-85f94d992ea1 Claim took longer than 5 seconds. Exiting.
