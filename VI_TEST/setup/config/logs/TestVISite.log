@@ -109,3 +109,26 @@ INFO: 11/23/2020 11:12:22 AM MESSAGE:  Element: Changing element from 5.4.1-b5 t
 INFO: 11/23/2020 11:12:23 AM MESSAGE:   Assigning Element Serial: 4210024d-4f88-0811-bbea-40503cf61773.
 INFO: 11/23/2020 11:12:25 AM MESSAGE:   Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 11/23/2020 11:12:31 AM ERROR: Element Serial: 4210024d-4f88-0811-bbea-40503cf61773 state transition took longer than 5 seconds. Exiting.
+INFO: 11/23/2020 11:12:38 AM MESSAGE: No Change for Site TestVISite.
+INFO: 11/23/2020 11:12:38 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/23/2020 11:12:39 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/23/2020 11:12:39 AM MESSAGE:  Element: Changing element from 5.4.1-b13 to 5.4.1-b15.
+INFO: 11/23/2020 11:12:39 AM MESSAGE:   No Change for Element Element 1.
+INFO: 11/23/2020 11:12:39 AM MESSAGE:    Created interface TEST_VI_002.
+INFO: 11/23/2020 11:12:40 AM MESSAGE:    Created interface TEST_VI_01.
+INFO: 11/23/2020 11:12:40 AM MESSAGE:    No Change for Interface 1.
+INFO: 11/23/2020 11:12:40 AM MESSAGE:    No Change for Interface 2.
+INFO: 11/23/2020 11:12:40 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 11/23/2020 11:12:40 AM MESSAGE:    Updated Interface 3 (Etag 2 -> 3).
+INFO: 11/23/2020 11:12:40 AM MESSAGE:    No Change for Interface 4.
+INFO: 11/23/2020 11:12:41 AM MESSAGE:    No Change for Interface 5.
+INFO: 11/23/2020 11:12:41 AM MESSAGE:    No Change for Interface 6.
+INFO: 11/23/2020 11:12:41 AM MESSAGE:    No Change for Interface 7.
+INFO: 11/23/2020 11:12:41 AM MESSAGE:    Updated Interface 8 (Etag 2 -> 3).
+INFO: 11/23/2020 11:12:41 AM MESSAGE:    No Change for Interface 9.
+INFO: 11/23/2020 11:12:41 AM MESSAGE:    No Change for Spoke HA in Element Element 1.
+INFO: 11/23/2020 11:12:42 AM MESSAGE:    No Change for BGP Global Config 16061299571280177.
+INFO: 11/23/2020 11:12:42 AM MESSAGE:    No Change for NTP 16061299173280095.
+INFO: 11/23/2020 11:12:42 AM MESSAGE:    No Change for Toolkit 16061299314760222.
+INFO: 11/23/2020 11:12:42 AM MESSAGE: No Change for Site TestVISite state (disabled).
+INFO: 11/23/2020 11:12:42 AM MESSAGE: DONE
