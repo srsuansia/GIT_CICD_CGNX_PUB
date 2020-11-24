@@ -1,0 +1,8 @@
+INFO: 11/24/2020 06:27:03 AM MESSAGE: Created Site TestVISite.
+INFO: 11/24/2020 06:27:03 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 11/24/2020 06:27:03 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 11/24/2020 06:27:04 AM MESSAGE:  Machine 42108316-62af-0a63-0ed5-9ef9888ec291 is not CLAIMED, attempting to claim..
+INFO: 11/24/2020 06:27:04 AM MESSAGE:  Checking Machine 42108316-62af-0a63-0ed5-9ef9888ec291..
+INFO: 11/24/2020 06:27:04 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 11/24/2020 06:27:04 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 5.
+ERROR: 11/24/2020 06:27:10 AM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 5 seconds. Exiting.
