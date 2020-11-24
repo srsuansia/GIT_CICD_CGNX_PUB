@@ -40,3 +40,11 @@ INFO: 11/24/2020 06:28:03 AM MESSAGE:    No Change for NTP 16061992243090126.
 INFO: 11/24/2020 06:28:04 AM MESSAGE:    No Change for Toolkit 16061992384950107.
 INFO: 11/24/2020 06:28:04 AM MESSAGE: No Change for Site TestVISite state (disabled).
 INFO: 11/24/2020 06:28:04 AM MESSAGE: DONE
+INFO: 11/24/2020 06:40:44 AM MESSAGE: Created Site TestVISite.
+INFO: 11/24/2020 06:40:44 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 11/24/2020 06:40:44 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 11/24/2020 06:40:44 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 11/24/2020 06:40:44 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 11/24/2020 06:40:44 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 11/24/2020 06:40:45 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
+ERROR: 11/24/2020 06:40:51 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.
