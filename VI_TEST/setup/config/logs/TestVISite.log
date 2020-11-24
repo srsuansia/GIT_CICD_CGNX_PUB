@@ -104,3 +104,10 @@ INFO: 11/24/2020 08:37:49 AM MESSAGE:  No Change for Waninterface Circuit to Air
 INFO: 11/24/2020 08:37:49 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
 INFO: 11/24/2020 08:37:49 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is inventory_get_pending). Waited so far 0 seconds out of 5.
 ERROR: 11/24/2020 08:37:55 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
+INFO: 11/24/2020 08:38:07 AM MESSAGE: No Change for Site TestVISite.
+INFO: 11/24/2020 08:38:08 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/24/2020 08:38:08 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/24/2020 08:38:09 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/24/2020 08:38:09 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 11/24/2020 08:38:10 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 11/24/2020 08:38:16 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
