@@ -5,18 +5,17 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-11-24T07:08:50.181696Z
-+# Created at 2020-11-24T08:38:53.906764Z
++# Created at 2020-11-24T08:49:44.264881Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    TestVISite:
      address:
-@@ -17,7 +18,7 @@
-         - SPOKE
-         cluster_insertion_mode:
-         cluster_member_id:
--        connected: true
-+        connected: false
-         deployment_op:
-         description:
-         element_security_zones v2.0: []
+@@ -304,7 +305,6 @@
+             admin_up: true
+             attached_lan_networks:
+             bound_interfaces:
+-            - '1'
+             - '2'
+             bypass_pair:
+             description:
