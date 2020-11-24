@@ -5,18 +5,144 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-11-24T07:08:50.181696Z
-+# Created at 2020-11-24T08:05:29.033165Z
++# Created at 2020-11-24T08:13:22.419344Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    TestVISite:
      address:
-@@ -17,7 +18,7 @@
-         - SPOKE
-         cluster_insertion_mode:
-         cluster_member_id:
--        connected: true
-+        connected: false
-         deployment_op:
+@@ -22,63 +23,38 @@
          description:
          element_security_zones v2.0: []
+         interfaces v4.9:
+-          '1':
++          '12':
+             admin_up: true
+             attached_lan_networks:
+             bound_interfaces:
+             bypass_pair:
+-            description: ''
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-            mac_address:
+-            mtu: 1500
+-            nat_address:
+-            nat_pools:
+-            nat_port: 0
+-            nat_zone_id:
+-            network_context_id:
+-            parent:
+-            pppoe_config:
+-            scope: local
+-            service_link_config:
+-            site_wan_interface_ids:
+-            sub_interface:
+-            tags:
+-            type: port
+-            used_for: none
+-          '2':
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description: ''
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-            mac_address:
+-            mtu: 1500
+-            nat_address:
+-            nat_pools:
+-            nat_port: 0
+-            nat_zone_id:
+-            network_context_id:
+-            parent:
+-            pppoe_config:
+-            scope: local
+-            service_link_config:
+-            site_wan_interface_ids:
+-            sub_interface:
+-            tags:
+-            type: port
++              lan: '2'
++              lan_state_propagation: false
++              use_relay: false
++              wan: '1'
++            description:
++            devicemgmt_policysetstack_id:
++            dhcp_relay:
++            directed_broadcast: false
++            ethernet_port:
++              full_duplex: false
++              speed: 0
++            ipv4_config:
++            mac_address:
++            mtu: 1500
++            nat_address:
++            nat_pools:
++            nat_port: 0
++            nat_zone_id:
++            network_context_id:
++            parent:
++            pppoe_config:
++            scope: local
++            service_link_config:
++            site_wan_interface_ids:
++            sub_interface:
++            tags:
++            type: bypasspair
+             used_for: none
+           '3':
+             admin_up: false
+@@ -294,42 +270,6 @@
+             parent:
+             pppoe_config:
+             scope: global
+-            service_link_config:
+-            site_wan_interface_ids:
+-            sub_interface:
+-            tags:
+-            type: virtual_interface
+-            used_for: public
+-          TEST_VI_007:
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            - '1'
+-            - '2'
+-            bypass_pair:
+-            description:
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-              dhcp_config:
+-              dns_v4_config:
+-              routes:
+-              static_config:
+-              type: dhcp
+-            mac_address:
+-            mtu: 1500
+-            nat_address:
+-            nat_pools:
+-            nat_port: 0
+-            nat_zone_id: internet
+-            network_context_id:
+-            parent:
+-            pppoe_config:
+-            scope: local
+             service_link_config:
+             site_wan_interface_ids:
+             sub_interface:
