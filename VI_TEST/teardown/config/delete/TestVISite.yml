@@ -438,7 +438,7 @@ sites v4.5:
               router_id:
               stalepath_time: 120
           static v2.0: []
-        serial_number: 42108316-62af-0a63-0ed5-9ef9888ec291
+        serial_number: 4210b512-5243-d410-01cb-e8bd6e482e14
         software_version: 5.4.1-b13
         spoke_ha_config:
         state: bound
