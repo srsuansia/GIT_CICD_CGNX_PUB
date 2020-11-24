@@ -5,27 +5,20 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-11-24T07:08:50.181696Z
-+# Created at 2020-11-24T08:51:35.177063Z
++# Created at 2020-11-24T09:32:37.733188Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    TestVISite:
      address:
-@@ -27,7 +28,7 @@
+@@ -268,8 +269,8 @@
+             admin_up: true
              attached_lan_networks:
              bound_interfaces:
+-            - '8'
+-            - '9'
++            - '6'
++            - '7'
              bypass_pair:
--            description: ''
-+            description:
+             description:
              devicemgmt_policysetstack_id:
-             dhcp_relay:
-             directed_broadcast: false
-@@ -56,7 +57,7 @@
-             attached_lan_networks:
-             bound_interfaces:
-             bypass_pair:
--            description: ''
-+            description:
-             devicemgmt_policysetstack_id:
-             dhcp_relay:
-             directed_broadcast: false
