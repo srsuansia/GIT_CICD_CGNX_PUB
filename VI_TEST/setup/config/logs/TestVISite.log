@@ -18,3 +18,29 @@ INFO: 11/24/2020 08:04:44 AM MESSAGE:  Element: Changing element from 5.4.1-b5 t
 INFO: 11/24/2020 08:04:44 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
 INFO: 11/24/2020 08:04:45 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 11/24/2020 08:04:51 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
+INFO: 11/24/2020 08:04:59 AM MESSAGE: No Change for Site TestVISite.
+INFO: 11/24/2020 08:04:59 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/24/2020 08:04:59 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/24/2020 08:04:59 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/24/2020 08:04:59 AM MESSAGE:   No Change for Element Element_VI_001.
+INFO: 11/24/2020 08:05:00 AM MESSAGE:    Setting Bypasspair parents for 45 to default.
+INFO: 11/24/2020 08:05:00 AM MESSAGE:    Updated Interface 5 (Etag 3 -> 4).
+INFO: 11/24/2020 08:05:00 AM MESSAGE:    Updated Interface 4 (Etag 3 -> 4).
+INFO: 11/24/2020 08:05:00 AM MESSAGE:    Created interface 45.
+INFO: 11/24/2020 08:05:01 AM MESSAGE:    Created interface TEST_VI_003.
+INFO: 11/24/2020 08:05:01 AM MESSAGE:    Created interface TEST_VI_007.
+INFO: 11/24/2020 08:05:01 AM MESSAGE:    Created interface TEST_VI_01.
+INFO: 11/24/2020 08:05:01 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 11/24/2020 08:05:01 AM MESSAGE:    Updated Interface 2 (Etag 3 -> 4).
+INFO: 11/24/2020 08:05:01 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 11/24/2020 08:05:01 AM MESSAGE:    No Change for Interface 3.
+INFO: 11/24/2020 08:05:02 AM MESSAGE:    No Change for Interface 6.
+INFO: 11/24/2020 08:05:02 AM MESSAGE:    No Change for Interface 7.
+INFO: 11/24/2020 08:05:02 AM MESSAGE:    No Change for Interface 8.
+INFO: 11/24/2020 08:05:02 AM MESSAGE:    No Change for Interface 9.
+INFO: 11/24/2020 08:05:02 AM MESSAGE:    No Change for Spoke HA in Element Element_VI_001.
+INFO: 11/24/2020 08:05:02 AM MESSAGE:    No Change for BGP Global Config 16062050886140246.
+INFO: 11/24/2020 08:05:02 AM MESSAGE:    No Change for NTP 16062050465900165.
+INFO: 11/24/2020 08:05:02 AM MESSAGE:    No Change for Toolkit 16062050612170128.
+INFO: 11/24/2020 08:05:02 AM MESSAGE: No Change for Site TestVISite state (disabled).
+INFO: 11/24/2020 08:05:02 AM MESSAGE: DONE
