@@ -258,3 +258,102 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 11/24/2020 06:42:03 AM MESSAGE: No Change for Site TestVISite.
+INFO: 11/24/2020 06:42:03 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/24/2020 06:42:03 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/24/2020 06:42:04 AM MESSAGE:  Element: Changing element from 5.4.3-a8 to 5.4.1-b15.
+INFO: 11/24/2020 06:42:04 AM MESSAGE:   No Change for Element Element_VI_001.
+INFO: 11/24/2020 06:42:04 AM MESSAGE:    No Change for Interface TEST_VI_01.
+INFO: 11/24/2020 06:42:04 AM MESSAGE:    No Change for Interface 1.
+INFO: 11/24/2020 06:42:04 AM MESSAGE:    No Change for Interface 2.
+INFO: 11/24/2020 06:42:04 AM MESSAGE:    No Change for Interface controller 1.
+ERROR: 11/24/2020 06:42:04 AM ERROR: Interface update failed: 
+REQUEST: PUT /v4.9/api/tenants/2750/sites/16062000441320219/elements/16062000449660070/interfaces/16062000649990018
+REQUEST HEADERS:
+	User-Agent: python-requests/2.25.0 (CGX SDK v5.4.3b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 1042
+REQUEST BODY:
+{
+    "id": "16062000649990018",
+    "_etag": 3,
+    "_content_length": "0",
+    "_schema": 4,
+    "_created_on_utc": 16062000649990018,
+    "_updated_on_utc": 16062000662900149,
+    "_status_code": "200",
+    "_request_id": "1606200124804021400005968351276109567367",
+    "_debug": null,
+    "_info": null,
+    "_warning": null,
+    "_error": null,
+    "name": "3",
+    "description": "",
+    "type": "port",
+    "attached_lan_networks": null,
+    "site_wan_interface_ids": null,
+    "mac_address": null,
+    "mtu": 1500,
+    "ipv4_config": {
+        "dhcp_config": null,
+        "dns_v4_config": null,
+        "routes": null,
+        "static_config": null,
+        "type": "dhcp"
+    },
+    "dhcp_relay": null,
+    "ethernet_port": {
+        "full_duplex": false,
+        "speed": 0
+    },
+    "admin_up": true,
+    "nat_address": "14.14.14.14",
+    "nat_port": 6565,
+    "used_for": "public",
+    "bound_interfaces": null,
+    "sub_interface": null,
+    "pppoe_config": null,
+    "parent": null,
+    "network_context_id": null,
+    "bypass_pair": null,
+    "service_link_config": null,
+    "scope": "global",
+    "tags": null,
+    "nat_zone_id": "15815752946700113",
+    "devicemgmt_policysetstack_id": null,
+    "nat_pools": null,
+    "directed_broadcast": false
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Tue, 24 Nov 2020 06:42:04 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 333
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1606200124817021799997248287165389756274",
+    "_error": [
+        {
+            "code": "INTERFACE_CONFIG_LOGICAL_INTERFACE_MEMBER",
+            "message": "Specified interface cannot be modified or deleted since it is a member of a logical interface"
+        }
+    ]
+}
