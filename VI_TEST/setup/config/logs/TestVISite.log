@@ -48,3 +48,8 @@ INFO: 11/24/2020 06:40:44 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-
 INFO: 11/24/2020 06:40:44 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 11/24/2020 06:40:45 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
 ERROR: 11/24/2020 06:40:51 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.
+INFO: 11/24/2020 06:40:58 AM MESSAGE: No Change for Site TestVISite.
+INFO: 11/24/2020 06:40:58 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/24/2020 06:40:58 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/24/2020 06:40:58 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 11/24/2020 06:41:04 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
