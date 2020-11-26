@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-11-26T10:19:05.933751Z
+# Created at 2020-11-26T10:20:25.485780Z
 # by system_2750@soumyars.com
 sites v4.5:
   VitoConfig:
@@ -17,7 +17,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode:
         cluster_member_id:
-        connected: false
+        connected: true
         deployment_op:
         description:
         element_security_zones v2.0: []
