@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-11-26T06:09:04.756665Z
+# Created at 2020-11-26T07:55:19.914890Z
 # by system_2750@soumyars.com
 sites v4.5:
   VitoConfig:
@@ -23,11 +23,11 @@ sites v4.5:
         element_security_zones v2.0: []
         interfaces v4.9:
           '1':
-            admin_up: false
+            admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -52,11 +52,11 @@ sites v4.5:
             type: port
             used_for: none
           '2':
-            admin_up: false
+            admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -81,11 +81,11 @@ sites v4.5:
             type: port
             used_for: none
           '3':
-            admin_up: false
+            admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
