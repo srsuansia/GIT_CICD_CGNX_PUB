@@ -37,3 +37,9 @@ INFO: 11/26/2020 07:32:26 AM MESSAGE:    No Change for NTP 16063758383900009.
 INFO: 11/26/2020 07:32:26 AM MESSAGE:    No Change for Toolkit 16063758538550007.
 INFO: 11/26/2020 07:32:26 AM MESSAGE: No Change for Site VitoConfig state (active).
 INFO: 11/26/2020 07:32:26 AM MESSAGE: DONE
+INFO: 11/26/2020 10:17:33 AM MESSAGE: Created Site VitoConfig.
+INFO: 11/26/2020 10:17:33 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 11/26/2020 10:17:33 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 11/26/2020 10:17:33 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 11/26/2020 10:17:33 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
+ERROR: 11/26/2020 10:17:39 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.
