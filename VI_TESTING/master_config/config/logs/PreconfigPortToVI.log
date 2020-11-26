@@ -169,3 +169,24 @@ INFO: 11/26/2020 11:12:52 AM MESSAGE:    No Change for NTP 16063881715860210.
 INFO: 11/26/2020 11:12:52 AM MESSAGE:    No Change for Toolkit 16063890788910247.
 INFO: 11/26/2020 11:12:52 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
 INFO: 11/26/2020 11:12:52 AM MESSAGE: DONE
+INFO: 11/26/2020 11:13:02 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/26/2020 11:13:02 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/26/2020 11:13:02 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/26/2020 11:13:03 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/26/2020 11:13:03 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 11/26/2020 11:13:03 AM MESSAGE:    No Change for Interface 23.
+INFO: 11/26/2020 11:13:03 AM MESSAGE:    No Change for Interface loopback-16063891694090204.
+INFO: 11/26/2020 11:13:03 AM MESSAGE:    No Change for Interface ppp91706060101.
+INFO: 11/26/2020 11:13:03 AM MESSAGE:    No Change for Interface 4.1111.
+INFO: 11/26/2020 11:13:03 AM MESSAGE:    No Change for Interface 1.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for Interface 6.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for Interface 7.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for Interface 8.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for Interface 9.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for BGP Global Config 16063891456600199.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for NTP 16063881715860210.
+INFO: 11/26/2020 11:13:04 AM MESSAGE:    No Change for Toolkit 16063890788910247.
+INFO: 11/26/2020 11:13:04 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
+INFO: 11/26/2020 11:13:04 AM MESSAGE: DONE
