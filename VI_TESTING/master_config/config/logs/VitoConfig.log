@@ -9,3 +9,31 @@ INFO: 11/26/2020 07:32:02 AM MESSAGE:  Element: Code is at correct version 5.4.1
 INFO: 11/26/2020 07:32:02 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
 INFO: 11/26/2020 07:32:03 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 11/26/2020 07:32:09 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
+INFO: 11/26/2020 07:32:19 AM MESSAGE: No Change for Site VitoConfig.
+INFO: 11/26/2020 07:32:19 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/26/2020 07:32:19 AM MESSAGE:   No Change for Element VItoConfig.
+INFO: 11/26/2020 07:32:20 AM MESSAGE:   Deleting and re-creating modified virtual interfaces
+INFO: 11/26/2020 07:32:20 AM MESSAGE:    Setting member interface 1 to default.
+INFO: 11/26/2020 07:32:20 AM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 11/26/2020 07:32:20 AM MESSAGE:    Created interface VIwithOnePort.
+INFO: 11/26/2020 07:32:21 AM MESSAGE:    Setting member interface 2 to default.
+INFO: 11/26/2020 07:32:21 AM MESSAGE:    Updated Interface 2 (Etag 3 -> 4).
+INFO: 11/26/2020 07:32:22 AM MESSAGE:    Setting member interface 3 to default.
+INFO: 11/26/2020 07:32:22 AM MESSAGE:    Updated Interface 3 (Etag 3 -> 4).
+INFO: 11/26/2020 07:32:23 AM MESSAGE:    Created interface VIwithTwoPort.
+INFO: 11/26/2020 07:32:23 AM MESSAGE:    No Change for Interface controller 1.
+WARNING: 11/26/2020 07:32:23 AM WARNING: Cannot use configuration for interface 1, it is set as a parent for VIwithOnePort.
+WARNING: 11/26/2020 07:32:24 AM WARNING: Cannot use configuration for interface 2, it is set as a parent for VIwithTwoPort.
+WARNING: 11/26/2020 07:32:24 AM WARNING: Cannot use configuration for interface 3, it is set as a parent for VIwithTwoPort.
+INFO: 11/26/2020 07:32:24 AM MESSAGE:    No Change for Interface 4.
+INFO: 11/26/2020 07:32:24 AM MESSAGE:    No Change for Interface 5.
+INFO: 11/26/2020 07:32:24 AM MESSAGE:    No Change for Interface 6.
+INFO: 11/26/2020 07:32:25 AM MESSAGE:    No Change for Interface 7.
+INFO: 11/26/2020 07:32:25 AM MESSAGE:    No Change for Interface 8.
+INFO: 11/26/2020 07:32:25 AM MESSAGE:    No Change for Interface 9.
+INFO: 11/26/2020 07:32:25 AM MESSAGE:    No Change for Spoke HA in Element VItoConfig.
+INFO: 11/26/2020 07:32:26 AM MESSAGE:    No Change for BGP Global Config 16063759249510019.
+INFO: 11/26/2020 07:32:26 AM MESSAGE:    No Change for NTP 16063758383900009.
+INFO: 11/26/2020 07:32:26 AM MESSAGE:    No Change for Toolkit 16063758538550007.
+INFO: 11/26/2020 07:32:26 AM MESSAGE: No Change for Site VitoConfig state (active).
+INFO: 11/26/2020 07:32:26 AM MESSAGE: DONE
