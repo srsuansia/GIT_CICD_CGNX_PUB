@@ -1,0 +1,22 @@
+INFO: 11/26/2020 07:20:37 AM MESSAGE: Beginning to DESTROY site PreconfigPortToVI(16063662694780185)..
+INFO: 11/26/2020 07:20:37 AM MESSAGE: Un-assigning and de-claiming Element PreconfigToVI(42108316-62af-0a63-0ed5-9ef9888ec291) bound to 16063662694780185.
+INFO: 11/26/2020 07:20:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 11/26/2020 07:20:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 11/26/2020 07:20:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 11/26/2020 07:20:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 11/26/2020 07:20:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 11/26/2020 07:20:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 11/26/2020 07:20:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 11/26/2020 07:20:38 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 11/26/2020 07:20:39 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 23.
+INFO: 11/26/2020 07:20:39 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.1111.
+INFO: 11/26/2020 07:20:39 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from ppp82096270053.
+INFO: 11/26/2020 07:20:39 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from loopback-16063706842450217.
+INFO: 11/26/2020 07:20:39 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from PreconfigToVI:
+INFO: 11/26/2020 07:20:39 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 11/26/2020 07:20:41 AM MESSAGE:  Deleting Unconfigured Waninterface 16063662702180247.
+INFO: 11/26/2020 07:20:42 AM MESSAGE:  Deleting Unconfigured Waninterface 16063662706370012.
+INFO: 11/26/2020 07:20:43 AM MESSAGE: Disabling site..
+INFO: 11/26/2020 07:20:44 AM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
+INFO: 11/26/2020 07:20:44 AM MESSAGE: Deleting Site PreconfigPortToVI..
+INFO: 11/26/2020 07:20:44 AM MESSAGE: DONE
