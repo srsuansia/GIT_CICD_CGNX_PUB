@@ -135,3 +135,25 @@ INFO: 11/24/2020 08:18:50 AM MESSAGE: Disabling site..
 INFO: 11/24/2020 08:18:51 AM MESSAGE: No Change for Site TestVISite state (disabled).
 INFO: 11/24/2020 08:18:51 AM MESSAGE: Deleting Site TestVISite..
 INFO: 11/24/2020 08:18:51 AM MESSAGE: DONE
+INFO: 11/26/2020 04:34:50 AM MESSAGE: Beginning to DESTROY site TestVISite(16062070521850053)..
+INFO: 11/26/2020 04:34:50 AM MESSAGE: Un-assigning and de-claiming Element Element_VI_001(4210b512-5243-d410-01cb-e8bd6e482e14) bound to 16062070521850053.
+INFO: 11/26/2020 04:34:50 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 11/26/2020 04:34:50 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 11/26/2020 04:34:51 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 11/26/2020 04:34:51 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 11/26/2020 04:34:51 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 11/26/2020 04:34:51 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 11/26/2020 04:34:51 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 11/26/2020 04:34:51 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 11/26/2020 04:34:51 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 45.
+INFO: 11/26/2020 04:34:52 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from TEST_VI_003.
+INFO: 11/26/2020 04:34:52 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from TEST_VI_01.
+INFO: 11/26/2020 04:34:52 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from TEST_VI_007.
+INFO: 11/26/2020 04:34:52 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from Element_VI_001:
+INFO: 11/26/2020 04:34:52 AM MESSAGE:    No Change for Spoke HA in Element Element_VI_001.
+INFO: 11/26/2020 04:34:53 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 11/26/2020 04:34:54 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 11/26/2020 04:34:54 AM MESSAGE: Disabling site..
+INFO: 11/26/2020 04:34:54 AM MESSAGE: No Change for Site TestVISite state (disabled).
+INFO: 11/26/2020 04:34:55 AM MESSAGE: Deleting Site TestVISite..
+INFO: 11/26/2020 04:34:55 AM MESSAGE: DONE
