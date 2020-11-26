@@ -1,0 +1,24 @@
+---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-11-26T06:10:04.921548Z
+# by system_2750@soumyars.com
+sites v4.5:
+  3rdpartVPNtoVI:
+    address:
+    admin_state: disabled
+    description:
+    element_cluster_role: SPOKE
+    elements v2.3: {}
+    extended_tags:
+    location:
+      description:
+      latitude: 0.0
+      longitude: 0.0
+    nat_policysetstack_id: Default-NATPolicySetStack
+    network_policysetstack_id: NetworkPolicySetStack
+    policy_set_id:
+    priority_policysetstack_id: PriorityPolicySetStack
+    security_policyset_id:
+    service_binding: Preset Domain
+    tags:

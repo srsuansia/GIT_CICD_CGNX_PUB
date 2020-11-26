@@ -1,16 +1,16 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-11-26T06:10:06.225662Z
+# Created at 2020-11-26T06:09:03.501559Z
 # by system_2750@soumyars.com
 sites v4.5:
-  Rejeesh_site:
+  PreconfigPortToVI:
     address:
     admin_state: active
     description:
     element_cluster_role: SPOKE
     elements v2.3:
-      Rejeesh_element:
+      PreconfigToVI:
         admin_action:
         allowed_roles:
         - HUB
@@ -23,7 +23,7 @@ sites v4.5:
         element_security_zones v2.0: []
         interfaces v4.9:
           '1':
-            admin_up: false
+            admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
@@ -35,28 +35,38 @@ sites v4.5:
               full_duplex: false
               speed: 0
             ipv4_config:
+              dhcp_config:
+              dns_v4_config:
+              routes:
+              static_config:
+              type: dhcp
             mac_address:
             mtu: 1500
             nat_address:
             nat_pools:
             nat_port: 0
-            nat_zone_id:
+            nat_zone_id: internet
             network_context_id:
             parent:
             pppoe_config:
-            scope: local
+            scope: global
             service_link_config:
             site_wan_interface_ids:
+            - Circuit to Airtel
             sub_interface:
             tags:
             type: port
-            used_for: none
-          '2':
-            admin_up: false
+            used_for: public
+          '23':
+            admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+              lan: '3'
+              lan_state_propagation: true
+              use_relay: false
+              wan: '2'
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -64,28 +74,33 @@ sites v4.5:
               full_duplex: false
               speed: 0
             ipv4_config:
+              dhcp_config:
+              dns_v4_config:
+              routes:
+              static_config:
+              type: dhcp
             mac_address:
             mtu: 1500
-            nat_address:
+            nat_address: 10.10.10.10
             nat_pools:
-            nat_port: 0
-            nat_zone_id:
+            nat_port: 6666
+            nat_zone_id: internet
             network_context_id:
             parent:
             pppoe_config:
-            scope: local
+            scope: global
             service_link_config:
             site_wan_interface_ids:
             sub_interface:
             tags:
-            type: port
-            used_for: none
-          '3':
-            admin_up: false
+            type: bypasspair
+            used_for: public
+          '4.1111':
+            admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -93,93 +108,56 @@ sites v4.5:
               full_duplex: false
               speed: 0
             ipv4_config:
+              dhcp_config:
+              dns_v4_config:
+              routes:
+              static_config:
+              type: dhcp
             mac_address:
-            mtu: 1500
-            nat_address:
+            mtu: 0
+            nat_address: 55.55.55.55
             nat_pools:
-            nat_port: 0
-            nat_zone_id:
+            nat_port: 6565
+            nat_zone_id: internet
             network_context_id:
-            parent:
+            parent: '4'
             pppoe_config:
-            scope: local
+            scope: global
             service_link_config:
             site_wan_interface_ids:
             sub_interface:
+              native_vlan: true
+              vlan_id: 1111
             tags:
-            type: port
-            used_for: none
-          '4':
-            admin_up: false
-            attached_lan_networks:
-            bound_interfaces:
-            bypass_pair:
-            description: ''
-            devicemgmt_policysetstack_id:
-            dhcp_relay:
-            directed_broadcast: false
-            ethernet_port:
-              full_duplex: false
-              speed: 0
-            ipv4_config:
-            mac_address:
-            mtu: 1500
-            nat_address:
-            nat_pools:
-            nat_port: 0
-            nat_zone_id:
-            network_context_id:
-            parent:
-            pppoe_config:
-            scope: local
-            service_link_config:
-            site_wan_interface_ids:
-            sub_interface:
-            tags:
-            type: port
-            used_for: none
-          '5':
-            admin_up: false
-            attached_lan_networks:
-            bound_interfaces:
-            bypass_pair:
-            description: ''
-            devicemgmt_policysetstack_id:
-            dhcp_relay:
-            directed_broadcast: false
-            ethernet_port:
-              full_duplex: false
-              speed: 0
-            ipv4_config:
-            mac_address:
-            mtu: 1500
-            nat_address:
-            nat_pools:
-            nat_port: 0
-            nat_zone_id:
-            network_context_id:
-            parent:
-            pppoe_config:
-            scope: local
-            service_link_config:
-            site_wan_interface_ids:
-            sub_interface:
-            tags:
-            type: port
-            used_for: none
+            type: subinterface
+            used_for: public
           '6':
-            admin_up: false
+            admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
             description: ''
             devicemgmt_policysetstack_id:
             dhcp_relay:
+              enabled: true
+              option_82:
+                circuit_id:
+                enabled: false
+                reforwarding_policy: replace
+                remote_id:
+              server_ips:
+              - 10.101.101.10
+              source_interface: '6'
             directed_broadcast: false
             ethernet_port:
               full_duplex: false
               speed: 0
             ipv4_config:
+              dhcp_config:
+              dns_v4_config:
+              routes:
+              static_config:
+              type: dhcp
             mac_address:
             mtu: 1500
             nat_address:
@@ -189,15 +167,15 @@ sites v4.5:
             network_context_id:
             parent:
             pppoe_config:
-            scope: local
+            scope: global
             service_link_config:
             site_wan_interface_ids:
             sub_interface:
             tags:
             type: port
-            used_for: none
+            used_for: lan
           '7':
-            admin_up: false
+            admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
@@ -209,6 +187,11 @@ sites v4.5:
               full_duplex: false
               speed: 0
             ipv4_config:
+              dhcp_config:
+              dns_v4_config:
+              routes:
+              static_config:
+              type: dhcp
             mac_address:
             mtu: 1500
             nat_address:
@@ -218,13 +201,14 @@ sites v4.5:
             network_context_id:
             parent:
             pppoe_config:
-            scope: local
+            scope: global
             service_link_config:
             site_wan_interface_ids:
+            - Circuit to Jio
             sub_interface:
             tags:
             type: port
-            used_for: none
+            used_for: private
           '8':
             admin_up: false
             attached_lan_networks:
@@ -317,6 +301,69 @@ sites v4.5:
             tags:
             type: port
             used_for: none
+          loopback-16063706842450217:
+            admin_up: true
+            attached_lan_networks:
+            bound_interfaces:
+            bypass_pair:
+            description:
+            devicemgmt_policysetstack_id:
+            dhcp_relay:
+            directed_broadcast: false
+            ethernet_port:
+              full_duplex: false
+              speed: 0
+            ipv4_config:
+            mac_address:
+            mtu: 1500
+            nat_address:
+            nat_pools:
+            nat_port: 0
+            nat_zone_id:
+            network_context_id:
+            parent:
+            pppoe_config:
+            scope: local
+            service_link_config:
+            site_wan_interface_ids:
+            sub_interface:
+            tags:
+            type: loopback
+            used_for: none
+          ppp82096270053:
+            admin_up: true
+            attached_lan_networks:
+            bound_interfaces:
+            bypass_pair:
+            description:
+            devicemgmt_policysetstack_id:
+            dhcp_relay:
+            directed_broadcast: false
+            ethernet_port:
+              full_duplex: false
+              speed: 0
+            ipv4_config:
+            mac_address:
+            mtu: 0
+            nat_address: 44.44.44.44
+            nat_pools:
+            nat_port: 6363
+            nat_zone_id: internet
+            network_context_id:
+            parent: '5'
+            pppoe_config:
+              host_uniq:
+              password: soumya
+              reconnection_delay: 0
+              service_name:
+              username: soumya
+            scope: global
+            service_link_config:
+            site_wan_interface_ids:
+            sub_interface:
+            tags:
+            type: pppoe
+            used_for: public
         l3_direct_private_wan_forwarding: false
         l3_lan_forwarding: false
         model_name: ion 3102v
@@ -370,7 +417,7 @@ sites v4.5:
               router_id:
               stalepath_time: 120
           static v2.0: []
-        serial_number: 4210024d-4f88-0811-bbea-40503cf61773
+        serial_number: 42108316-62af-0a63-0ed5-9ef9888ec291
         software_version: 5.4.1-b15
         spoke_ha_config:
         state: bound
@@ -396,7 +443,6 @@ sites v4.5:
     security_policyset_id:
     service_binding: Preset Domain
     tags:
-    - CI_IGNORE
     waninterfaces v2.6:
       Circuit to Airtel:
         bfd_mode: aggressive
@@ -416,18 +462,18 @@ sites v4.5:
         use_for_application_reachability_probes:
         use_for_controller_connections:
         vpnlink_configuration:
-      Circuit to At&T:
+      Circuit to Jio:
         bfd_mode: aggressive
         bw_config_mode: manual
         bwc_enabled: true
         cost: 128
         description:
-        label_id: Leased-Line
+        label_id: MPLS
         link_bw_down: 30.0
         link_bw_up: 10.0
         lqm_config:
         lqm_enabled: true
-        network_id: At&T
+        network_id: Jio
         network_type: privatewan
         tags:
         type: privatewan

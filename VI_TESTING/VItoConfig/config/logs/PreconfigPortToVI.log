@@ -1,2 +1,0 @@
-WARNING: 11/26/2020 06:10:41 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Airtel" in YAML file, but this may cause issues if configuration is re-applied to site.
-WARNING: 11/26/2020 06:10:41 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Jio" in YAML file, but this may cause issues if configuration is re-applied to site.
