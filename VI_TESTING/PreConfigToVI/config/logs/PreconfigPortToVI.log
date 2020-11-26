@@ -2013,3 +2013,33 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 11/26/2020 11:19:18 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/26/2020 11:19:18 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/26/2020 11:19:18 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/26/2020 11:19:18 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/26/2020 11:19:18 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    No Change for Interface loopback-16063891694090204.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    No Change for Interface VIwithOnePort.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    No Change for Interface VIwithTwoPort.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    No Change for Interface VIwithTwoPort001.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    Setting member interface 6 to default.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    No Change for Interface 6.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    Setting member interface 7 to default.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    No Change for Interface 7.
+INFO: 11/26/2020 11:19:19 AM MESSAGE:    Created interface NoErrorVIThreePort.
+INFO: 11/26/2020 11:19:20 AM MESSAGE:    No Change for Interface controller 1.
+WARNING: 11/26/2020 11:19:20 AM WARNING: Cannot use configuration for interface 1, it is set as a parent for VIwithOnePort.
+WARNING: 11/26/2020 11:19:20 AM WARNING: Cannot use configuration for interface 2, it is set as a parent for VIwithTwoPort.
+WARNING: 11/26/2020 11:19:20 AM WARNING: Cannot use configuration for interface 3, it is set as a parent for VIwithTwoPort.
+WARNING: 11/26/2020 11:19:20 AM WARNING: Cannot use configuration for interface 4, it is set as a parent for VIwithTwoPort001.
+WARNING: 11/26/2020 11:19:20 AM WARNING: Cannot use configuration for interface 5, it is set as a parent for VIwithTwoPort001.
+WARNING: 11/26/2020 11:19:20 AM WARNING: Cannot use configuration for interface 6, it is set as a parent for NoErrorVIThreePort.
+WARNING: 11/26/2020 11:19:20 AM WARNING: Cannot use configuration for interface 7, it is set as a parent for NoErrorVIThreePort.
+INFO: 11/26/2020 11:19:20 AM MESSAGE:    Updated Interface 8 (Etag 4 -> 5).
+INFO: 11/26/2020 11:19:20 AM MESSAGE:    No Change for Interface 9.
+INFO: 11/26/2020 11:19:20 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 11/26/2020 11:19:20 AM MESSAGE:    No Change for BGP Global Config 16063891456600199.
+INFO: 11/26/2020 11:19:21 AM MESSAGE:    No Change for NTP 16063881715860210.
+INFO: 11/26/2020 11:19:21 AM MESSAGE:    No Change for Toolkit 16063890788910247.
+INFO: 11/26/2020 11:19:21 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
+INFO: 11/26/2020 11:19:21 AM MESSAGE: DONE
