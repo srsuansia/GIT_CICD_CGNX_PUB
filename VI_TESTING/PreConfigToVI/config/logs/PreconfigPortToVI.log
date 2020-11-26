@@ -198,3 +198,97 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 11/26/2020 08:09:50 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/26/2020 08:09:50 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/26/2020 08:09:50 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/26/2020 08:09:50 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/26/2020 08:09:50 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 11/26/2020 08:09:51 AM MESSAGE:   Deleting and re-creating modified virtual interfaces
+INFO: 11/26/2020 08:09:51 AM MESSAGE:    No Change for Interface loopback-16063758816340160.
+INFO: 11/26/2020 08:09:51 AM MESSAGE:    No Change for Interface VIwithOnePort.
+INFO: 11/26/2020 08:09:51 AM MESSAGE:    No Change for Interface VIwithTwoPort.
+INFO: 11/26/2020 08:09:51 AM MESSAGE:    Setting member interface 4 to default.
+INFO: 11/26/2020 08:09:51 AM MESSAGE:    No Change for Interface 4.
+INFO: 11/26/2020 08:09:51 AM MESSAGE:    Setting member interface 5 to default.
+INFO: 11/26/2020 08:09:51 AM MESSAGE:    No Change for Interface 5.
+ERROR: 11/26/2020 08:09:51 AM ERROR: Interface creation failed: 
+REQUEST: POST /v4.9/api/tenants/2750/sites/16063758264900154/elements/16063758273810199/interfaces
+REQUEST HEADERS:
+	User-Agent: python-requests/2.25.0 (CGX SDK v5.4.3b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 797
+REQUEST BODY:
+{
+    "admin_up": true,
+    "attached_lan_networks": null,
+    "bound_interfaces": [
+        "16063758481990116",
+        "16063758498890144"
+    ],
+    "bypass_pair": null,
+    "description": null,
+    "devicemgmt_policysetstack_id": null,
+    "dhcp_relay": null,
+    "directed_broadcast": false,
+    "ethernet_port": {
+        "full_duplex": false,
+        "speed": 0
+    },
+    "ipv4_config": {
+        "dhcp_config": null,
+        "dns_v4_config": null,
+        "routes": null,
+        "static_config": null,
+        "type": "dhcp"
+    },
+    "mac_address": null,
+    "mtu": 1500,
+    "nat_address": null,
+    "nat_pools": null,
+    "nat_port": 0,
+    "nat_zone_id": "15815752946700113",
+    "network_context_id": null,
+    "parent": null,
+    "pppoe_config": null,
+    "scope": "local",
+    "service_link_config": null,
+    "site_wan_interface_ids": null,
+    "sub_interface": null,
+    "tags": null,
+    "type": "virtual_interface",
+    "used_for": "public",
+    "name": "VIwithTwoPort001"
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Thu, 26 Nov 2020 08:09:51 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 276
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1606378191611001299993256049099305799822",
+    "_error": [
+        {
+            "code": "INTERFACE_CONFIG_INVALID_INTERFACES",
+            "message": "All interfaces are not valid member ports."
+        }
+    ]
+}
