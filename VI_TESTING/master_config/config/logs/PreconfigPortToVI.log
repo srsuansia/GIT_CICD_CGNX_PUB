@@ -1,0 +1,8 @@
+INFO: 11/26/2020 07:30:26 AM MESSAGE: Created Site PreconfigPortToVI.
+INFO: 11/26/2020 07:30:26 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 11/26/2020 07:30:26 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 11/26/2020 07:30:27 AM MESSAGE:  Machine 42108316-62af-0a63-0ed5-9ef9888ec291 is not CLAIMED, attempting to claim..
+INFO: 11/26/2020 07:30:27 AM MESSAGE:  Checking Machine 42108316-62af-0a63-0ed5-9ef9888ec291..
+INFO: 11/26/2020 07:30:27 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 11/26/2020 07:30:27 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 5.
+ERROR: 11/26/2020 07:30:33 AM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 5 seconds. Exiting.

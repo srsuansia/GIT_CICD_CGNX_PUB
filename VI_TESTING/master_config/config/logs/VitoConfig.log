@@ -1,0 +1,6 @@
+INFO: 11/26/2020 07:30:36 AM MESSAGE: Created Site VitoConfig.
+INFO: 11/26/2020 07:30:37 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 11/26/2020 07:30:37 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 11/26/2020 07:30:37 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 11/26/2020 07:30:38 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
+ERROR: 11/26/2020 07:30:44 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.
