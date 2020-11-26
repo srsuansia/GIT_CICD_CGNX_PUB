@@ -4,13 +4,64 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-11-26T06:07:49.700856Z
-+# Created at 2020-11-26T07:32:18.505577Z
+-# Created at 2020-11-26T07:32:27.372981Z
++# Created at 2020-11-26T10:19:01.253184Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    VitoConfig:
      address:
+@@ -23,11 +24,11 @@
+         element_security_zones v2.0: []
+         interfaces v4.9:
+           '1':
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description:
++            admin_up: false
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description: ''
+             devicemgmt_policysetstack_id:
+             dhcp_relay:
+             directed_broadcast: false
+@@ -52,11 +53,11 @@
+             type: port
+             used_for: none
+           '2':
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description:
++            admin_up: false
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description: ''
+             devicemgmt_policysetstack_id:
+             dhcp_relay:
+             directed_broadcast: false
+@@ -81,11 +82,11 @@
+             type: port
+             used_for: none
+           '3':
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description:
++            admin_up: false
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description: ''
+             devicemgmt_policysetstack_id:
+             dhcp_relay:
+             directed_broadcast: false
 @@ -283,77 +284,6 @@
              tags:
              type: port
