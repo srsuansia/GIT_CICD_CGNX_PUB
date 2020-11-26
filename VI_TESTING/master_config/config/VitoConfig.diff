@@ -4,19 +4,139 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-11-26T10:19:05.933751Z
-+# Created at 2020-11-26T10:20:21.505049Z
+-# Created at 2020-11-26T10:20:25.485780Z
++# Created at 2020-11-26T11:13:40.696731Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    VitoConfig:
      address:
-@@ -17,7 +18,7 @@
-         - SPOKE
-         cluster_insertion_mode:
-         cluster_member_id:
--        connected: false
-+        connected: true
-         deployment_op:
-         description:
+@@ -23,11 +24,11 @@
          element_security_zones v2.0: []
+         interfaces v4.9:
+           '1':
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description:
++            admin_up: false
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description: ''
+             devicemgmt_policysetstack_id:
+             dhcp_relay:
+             directed_broadcast: false
+@@ -52,11 +53,11 @@
+             type: port
+             used_for: none
+           '2':
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description:
++            admin_up: false
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description: ''
+             devicemgmt_policysetstack_id:
+             dhcp_relay:
+             directed_broadcast: false
+@@ -81,11 +82,11 @@
+             type: port
+             used_for: none
+           '3':
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description:
++            admin_up: false
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description: ''
+             devicemgmt_policysetstack_id:
+             dhcp_relay:
+             directed_broadcast: false
+@@ -283,77 +284,6 @@
+             tags:
+             type: port
+             used_for: none
+-          VIwithOnePort:
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            - '1'
+-            bypass_pair:
+-            description:
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-              dhcp_config:
+-              dns_v4_config:
+-              routes:
+-              static_config:
+-              type: dhcp
+-            mac_address:
+-            mtu: 1500
+-            nat_address:
+-            nat_pools:
+-            nat_port: 0
+-            nat_zone_id: internet
+-            network_context_id:
+-            parent:
+-            pppoe_config:
+-            scope: local
+-            service_link_config:
+-            site_wan_interface_ids:
+-            sub_interface:
+-            tags:
+-            type: virtual_interface
+-            used_for: public
+-          VIwithTwoPort:
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            - '2'
+-            - '3'
+-            bypass_pair:
+-            description:
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-              dhcp_config:
+-              dns_v4_config:
+-              routes:
+-              static_config:
+-              type: dhcp
+-            mac_address:
+-            mtu: 1500
+-            nat_address:
+-            nat_pools:
+-            nat_port: 0
+-            nat_zone_id: internet
+-            network_context_id:
+-            parent:
+-            pppoe_config:
+-            scope: local
+-            service_link_config:
+-            site_wan_interface_ids:
+-            sub_interface:
+-            tags:
+-            type: virtual_interface
+-            used_for: public
+           controller 1:
+             admin_up: true
+             attached_lan_networks:
