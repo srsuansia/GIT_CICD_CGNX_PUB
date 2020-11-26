@@ -4,8 +4,8 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-11-26T07:32:46.258299Z
-+# Created at 2020-11-26T10:18:15.136420Z
+-# Created at 2020-11-26T10:18:20.944543Z
++# Created at 2020-11-26T11:12:47.397081Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
@@ -539,7 +539,7 @@
 -            tags:
 -            type: port
 -            used_for: none
--          loopback-16063758816340160:
+-          loopback-16063858965600214:
 -            admin_up: true
 -            attached_lan_networks:
 -            bound_interfaces:
@@ -568,7 +568,7 @@
 -            tags:
 -            type: loopback
 -            used_for: none
--          ppp58829450009:
+-          ppp58976330103:
 -            admin_up: true
 -            attached_lan_networks:
 -            bound_interfaces:
