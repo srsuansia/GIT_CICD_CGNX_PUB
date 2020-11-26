@@ -96,3 +96,8 @@ INFO: 11/26/2020 10:20:24 AM MESSAGE:    No Change for NTP 16063858534700239.
 INFO: 11/26/2020 10:20:24 AM MESSAGE:    No Change for Toolkit 16063858677780165.
 INFO: 11/26/2020 10:20:24 AM MESSAGE: No Change for Site VitoConfig state (active).
 INFO: 11/26/2020 10:20:24 AM MESSAGE: DONE
+INFO: 11/26/2020 11:12:32 AM MESSAGE: Created Site VitoConfig.
+INFO: 11/26/2020 11:12:33 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/26/2020 11:12:33 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 11/26/2020 11:12:33 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 11/26/2020 11:12:39 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
