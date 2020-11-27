@@ -57,3 +57,27 @@ INFO: 11/27/2020 12:51:39 PM MESSAGE:    No Change for NTP 16064809690360130.
 INFO: 11/27/2020 12:51:40 PM MESSAGE:    No Change for Toolkit 16064813498920041.
 INFO: 11/27/2020 12:51:41 PM MESSAGE: No Change for Site VitoConfig state (active).
 INFO: 11/27/2020 12:51:41 PM MESSAGE: DONE
+INFO: 11/27/2020 01:05:57 PM MESSAGE: No Change for Site VitoConfig.
+INFO: 11/27/2020 01:05:58 PM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 11/27/2020 01:05:59 PM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 11/27/2020 01:06:00 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/27/2020 01:06:00 PM MESSAGE:   Updating Element VItoConfig.
+INFO: 11/27/2020 01:06:01 PM MESSAGE:    Deleting Unconfigured Interface VIwithOnePort.
+INFO: 11/27/2020 01:06:02 PM MESSAGE:    No Change for Interface VIwithTwoPort.
+INFO: 11/27/2020 01:06:02 PM MESSAGE:    Updated Interface 1 (Etag 7 -> 8).
+INFO: 11/27/2020 01:06:02 PM MESSAGE:    No Change for Interface controller 1.
+WARNING: 11/27/2020 01:06:02 PM WARNING: Cannot use configuration for interface 2, it is set as a parent for VIwithTwoPort.
+WARNING: 11/27/2020 01:06:02 PM WARNING: Cannot use configuration for interface 3, it is set as a parent for VIwithTwoPort.
+INFO: 11/27/2020 01:06:02 PM MESSAGE:    No Change for Interface 4.
+INFO: 11/27/2020 01:06:02 PM MESSAGE:    No Change for Interface 5.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    No Change for Interface 6.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    No Change for Interface 7.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    No Change for Interface 8.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    No Change for Interface 9.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    Created interface TestIPSEC_SL.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    No Change for Spoke HA in Element VItoConfig.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    No Change for BGP Global Config 16064814230170028.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    No Change for NTP 16064809690360130.
+INFO: 11/27/2020 01:06:03 PM MESSAGE:    No Change for Toolkit 16064813498920041.
+INFO: 11/27/2020 01:06:03 PM MESSAGE: No Change for Site VitoConfig state (active).
+INFO: 11/27/2020 01:06:04 PM MESSAGE: DONE
