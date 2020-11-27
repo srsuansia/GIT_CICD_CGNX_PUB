@@ -55,3 +55,24 @@ INFO: 11/26/2020 11:11:50 AM MESSAGE: Disabling site..
 INFO: 11/26/2020 11:11:50 AM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
 INFO: 11/26/2020 11:11:50 AM MESSAGE: Deleting Site PreconfigPortToVI..
 INFO: 11/26/2020 11:11:50 AM MESSAGE: DONE
+INFO: 11/27/2020 12:40:49 PM MESSAGE: Beginning to DESTROY site PreconfigPortToVI(16063891423740192)..
+INFO: 11/27/2020 12:40:49 PM MESSAGE: Un-assigning and de-claiming Element PreconfigToVI(42108316-62af-0a63-0ed5-9ef9888ec291) bound to 16063891423740192.
+INFO: 11/27/2020 12:40:49 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 11/27/2020 12:40:49 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 11/27/2020 12:40:49 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 11/27/2020 12:40:49 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 11/27/2020 12:40:49 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 11/27/2020 12:40:50 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 11/27/2020 12:40:50 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 11/27/2020 12:40:50 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 11/27/2020 12:40:50 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 11/27/2020 12:40:50 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 11/27/2020 12:40:50 PM MESSAGE:  Removing LAN Networks/WAN Interfaces from loopback-16063891694090204.
+INFO: 11/27/2020 12:40:51 PM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from PreconfigToVI:
+INFO: 11/27/2020 12:40:51 PM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 11/27/2020 12:40:52 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:40:52 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 11/27/2020 12:40:52 PM MESSAGE: Disabling site..
+INFO: 11/27/2020 12:40:53 PM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
+INFO: 11/27/2020 12:40:53 PM MESSAGE: Deleting Site PreconfigPortToVI..
+INFO: 11/27/2020 12:40:53 PM MESSAGE: DONE
