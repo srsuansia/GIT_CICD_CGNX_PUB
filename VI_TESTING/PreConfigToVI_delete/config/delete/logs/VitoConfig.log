@@ -63,3 +63,10 @@ INFO: 11/27/2020 12:40:58 PM MESSAGE: Disabling site..
 INFO: 11/27/2020 12:40:58 PM MESSAGE: Updated Site VitoConfig to state disabled.
 INFO: 11/27/2020 12:40:58 PM MESSAGE: Deleting Site VitoConfig..
 INFO: 11/27/2020 12:40:59 PM MESSAGE: DONE
+INFO: 11/27/2020 12:45:10 PM MESSAGE: Beginning to DESTROY site VitoConfig(16064809680520057)..
+INFO: 11/27/2020 12:45:10 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:45:10 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 11/27/2020 12:45:11 PM MESSAGE: Disabling site..
+INFO: 11/27/2020 12:45:11 PM MESSAGE: Updated Site VitoConfig to state disabled.
+INFO: 11/27/2020 12:45:11 PM MESSAGE: Deleting Site VitoConfig..
+INFO: 11/27/2020 12:45:11 PM MESSAGE: DONE

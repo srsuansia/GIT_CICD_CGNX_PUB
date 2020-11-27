@@ -76,3 +76,10 @@ INFO: 11/27/2020 12:40:52 PM MESSAGE: Disabling site..
 INFO: 11/27/2020 12:40:53 PM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
 INFO: 11/27/2020 12:40:53 PM MESSAGE: Deleting Site PreconfigPortToVI..
 INFO: 11/27/2020 12:40:53 PM MESSAGE: DONE
+INFO: 11/27/2020 12:45:07 PM MESSAGE: Beginning to DESTROY site PreconfigPortToVI(16064809572370142)..
+INFO: 11/27/2020 12:45:07 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:45:07 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 11/27/2020 12:45:08 PM MESSAGE: Disabling site..
+INFO: 11/27/2020 12:45:08 PM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
+INFO: 11/27/2020 12:45:08 PM MESSAGE: Deleting Site PreconfigPortToVI..
+INFO: 11/27/2020 12:45:08 PM MESSAGE: DONE
