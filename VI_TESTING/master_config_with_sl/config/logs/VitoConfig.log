@@ -1,2 +1,10 @@
 WARNING: 11/27/2020 12:34:43 PM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Airtel" in YAML file, but this may cause issues if configuration is re-applied to site.
 WARNING: 11/27/2020 12:34:43 PM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to At&T" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 11/27/2020 12:42:48 PM MESSAGE: Created Site VitoConfig.
+INFO: 11/27/2020 12:42:48 PM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:42:48 PM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 11/27/2020 12:42:48 PM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 11/27/2020 12:42:48 PM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 11/27/2020 12:42:48 PM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 11/27/2020 12:42:49 PM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
+ERROR: 11/27/2020 12:42:55 PM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.
