@@ -30,3 +30,30 @@ INFO: 11/27/2020 12:50:18 PM MESSAGE:  Element: Changing element from 5.4.1-b5 t
 INFO: 11/27/2020 12:50:18 PM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
 INFO: 11/27/2020 12:50:20 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 11/27/2020 12:50:26 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
+INFO: 11/27/2020 12:51:31 PM MESSAGE: No Change for Site VitoConfig.
+INFO: 11/27/2020 12:51:31 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:51:31 PM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 11/27/2020 12:51:32 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/27/2020 12:51:32 PM MESSAGE:   No Change for Element VItoConfig.
+INFO: 11/27/2020 12:51:33 PM MESSAGE:    Setting member interface 2 to default.
+INFO: 11/27/2020 12:51:33 PM MESSAGE:    Updated Interface 2 (Etag 3 -> 4).
+INFO: 11/27/2020 12:51:34 PM MESSAGE:    Setting member interface 3 to default.
+INFO: 11/27/2020 12:51:34 PM MESSAGE:    Updated Interface 3 (Etag 3 -> 4).
+INFO: 11/27/2020 12:51:35 PM MESSAGE:    Created interface VIwithTwoPort.
+INFO: 11/27/2020 12:51:35 PM MESSAGE:    Updated Interface 1 (Etag 3 -> 4).
+INFO: 11/27/2020 12:51:36 PM MESSAGE:    No Change for Interface controller 1.
+WARNING: 11/27/2020 12:51:36 PM WARNING: Cannot use configuration for interface 2, it is set as a parent for VIwithTwoPort.
+WARNING: 11/27/2020 12:51:36 PM WARNING: Cannot use configuration for interface 3, it is set as a parent for VIwithTwoPort.
+INFO: 11/27/2020 12:51:36 PM MESSAGE:    No Change for Interface 4.
+INFO: 11/27/2020 12:51:36 PM MESSAGE:    No Change for Interface 5.
+INFO: 11/27/2020 12:51:36 PM MESSAGE:    No Change for Interface 6.
+INFO: 11/27/2020 12:51:37 PM MESSAGE:    No Change for Interface 7.
+INFO: 11/27/2020 12:51:37 PM MESSAGE:    No Change for Interface 8.
+INFO: 11/27/2020 12:51:37 PM MESSAGE:    No Change for Interface 9.
+INFO: 11/27/2020 12:51:38 PM MESSAGE:    Created interface TestIPSEC_SL.
+INFO: 11/27/2020 12:51:39 PM MESSAGE:    No Change for Spoke HA in Element VItoConfig.
+INFO: 11/27/2020 12:51:39 PM MESSAGE:    No Change for BGP Global Config 16064814230170028.
+INFO: 11/27/2020 12:51:39 PM MESSAGE:    No Change for NTP 16064809690360130.
+INFO: 11/27/2020 12:51:40 PM MESSAGE:    No Change for Toolkit 16064813498920041.
+INFO: 11/27/2020 12:51:41 PM MESSAGE: No Change for Site VitoConfig state (active).
+INFO: 11/27/2020 12:51:41 PM MESSAGE: DONE
