@@ -2593,3 +2593,47 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 11/27/2020 12:58:32 PM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/27/2020 12:58:32 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:58:32 PM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/27/2020 12:58:32 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/27/2020 12:58:33 PM MESSAGE:   Updating Element PreconfigToVI.
+INFO: 11/27/2020 12:58:33 PM MESSAGE:    Deleting Unconfigured Interface 23.
+INFO: 11/27/2020 12:58:33 PM MESSAGE:    Deleting Unconfigured Interface ppp14378920106.
+INFO: 11/27/2020 12:58:33 PM MESSAGE:    Deleting Unconfigured Interface 4.1111.
+INFO: 11/27/2020 12:58:33 PM MESSAGE:    Deleting Unconfigured Interface TestSL.
+INFO: 11/27/2020 12:58:34 PM MESSAGE:    No Change for Interface loopback-16064814365010001.
+INFO: 11/27/2020 12:58:34 PM MESSAGE:    Setting member interface 1 to default.
+INFO: 11/27/2020 12:58:34 PM MESSAGE:    Updated Interface 1 (Etag 4 -> 5).
+INFO: 11/27/2020 12:58:34 PM MESSAGE:    Created interface VIwithOnePort.
+INFO: 11/27/2020 12:58:34 PM MESSAGE:    Setting member interface 2 to default.
+INFO: 11/27/2020 12:58:34 PM MESSAGE:    Updated Interface 2 (Etag 5 -> 6).
+INFO: 11/27/2020 12:58:34 PM MESSAGE:    Setting member interface 3 to default.
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    Updated Interface 3 (Etag 5 -> 6).
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    Created interface VIwithTwoPort.
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    Setting member interface 4 to default.
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    No Change for Interface 4.
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    Setting member interface 5 to default.
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    No Change for Interface 5.
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    Created interface VIwithTwoPort001.
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    Setting member interface 7 to default.
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    Updated Interface 7 (Etag 4 -> 5).
+INFO: 11/27/2020 12:58:35 PM MESSAGE:    Setting member interface 8 to default.
+INFO: 11/27/2020 12:58:36 PM MESSAGE:    Updated Interface 8 (Etag 6 -> 7).
+INFO: 11/27/2020 12:58:36 PM MESSAGE:    Created interface VItoIPSEC001.
+INFO: 11/27/2020 12:58:36 PM MESSAGE:    No Change for Interface controller 1.
+WARNING: 11/27/2020 12:58:36 PM WARNING: Cannot use configuration for interface 1, it is set as a parent for VIwithOnePort.
+WARNING: 11/27/2020 12:58:36 PM WARNING: Cannot use configuration for interface 2, it is set as a parent for VIwithTwoPort.
+WARNING: 11/27/2020 12:58:36 PM WARNING: Cannot use configuration for interface 3, it is set as a parent for VIwithTwoPort.
+WARNING: 11/27/2020 12:58:36 PM WARNING: Cannot use configuration for interface 4, it is set as a parent for VIwithTwoPort001.
+WARNING: 11/27/2020 12:58:36 PM WARNING: Cannot use configuration for interface 5, it is set as a parent for VIwithTwoPort001.
+INFO: 11/27/2020 12:58:36 PM MESSAGE:    Updated Interface 6 (Etag 4 -> 5).
+WARNING: 11/27/2020 12:58:36 PM WARNING: Cannot use configuration for interface 7, it is set as a parent for VItoIPSEC001.
+WARNING: 11/27/2020 12:58:36 PM WARNING: Cannot use configuration for interface 8, it is set as a parent for VItoIPSEC001.
+INFO: 11/27/2020 12:58:36 PM MESSAGE:    No Change for Interface 9.
+INFO: 11/27/2020 12:58:36 PM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 11/27/2020 12:58:37 PM MESSAGE:    Updated BGP Global Config 16064814050630205 (Etag 2 -> 3).
+INFO: 11/27/2020 12:58:37 PM MESSAGE:    No Change for NTP 16064809583600057.
+INFO: 11/27/2020 12:58:37 PM MESSAGE:    No Change for Toolkit 16064813065290145.
+INFO: 11/27/2020 12:58:37 PM MESSAGE: No Change for Site PreconfigPortToVI state (active).
+INFO: 11/27/2020 12:58:37 PM MESSAGE: DONE
