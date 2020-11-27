@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-11-26T07:55:19.914890Z
+# Created at 2020-11-27T12:36:19.688115Z
 # by system_2750@soumyars.com
 sites v4.5:
   VitoConfig:
@@ -40,11 +40,11 @@ sites v4.5:
             nat_address:
             nat_pools:
             nat_port: 0
-            nat_zone_id:
+            nat_zone_id: internet
             network_context_id:
             parent:
             pppoe_config:
-            scope: local
+            scope: global
             service_link_config:
             site_wan_interface_ids:
             sub_interface:

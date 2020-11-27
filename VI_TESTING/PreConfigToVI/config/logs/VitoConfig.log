@@ -32,3 +32,31 @@ ERROR: 11/26/2020 10:58:02 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8b
 INFO: 11/26/2020 10:58:10 AM MESSAGE: No Change for Site VitoConfig.
 INFO: 11/26/2020 10:58:10 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 11/26/2020 10:58:16 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
+WARNING: 11/27/2020 12:36:14 PM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to Airtel" in YAML file, but this may cause issues if configuration is re-applied to site.
+WARNING: 11/27/2020 12:36:14 PM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to At&T" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 11/27/2020 12:36:15 PM MESSAGE: No Change for Site VitoConfig.
+INFO: 11/27/2020 12:36:15 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/27/2020 12:36:15 PM MESSAGE:   Updating Element VItoConfig.
+INFO: 11/27/2020 12:36:16 PM MESSAGE:    Deleting Unconfigured Interface TestIPSEC_SL.
+INFO: 11/27/2020 12:36:16 PM MESSAGE:    Setting member interface 1 to default.
+INFO: 11/27/2020 12:36:16 PM MESSAGE:    Updated Interface 1 (Etag 7 -> 8).
+INFO: 11/27/2020 12:36:16 PM MESSAGE:    Created interface VIwithOnePort.
+INFO: 11/27/2020 12:36:16 PM MESSAGE:    No Change for Interface VIwithTwoPort.
+INFO: 11/27/2020 12:36:16 PM MESSAGE:    No Change for Interface controller 1.
+WARNING: 11/27/2020 12:36:16 PM WARNING: Cannot use configuration for interface 1, it is set as a parent for VIwithOnePort.
+WARNING: 11/27/2020 12:36:17 PM WARNING: Cannot use configuration for interface 2, it is set as a parent for VIwithTwoPort.
+WARNING: 11/27/2020 12:36:17 PM WARNING: Cannot use configuration for interface 3, it is set as a parent for VIwithTwoPort.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for Interface 4.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for Interface 5.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for Interface 6.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for Interface 7.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for Interface 8.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for Interface 9.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for Spoke HA in Element VItoConfig.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for BGP Global Config 16063891559600031.
+INFO: 11/27/2020 12:36:17 PM MESSAGE:    No Change for NTP 16063881854150119.
+INFO: 11/27/2020 12:36:18 PM MESSAGE:    No Change for Toolkit 16063890851700149.
+INFO: 11/27/2020 12:36:18 PM MESSAGE:  Deleting Unconfigured Waninterface 16063922451720007.
+INFO: 11/27/2020 12:36:18 PM MESSAGE:  Deleting Unconfigured Waninterface 16063922549530127.
+INFO: 11/27/2020 12:36:18 PM MESSAGE: No Change for Site VitoConfig state (active).
+INFO: 11/27/2020 12:36:18 PM MESSAGE: DONE

@@ -2043,3 +2043,98 @@ INFO: 11/26/2020 11:19:21 AM MESSAGE:    No Change for NTP 16063881715860210.
 INFO: 11/26/2020 11:19:21 AM MESSAGE:    No Change for Toolkit 16063890788910247.
 INFO: 11/26/2020 11:19:21 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
 INFO: 11/26/2020 11:19:21 AM MESSAGE: DONE
+INFO: 11/27/2020 12:36:05 PM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/27/2020 12:36:06 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:36:06 PM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/27/2020 12:36:06 PM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/27/2020 12:36:06 PM MESSAGE:   Updating Element PreconfigToVI.
+INFO: 11/27/2020 12:36:06 PM MESSAGE:    Deleting Unconfigured Interface 23.
+INFO: 11/27/2020 12:36:07 PM MESSAGE:    Deleting Unconfigured Interface ppp05514870037.
+INFO: 11/27/2020 12:36:07 PM MESSAGE:    Deleting Unconfigured Interface 4.1111.
+INFO: 11/27/2020 12:36:09 PM MESSAGE:    Deleting Unconfigured Interface TestSL.
+INFO: 11/27/2020 12:36:11 PM MESSAGE:    No Change for Interface loopback-16063891694090204.
+INFO: 11/27/2020 12:36:11 PM MESSAGE:    Setting member interface 6 to default.
+ERROR: 11/27/2020 12:36:11 PM ERROR: Interface update failed: 
+REQUEST: PUT /v4.9/api/tenants/2750/sites/16063891423740192/elements/16063881715620201/interfaces/16063890841380033
+REQUEST HEADERS:
+	User-Agent: python-requests/2.25.0 (CGX SDK v5.4.3b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 920
+REQUEST BODY:
+{
+    "id": "16063890841380033",
+    "_etag": 6,
+    "_content_length": "0",
+    "_schema": 4,
+    "_created_on_utc": 16063890841380033,
+    "_updated_on_utc": 16063905522450109,
+    "_status_code": "200",
+    "_request_id": "1606480571537002799995965806802118151656",
+    "_debug": null,
+    "_info": null,
+    "_warning": null,
+    "_error": null,
+    "name": "6",
+    "description": null,
+    "type": "port",
+    "attached_lan_networks": null,
+    "site_wan_interface_ids": null,
+    "mac_address": null,
+    "mtu": 1500,
+    "ipv4_config": null,
+    "dhcp_relay": null,
+    "ethernet_port": {
+        "full_duplex": false,
+        "speed": 0
+    },
+    "admin_up": true,
+    "nat_address": null,
+    "nat_port": 0,
+    "used_for": "none",
+    "bound_interfaces": null,
+    "sub_interface": null,
+    "pppoe_config": null,
+    "parent": null,
+    "network_context_id": null,
+    "bypass_pair": null,
+    "service_link_config": null,
+    "scope": "global",
+    "tags": null,
+    "nat_zone_id": null,
+    "devicemgmt_policysetstack_id": null,
+    "nat_pools": null,
+    "directed_broadcast": false
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Fri, 27 Nov 2020 12:36:11 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 441
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1606480571574003200006543302993783967782",
+    "_error": [
+        {
+            "code": "INTERFACE_CONFIG_INVALID_USEDFOR",
+            "message": "Interface configuration should have valid used for. The allowed values are public,private,private-l2 and lan. Used for cannot be modified if the interface is source interface for application probe/syslog/snmp. "
+        }
+    ]
+}
