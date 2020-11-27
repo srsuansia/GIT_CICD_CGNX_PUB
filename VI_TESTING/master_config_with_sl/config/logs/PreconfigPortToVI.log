@@ -16,3 +16,8 @@ INFO: 11/27/2020 12:43:21 PM MESSAGE:  No Change for Waninterface Circuit to Air
 INFO: 11/27/2020 12:43:21 PM MESSAGE:  No Change for Waninterface Circuit to Jio.
 INFO: 11/27/2020 12:43:21 PM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 11/27/2020 12:43:27 PM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 5 seconds. Exiting.
+INFO: 11/27/2020 12:43:36 PM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/27/2020 12:43:36 PM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:43:36 PM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/27/2020 12:43:36 PM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 11/27/2020 12:43:42 PM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 5 seconds. Exiting.
