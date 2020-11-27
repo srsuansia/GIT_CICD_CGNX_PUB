@@ -23,3 +23,10 @@ INFO: 11/27/2020 12:44:51 PM MESSAGE:  No Change for Waninterface Circuit to Air
 INFO: 11/27/2020 12:44:51 PM MESSAGE:  No Change for Waninterface Circuit to At&T.
 INFO: 11/27/2020 12:44:51 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 11/27/2020 12:44:57 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
+INFO: 11/27/2020 12:50:15 PM MESSAGE: Created Site VitoConfig.
+INFO: 11/27/2020 12:50:16 PM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 11/27/2020 12:50:17 PM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 11/27/2020 12:50:18 PM MESSAGE:  Element: Changing element from 5.4.1-b5 to 5.4.1-b15.
+INFO: 11/27/2020 12:50:18 PM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 11/27/2020 12:50:20 PM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 11/27/2020 12:50:26 PM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
