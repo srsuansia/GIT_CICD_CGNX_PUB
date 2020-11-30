@@ -148,3 +148,6 @@ ERROR: 11/30/2020 08:36:15 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e1
 INFO: 11/30/2020 08:36:29 AM MESSAGE: No Change for Site VitoConfig.
 INFO: 11/30/2020 08:36:29 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
 ERROR: 11/30/2020 08:36:35 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
+INFO: 11/30/2020 08:36:45 AM MESSAGE: No Change for Site VitoConfig.
+INFO: 11/30/2020 08:36:45 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 11/30/2020 08:36:51 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
