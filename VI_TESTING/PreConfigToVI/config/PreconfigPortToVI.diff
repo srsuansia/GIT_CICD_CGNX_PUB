@@ -5,7 +5,7 @@
  type: cloudgenix template
  version: 1.0
 -# Created at 2020-11-30T08:14:39.580755Z
-+# Created at 2020-11-30T08:33:06.763196Z
++# Created at 2020-11-30T08:34:06.038488Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
@@ -202,7 +202,7 @@
              bypass_pair:
              description:
              devicemgmt_policysetstack_id:
-@@ -304,26 +129,145 @@
+@@ -304,26 +129,174 @@
                static_config:
                type: dhcp
              mac_address:
@@ -242,6 +242,35 @@
 -            attached_lan_networks:
 -            bound_interfaces:
 -            - '1'
++          '5':
++            admin_up: true
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description:
++            devicemgmt_policysetstack_id:
++            dhcp_relay:
++            directed_broadcast: false
++            ethernet_port:
++              full_duplex: false
++              speed: 0
++            ipv4_config:
++            mac_address:
++            mtu: 1500
++            nat_address:
++            nat_pools:
++            nat_port: 0
++            nat_zone_id:
++            network_context_id:
++            parent:
++            pppoe_config:
++            scope: local
++            service_link_config:
++            site_wan_interface_ids:
++            sub_interface:
++            tags:
++            type: port
++            used_for: none
 +          '6':
 +            admin_up: true
 +            attached_lan_networks:
@@ -367,7 +396,7 @@
              bypass_pair:
              description:
              devicemgmt_policysetstack_id:
-@@ -354,12 +298,11 @@
+@@ -354,12 +327,11 @@
              tags:
              type: virtual_interface
              used_for: public
@@ -385,7 +414,7 @@
              bypass_pair:
              description:
              devicemgmt_policysetstack_id:
-@@ -390,12 +333,12 @@
+@@ -390,12 +362,12 @@
              tags:
              type: virtual_interface
              used_for: public
@@ -404,44 +433,3 @@
              bypass_pair:
              description:
              devicemgmt_policysetstack_id:
-@@ -489,6 +432,40 @@
-             tags:
-             type: loopback
-             used_for: none
-+          ppp51766520117:
-+            admin_up: true
-+            attached_lan_networks:
-+            bound_interfaces:
-+            bypass_pair:
-+            description:
-+            devicemgmt_policysetstack_id:
-+            dhcp_relay:
-+            directed_broadcast: false
-+            ethernet_port:
-+              full_duplex: false
-+              speed: 0
-+            ipv4_config:
-+            mac_address:
-+            mtu: 0
-+            nat_address: 44.44.44.44
-+            nat_pools:
-+            nat_port: 6363
-+            nat_zone_id: internet
-+            network_context_id:
-+            parent: '5'
-+            pppoe_config:
-+              host_uniq:
-+              password: soumya
-+              reconnection_delay: 0
-+              service_name:
-+              username: soumya
-+            scope: global
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: pppoe
-+            used_for: public
-         l3_direct_private_wan_forwarding: false
-         l3_lan_forwarding: false
-         model_name: ion 3102v

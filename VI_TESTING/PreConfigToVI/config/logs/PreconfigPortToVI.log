@@ -3019,3 +3019,34 @@ RESPONSE DATA:
         }
     ]
 }
+INFO: 11/30/2020 08:34:06 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/30/2020 08:34:06 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/30/2020 08:34:07 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/30/2020 08:34:07 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/30/2020 08:34:07 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 11/30/2020 08:34:07 AM MESSAGE:    Deleting Unconfigured Interface 4.1111.
+INFO: 11/30/2020 08:34:07 AM MESSAGE:    No Change for Interface loopback-16067235890990018.
+INFO: 11/30/2020 08:34:07 AM MESSAGE:    No Change for Interface VItoIPSEC001.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    No Change for Interface VIwithOnePort.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    No Change for Interface VIwithTwoPort.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    Setting member interface 4 to default.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    No Change for Interface 4.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    Setting member interface 5 to default.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    No Change for Interface 5.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    Created interface VIwithTwoPort001.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    No Change for Interface controller 1.
+WARNING: 11/30/2020 08:34:08 AM WARNING: Cannot use configuration for interface 1, it is set as a parent for VIwithOnePort.
+WARNING: 11/30/2020 08:34:08 AM WARNING: Cannot use configuration for interface 2, it is set as a parent for VIwithTwoPort.
+WARNING: 11/30/2020 08:34:08 AM WARNING: Cannot use configuration for interface 3, it is set as a parent for VIwithTwoPort.
+WARNING: 11/30/2020 08:34:08 AM WARNING: Cannot use configuration for interface 4, it is set as a parent for VIwithTwoPort001.
+WARNING: 11/30/2020 08:34:08 AM WARNING: Cannot use configuration for interface 5, it is set as a parent for VIwithTwoPort001.
+INFO: 11/30/2020 08:34:08 AM MESSAGE:    No Change for Interface 6.
+WARNING: 11/30/2020 08:34:08 AM WARNING: Cannot use configuration for interface 7, it is set as a parent for VItoIPSEC001.
+WARNING: 11/30/2020 08:34:09 AM WARNING: Cannot use configuration for interface 8, it is set as a parent for VItoIPSEC001.
+INFO: 11/30/2020 08:34:09 AM MESSAGE:    No Change for Interface 9.
+INFO: 11/30/2020 08:34:09 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 11/30/2020 08:34:09 AM MESSAGE:    No Change for BGP Global Config 16067235796690170.
+INFO: 11/30/2020 08:34:09 AM MESSAGE:    No Change for NTP 16067232423980205.
+INFO: 11/30/2020 08:34:09 AM MESSAGE:    No Change for Toolkit 16067235511240250.
+INFO: 11/30/2020 08:34:09 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
+INFO: 11/30/2020 08:34:09 AM MESSAGE: DONE
