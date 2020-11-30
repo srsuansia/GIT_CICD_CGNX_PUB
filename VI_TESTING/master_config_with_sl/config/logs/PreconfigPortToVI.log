@@ -117,3 +117,36 @@ INFO: 11/27/2020 01:05:49 PM MESSAGE:    No Change for NTP 16064809583600057.
 INFO: 11/27/2020 01:05:49 PM MESSAGE:    No Change for Toolkit 16064813065290145.
 INFO: 11/27/2020 01:05:49 PM MESSAGE: No Change for Site PreconfigPortToVI state (active).
 INFO: 11/27/2020 01:05:49 PM MESSAGE: DONE
+INFO: 11/30/2020 08:15:46 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/30/2020 08:15:46 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/30/2020 08:15:47 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/30/2020 08:15:47 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/30/2020 08:15:47 AM MESSAGE:   Updating Element PreconfigToVI.
+INFO: 11/30/2020 08:15:47 AM MESSAGE:    Deleting Unconfigured Interface VItoIPSEC001.
+INFO: 11/30/2020 08:15:47 AM MESSAGE:    Deleting Unconfigured Interface VIwithOnePort.
+INFO: 11/30/2020 08:15:47 AM MESSAGE:    Deleting Unconfigured Interface VIwithTwoPort.
+INFO: 11/30/2020 08:15:48 AM MESSAGE:    Deleting Unconfigured Interface VIwithTwoPort001.
+INFO: 11/30/2020 08:15:48 AM MESSAGE:    Setting Bypasspair parents for 23 to default.
+INFO: 11/30/2020 08:15:48 AM MESSAGE:    No Change for Interface 3.
+INFO: 11/30/2020 08:15:48 AM MESSAGE:    No Change for Interface 2.
+INFO: 11/30/2020 08:15:48 AM MESSAGE:    Created interface 23.
+INFO: 11/30/2020 08:15:48 AM MESSAGE:    No Change for Interface loopback-16067235890990018.
+INFO: 11/30/2020 08:15:48 AM MESSAGE:    Setting PPPoE parent for ppp23473910221 to default.
+INFO: 11/30/2020 08:15:48 AM MESSAGE:    No Change for Interface 5.
+INFO: 11/30/2020 08:15:49 AM MESSAGE:    Created interface ppp23473910221(ppp41490050097).
+INFO: 11/30/2020 08:15:49 AM MESSAGE:    Setting Subinterface parent for 4.1111 to default.
+INFO: 11/30/2020 08:15:49 AM MESSAGE:    No Change for Interface 4.
+INFO: 11/30/2020 08:15:49 AM MESSAGE:    Created interface 4.1111.
+INFO: 11/30/2020 08:15:49 AM MESSAGE:    Updated Interface 1 (Etag 5 -> 6).
+INFO: 11/30/2020 08:15:49 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 11/30/2020 08:15:49 AM MESSAGE:    Updated Interface 6 (Etag 5 -> 6).
+INFO: 11/30/2020 08:15:49 AM MESSAGE:    Updated Interface 7 (Etag 5 -> 6).
+INFO: 11/30/2020 08:15:50 AM MESSAGE:    Updated Interface 8 (Etag 7 -> 8).
+INFO: 11/30/2020 08:15:50 AM MESSAGE:    No Change for Interface 9.
+INFO: 11/30/2020 08:15:50 AM MESSAGE:    Created interface TestSL.
+INFO: 11/30/2020 08:15:50 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 11/30/2020 08:15:50 AM MESSAGE:    Updated BGP Global Config 16067235796690170 (Etag 3 -> 4).
+INFO: 11/30/2020 08:15:50 AM MESSAGE:    No Change for NTP 16067232423980205.
+INFO: 11/30/2020 08:15:50 AM MESSAGE:    No Change for Toolkit 16067235511240250.
+INFO: 11/30/2020 08:15:51 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
+INFO: 11/30/2020 08:15:51 AM MESSAGE: DONE

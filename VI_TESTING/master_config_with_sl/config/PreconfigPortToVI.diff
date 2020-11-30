@@ -4,8 +4,8 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-11-27T12:50:54.412743Z
-+# Created at 2020-11-27T13:05:43.994864Z
+-# Created at 2020-11-27T13:05:50.591259Z
++# Created at 2020-11-30T08:15:45.491460Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
@@ -452,7 +452,7 @@
              admin_up: true
              attached_lan_networks:
              bound_interfaces:
-@@ -201,155 +454,6 @@
+@@ -201,163 +454,14 @@
              network_context_id:
              parent:
              pppoe_config:
@@ -605,14 +605,30 @@
 -            network_context_id:
 -            parent:
 -            pppoe_config:
-             scope: local
-             service_link_config:
-             site_wan_interface_ids:
+-            scope: local
+-            service_link_config:
+-            site_wan_interface_ids:
+-            sub_interface:
+-            tags:
+-            type: port
+-            used_for: none
+-          loopback-16064814365010001:
++            scope: local
++            service_link_config:
++            site_wan_interface_ids:
++            sub_interface:
++            tags:
++            type: port
++            used_for: none
++          loopback-16067235890990018:
+             admin_up: true
+             attached_lan_networks:
+             bound_interfaces:
 @@ -386,42 +490,8 @@
              tags:
              type: loopback
              used_for: none
--          ppp14378920106:
+-          ppp23473910221:
 -            admin_up: true
 -            attached_lan_networks:
 -            bound_interfaces:
