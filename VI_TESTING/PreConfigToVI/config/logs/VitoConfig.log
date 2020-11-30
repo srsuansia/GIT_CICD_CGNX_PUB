@@ -107,3 +107,9 @@ INFO: 11/27/2020 12:58:45 PM MESSAGE:  Deleting Unconfigured Waninterface Circui
 INFO: 11/27/2020 12:58:45 PM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
 INFO: 11/27/2020 12:58:45 PM MESSAGE: No Change for Site VitoConfig state (active).
 INFO: 11/27/2020 12:58:45 PM MESSAGE: DONE
+INFO: 11/30/2020 08:14:43 AM MESSAGE: Created Site VitoConfig.
+INFO: 11/30/2020 08:14:43 AM MESSAGE:  Machine 4210b512-5243-d410-01cb-e8bd6e482e14 is not CLAIMED, attempting to claim..
+INFO: 11/30/2020 08:14:43 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-e8bd6e482e14..
+INFO: 11/30/2020 08:14:43 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 11/30/2020 08:14:43 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
+ERROR: 11/30/2020 08:14:49 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.

@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-11-27T12:58:38.570993Z
+# Created at 2020-11-30T08:14:39.580755Z
 # by system_2750@soumyars.com
 sites v4.5:
   PreconfigPortToVI:
@@ -460,7 +460,7 @@ sites v4.5:
             tags:
             type: port
             used_for: none
-          loopback-16064814365010001:
+          loopback-16067235890990018:
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
