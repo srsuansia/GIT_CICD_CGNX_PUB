@@ -113,3 +113,29 @@ INFO: 11/30/2020 08:14:43 AM MESSAGE:  Checking Machine 4210b512-5243-d410-01cb-
 INFO: 11/30/2020 08:14:43 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 11/30/2020 08:14:43 AM MESSAGE:   Machine 4210b512-5243-d410-01cb-e8bd6e482e14 still claiming, waited so far 0 seconds out of 5.
 ERROR: 11/30/2020 08:14:49 AM ERROR: Machine 4210b512-5243-d410-01cb-e8bd6e482e14 Claim took longer than 5 seconds. Exiting.
+INFO: 11/30/2020 08:20:04 AM MESSAGE: No Change for Site VitoConfig.
+INFO: 11/30/2020 08:20:05 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/30/2020 08:20:05 AM MESSAGE:   Updating Element VItoConfig.
+INFO: 11/30/2020 08:20:05 AM MESSAGE:    Deleting Unconfigured Interface TestIPSEC_SL.
+INFO: 11/30/2020 08:20:05 AM MESSAGE:    Setting member interface 1 to default.
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    Updated Interface 1 (Etag 6 -> 7).
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    Created interface VIwithOnePort.
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    No Change for Interface VIwithTwoPort.
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    No Change for Interface controller 1.
+WARNING: 11/30/2020 08:20:06 AM WARNING: Cannot use configuration for interface 1, it is set as a parent for VIwithOnePort.
+WARNING: 11/30/2020 08:20:06 AM WARNING: Cannot use configuration for interface 2, it is set as a parent for VIwithTwoPort.
+WARNING: 11/30/2020 08:20:06 AM WARNING: Cannot use configuration for interface 3, it is set as a parent for VIwithTwoPort.
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    No Change for Interface 4.
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    No Change for Interface 5.
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    No Change for Interface 6.
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    No Change for Interface 7.
+INFO: 11/30/2020 08:20:06 AM MESSAGE:    No Change for Interface 8.
+INFO: 11/30/2020 08:20:07 AM MESSAGE:    No Change for Interface 9.
+INFO: 11/30/2020 08:20:07 AM MESSAGE:    No Change for Spoke HA in Element VItoConfig.
+INFO: 11/30/2020 08:20:07 AM MESSAGE:    No Change for BGP Global Config 16067241703630244.
+INFO: 11/30/2020 08:20:07 AM MESSAGE:    No Change for NTP 16067240836020103.
+INFO: 11/30/2020 08:20:07 AM MESSAGE:    No Change for Toolkit 16067240984640122.
+INFO: 11/30/2020 08:20:07 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 11/30/2020 08:20:07 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 11/30/2020 08:20:08 AM MESSAGE: No Change for Site VitoConfig state (active).
+INFO: 11/30/2020 08:20:08 AM MESSAGE: DONE

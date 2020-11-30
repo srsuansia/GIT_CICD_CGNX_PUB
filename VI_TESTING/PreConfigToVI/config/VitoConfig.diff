@@ -4,22 +4,13 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-11-27T12:37:25.082488Z
-+# Created at 2020-11-27T12:58:41.328741Z
+-# Created at 2020-11-27T12:58:46.684364Z
++# Created at 2020-11-30T08:20:04.060891Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    VitoConfig:
      address:
-@@ -17,7 +18,7 @@
-         - SPOKE
-         cluster_insertion_mode:
-         cluster_member_id:
--        connected: false
-+        connected: true
-         deployment_op:
-         description:
-         element_security_zones v2.0: []
 @@ -35,268 +36,6 @@
                full_duplex: false
                speed: 0
