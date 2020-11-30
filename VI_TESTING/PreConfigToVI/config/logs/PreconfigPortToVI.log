@@ -2776,3 +2776,108 @@ INFO: 11/30/2020 08:31:13 AM MESSAGE:    No Change for NTP 16067232423980205.
 INFO: 11/30/2020 08:31:13 AM MESSAGE:    No Change for Toolkit 16067235511240250.
 INFO: 11/30/2020 08:31:13 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
 INFO: 11/30/2020 08:31:13 AM MESSAGE: DONE
+INFO: 11/30/2020 08:32:55 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 11/30/2020 08:32:55 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 11/30/2020 08:32:55 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 11/30/2020 08:32:55 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 11/30/2020 08:32:55 AM MESSAGE:   Updating Element PreconfigToVI.
+INFO: 11/30/2020 08:32:56 AM MESSAGE:    Deleting Unconfigured Interface 23.
+INFO: 11/30/2020 08:32:56 AM MESSAGE:    No Change for Interface loopback-16067235890990018.
+INFO: 11/30/2020 08:32:56 AM MESSAGE:    Setting member interface 7 to default.
+INFO: 11/30/2020 08:32:56 AM MESSAGE:    No Change for Interface 7.
+INFO: 11/30/2020 08:32:56 AM MESSAGE:    Setting member interface 8 to default.
+INFO: 11/30/2020 08:32:56 AM MESSAGE:    No Change for Interface 8.
+INFO: 11/30/2020 08:32:56 AM MESSAGE:    Created interface VItoIPSEC001.
+INFO: 11/30/2020 08:32:56 AM MESSAGE:    Setting member interface 1 to default.
+INFO: 11/30/2020 08:32:57 AM MESSAGE:    No Change for Interface 1.
+INFO: 11/30/2020 08:32:57 AM MESSAGE:    Created interface VIwithOnePort.
+INFO: 11/30/2020 08:32:57 AM MESSAGE:    Setting member interface 2 to default.
+INFO: 11/30/2020 08:32:57 AM MESSAGE:    Updated Interface 2 (Etag 9 -> 10).
+INFO: 11/30/2020 08:32:57 AM MESSAGE:    Setting member interface 3 to default.
+INFO: 11/30/2020 08:32:57 AM MESSAGE:    Updated Interface 3 (Etag 9 -> 10).
+INFO: 11/30/2020 08:32:57 AM MESSAGE:    Created interface VIwithTwoPort.
+INFO: 11/30/2020 08:32:57 AM MESSAGE:    Setting member interface 4 to default.
+INFO: 11/30/2020 08:32:58 AM MESSAGE:    No Change for Interface 4.
+INFO: 11/30/2020 08:32:58 AM MESSAGE:    Setting member interface 5 to default.
+INFO: 11/30/2020 08:32:58 AM MESSAGE:    No Change for Interface 5.
+ERROR: 11/30/2020 08:32:58 AM ERROR: Interface creation failed: 
+REQUEST: POST /v4.9/api/tenants/2750/sites/16067232370540116/elements/16067232423630196/interfaces
+REQUEST HEADERS:
+	User-Agent: python-requests/2.25.0 (CGX SDK v5.4.3b1)
+	Accept-Encoding: gzip, deflate
+	Accept: application/json
+	Connection: keep-alive
+	X-Auth-Token: <SENSITIVE - NOT SHOWN BY DEFAULT>
+	Content-Type: application/json
+	Content-Length: 797
+REQUEST BODY:
+{
+    "admin_up": true,
+    "attached_lan_networks": null,
+    "bound_interfaces": [
+        "16067235560200204",
+        "16067235560930253"
+    ],
+    "bypass_pair": null,
+    "description": null,
+    "devicemgmt_policysetstack_id": null,
+    "dhcp_relay": null,
+    "directed_broadcast": false,
+    "ethernet_port": {
+        "full_duplex": false,
+        "speed": 0
+    },
+    "ipv4_config": {
+        "dhcp_config": null,
+        "dns_v4_config": null,
+        "routes": null,
+        "static_config": null,
+        "type": "dhcp"
+    },
+    "mac_address": null,
+    "mtu": 1500,
+    "nat_address": null,
+    "nat_pools": null,
+    "nat_port": 0,
+    "nat_zone_id": "15815752946700113",
+    "network_context_id": null,
+    "parent": null,
+    "pppoe_config": null,
+    "scope": "local",
+    "service_link_config": null,
+    "site_wan_interface_ids": null,
+    "sub_interface": null,
+    "tags": null,
+    "type": "virtual_interface",
+    "used_for": "public",
+    "name": "VIwithTwoPort001"
+}
+
+RESPONSE: 400 Bad Request
+RESPONSE HEADERS:
+	Server: nginx
+	Date: Mon, 30 Nov 2020 08:32:58 GMT
+	Content-Type: application/json; charset=utf-8
+	Content-Length: 276
+	Connection: keep-alive
+	Content-Security-Policy: default-src 'self'
+	X-Content-Type-Options: nosniff
+	X-Frame-Options: DENY
+	X-Permitted-Cross-Domain-Policies: master-only
+	X-XSS-Protection: 1; mode=block
+RESPONSE DATA:
+{
+    "_etag": 0,
+    "_content_length": "0",
+    "_schema": 0,
+    "_created_on_utc": 0,
+    "_updated_on_utc": 0,
+    "_status_code": "400",
+    "_request_id": "1606725178462003899995518356956521475375",
+    "_error": [
+        {
+            "code": "INTERFACE_CONFIG_INVALID_INTERFACES",
+            "message": "All interfaces are not valid member ports."
+        }
+    ]
+}
