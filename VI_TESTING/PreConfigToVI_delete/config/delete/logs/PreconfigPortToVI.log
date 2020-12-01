@@ -83,3 +83,28 @@ INFO: 11/27/2020 12:45:08 PM MESSAGE: Disabling site..
 INFO: 11/27/2020 12:45:08 PM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
 INFO: 11/27/2020 12:45:08 PM MESSAGE: Deleting Site PreconfigPortToVI..
 INFO: 11/27/2020 12:45:08 PM MESSAGE: DONE
+INFO: 12/01/2020 05:18:47 AM MESSAGE: Beginning to DESTROY site PreconfigPortToVI(16067232370540116)..
+INFO: 12/01/2020 05:18:47 AM MESSAGE: Un-assigning and de-claiming Element PreconfigToVI(42108316-62af-0a63-0ed5-9ef9888ec291) bound to 16067232370540116.
+INFO: 12/01/2020 05:18:48 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 12/01/2020 05:18:49 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 12/01/2020 05:18:50 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 12/01/2020 05:18:50 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 12/01/2020 05:18:51 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 12/01/2020 05:18:52 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 12/01/2020 05:18:53 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 12/01/2020 05:18:54 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 12/01/2020 05:18:54 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 12/01/2020 05:18:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 12/01/2020 05:18:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from loopback-16067235890990018.
+INFO: 12/01/2020 05:18:56 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from VIwithTwoPort001.
+INFO: 12/01/2020 05:18:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from VItoIPSEC001.
+INFO: 12/01/2020 05:18:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from VIwithTwoPort.
+INFO: 12/01/2020 05:18:59 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from VIwithOnePort.
+INFO: 12/01/2020 05:19:01 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from PreconfigToVI:
+INFO: 12/01/2020 05:19:02 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 12/01/2020 05:19:06 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 12/01/2020 05:19:06 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 12/01/2020 05:19:07 AM MESSAGE: Disabling site..
+INFO: 12/01/2020 05:19:08 AM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
+INFO: 12/01/2020 05:19:09 AM MESSAGE: Deleting Site PreconfigPortToVI..
+INFO: 12/01/2020 05:19:10 AM MESSAGE: DONE

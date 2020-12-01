@@ -70,3 +70,8 @@ INFO: 11/27/2020 12:45:11 PM MESSAGE: Disabling site..
 INFO: 11/27/2020 12:45:11 PM MESSAGE: Updated Site VitoConfig to state disabled.
 INFO: 11/27/2020 12:45:11 PM MESSAGE: Deleting Site VitoConfig..
 INFO: 11/27/2020 12:45:11 PM MESSAGE: DONE
+INFO: 12/01/2020 05:19:19 AM MESSAGE: Beginning to DESTROY site VitoConfig(16067253669900221)..
+INFO: 12/01/2020 05:19:19 AM MESSAGE: Disabling site..
+INFO: 12/01/2020 05:19:20 AM MESSAGE: Updated Site VitoConfig to state disabled.
+INFO: 12/01/2020 05:19:20 AM MESSAGE: Deleting Site VitoConfig..
+INFO: 12/01/2020 05:19:21 AM MESSAGE: DONE
