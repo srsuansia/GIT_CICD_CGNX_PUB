@@ -75,3 +75,23 @@ INFO: 12/01/2020 05:19:19 AM MESSAGE: Disabling site..
 INFO: 12/01/2020 05:19:20 AM MESSAGE: Updated Site VitoConfig to state disabled.
 INFO: 12/01/2020 05:19:20 AM MESSAGE: Deleting Site VitoConfig..
 INFO: 12/01/2020 05:19:21 AM MESSAGE: DONE
+INFO: 12/02/2020 11:33:45 AM MESSAGE: Beginning to DESTROY site VitoConfig(16069080901340064)..
+INFO: 12/02/2020 11:33:45 AM MESSAGE: Un-assigning and de-claiming Element VItoConfig(4210b512-5243-d410-01cb-e8bd6e482e14) bound to 16069080901340064.
+INFO: 12/02/2020 11:33:45 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 12/02/2020 11:33:45 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 12/02/2020 11:33:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 12/02/2020 11:33:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 12/02/2020 11:33:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 12/02/2020 11:33:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 12/02/2020 11:33:46 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 12/02/2020 11:33:47 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 12/02/2020 11:33:47 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 12/02/2020 11:33:47 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 12/02/2020 11:33:48 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from VItoConfig:
+INFO: 12/02/2020 11:33:48 AM MESSAGE:    No Change for Spoke HA in Element VItoConfig.
+INFO: 12/02/2020 11:33:50 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 12/02/2020 11:33:50 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to At&T.
+INFO: 12/02/2020 11:33:51 AM MESSAGE: Disabling site..
+INFO: 12/02/2020 11:33:52 AM MESSAGE: Updated Site VitoConfig to state disabled.
+INFO: 12/02/2020 11:33:52 AM MESSAGE: Deleting Site VitoConfig..
+INFO: 12/02/2020 11:33:53 AM MESSAGE: DONE
