@@ -134,3 +134,9 @@ INFO: 12/02/2020 11:24:58 AM MESSAGE:  No Change for Waninterface Circuit to At&
 INFO: 12/02/2020 11:25:00 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
 INFO: 12/02/2020 11:25:00 AM MESSAGE:   No Change for Element VItoConfig.
 ERROR: 12/02/2020 11:25:02 AM ERROR: Member port 2 configuration present in yaml file. Cannot create/modify VI VIwithTwoPort. Exiting
+INFO: 12/02/2020 11:25:22 AM MESSAGE: No Change for Site VitoConfig.
+INFO: 12/02/2020 11:25:22 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/02/2020 11:25:22 AM MESSAGE:  No Change for Waninterface Circuit to At&T.
+INFO: 12/02/2020 11:25:24 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/02/2020 11:25:24 AM MESSAGE:   No Change for Element VItoConfig.
+ERROR: 12/02/2020 11:25:25 AM ERROR: Member port 2 configuration present in yaml file. Cannot create/modify VI VIwithTwoPort. Exiting
