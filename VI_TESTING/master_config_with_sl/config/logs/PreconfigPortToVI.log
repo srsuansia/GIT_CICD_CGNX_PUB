@@ -150,3 +150,11 @@ INFO: 11/30/2020 08:15:50 AM MESSAGE:    No Change for NTP 16067232423980205.
 INFO: 11/30/2020 08:15:50 AM MESSAGE:    No Change for Toolkit 16067235511240250.
 INFO: 11/30/2020 08:15:51 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
 INFO: 11/30/2020 08:15:51 AM MESSAGE: DONE
+INFO: 12/02/2020 11:21:04 AM MESSAGE: Created Site PreconfigPortToVI.
+INFO: 12/02/2020 11:21:05 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 12/02/2020 11:21:06 AM MESSAGE:  Created waninterface Circuit to Jio.
+INFO: 12/02/2020 11:21:07 AM MESSAGE:  Machine 42108316-62af-0a63-0ed5-9ef9888ec291 is not CLAIMED, attempting to claim..
+INFO: 12/02/2020 11:21:07 AM MESSAGE:  Checking Machine 42108316-62af-0a63-0ed5-9ef9888ec291..
+INFO: 12/02/2020 11:21:07 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 12/02/2020 11:21:07 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 5.
+ERROR: 12/02/2020 11:21:13 AM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 5 seconds. Exiting.

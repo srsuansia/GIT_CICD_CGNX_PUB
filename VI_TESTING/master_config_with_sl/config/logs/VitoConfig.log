@@ -115,3 +115,10 @@ INFO: 11/30/2020 08:16:31 AM MESSAGE:    No Change for NTP 16067240836020103.
 INFO: 11/30/2020 08:16:32 AM MESSAGE:    No Change for Toolkit 16067240984640122.
 INFO: 11/30/2020 08:16:32 AM MESSAGE: No Change for Site VitoConfig state (active).
 INFO: 11/30/2020 08:16:32 AM MESSAGE: DONE
+INFO: 12/02/2020 11:21:31 AM MESSAGE: Created Site VitoConfig.
+INFO: 12/02/2020 11:21:32 AM MESSAGE:  Created waninterface Circuit to Airtel.
+INFO: 12/02/2020 11:21:33 AM MESSAGE:  Created waninterface Circuit to At&T.
+INFO: 12/02/2020 11:21:36 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/02/2020 11:21:36 AM MESSAGE:   Assigning Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14.
+INFO: 12/02/2020 11:21:37 AM MESSAGE:   Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 12/02/2020 11:21:43 AM ERROR: Element Serial: 4210b512-5243-d410-01cb-e8bd6e482e14 state transition took longer than 5 seconds. Exiting.
