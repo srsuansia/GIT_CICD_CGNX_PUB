@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-12-02T11:23:51.358197Z
+# Created at 2020-12-02T11:43:39.472250Z
 # by system_2750@soumyars.com
 sites v4.5:
   PreconfigPortToVI:
@@ -17,7 +17,7 @@ sites v4.5:
         - SPOKE
         cluster_insertion_mode:
         cluster_member_id:
-        connected: true
+        connected: false
         deployment_op:
         description:
         element_security_zones v2.0: []
@@ -357,7 +357,7 @@ sites v4.5:
             tags:
             type: port
             used_for: none
-          loopback-16069082145120181:
+          loopback-16069094021410138:
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
@@ -386,7 +386,7 @@ sites v4.5:
             tags:
             type: loopback
             used_for: none
-          ppp82176750103:
+          ppp94054780248:
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
