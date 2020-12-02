@@ -212,3 +212,8 @@ INFO: 12/02/2020 11:40:54 AM MESSAGE:  Checking Machine 42108316-62af-0a63-0ed5-
 INFO: 12/02/2020 11:40:54 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 12/02/2020 11:40:55 AM MESSAGE:   Machine 42108316-62af-0a63-0ed5-9ef9888ec291 still claiming, waited so far 0 seconds out of 5.
 ERROR: 12/02/2020 11:41:01 AM ERROR: Machine 42108316-62af-0a63-0ed5-9ef9888ec291 Claim took longer than 5 seconds. Exiting.
+INFO: 12/02/2020 11:41:16 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/02/2020 11:41:17 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/02/2020 11:41:17 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/02/2020 11:41:19 AM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): ready, bound (is init). Waited so far 0 seconds out of 5.
+ERROR: 12/02/2020 11:41:25 AM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 5 seconds. Exiting.
