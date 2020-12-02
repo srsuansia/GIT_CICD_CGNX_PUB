@@ -4,76 +4,29 @@
  ---
  type: cloudgenix template
  version: 1.0
--# Created at 2020-11-27T13:05:50.591259Z
-+# Created at 2020-11-30T08:15:45.491460Z
+-# Created at 2020-11-30T08:15:52.026925Z
++# Created at 2020-12-02T11:23:28.228893Z
  # by system_2750@soumyars.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    PreconfigPortToVI:
      address:
-@@ -27,7 +28,270 @@
-             attached_lan_networks:
-             bound_interfaces:
-             bypass_pair:
-+            description:
-+            devicemgmt_policysetstack_id:
-+            dhcp_relay:
-+            directed_broadcast: false
-+            ethernet_port:
-+              full_duplex: false
-+              speed: 0
-+            ipv4_config:
-+            mac_address:
-+            mtu: 1500
-+            nat_address:
-+            nat_pools:
-+            nat_port: 0
-+            nat_zone_id: internet
-+            network_context_id:
-+            parent:
-+            pppoe_config:
-+            scope: global
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: port
-+            used_for: none
-+          '2':
-+            admin_up: true
+@@ -17,12 +18,273 @@
+         - SPOKE
+         cluster_insertion_mode:
+         cluster_member_id:
+-        connected: true
++        connected: false
+         deployment_op:
+         description:
+         element_security_zones v2.0: []
+         interfaces v4.9:
+           '1':
++            admin_up: false
 +            attached_lan_networks:
 +            bound_interfaces:
 +            bypass_pair:
-+            description:
-+            devicemgmt_policysetstack_id:
-+            dhcp_relay:
-+            directed_broadcast: false
-+            ethernet_port:
-+              full_duplex: false
-+              speed: 0
-+            ipv4_config:
-+            mac_address:
-+            mtu: 1500
-+            nat_address:
-+            nat_pools:
-+            nat_port: 0
-+            nat_zone_id: internet
-+            network_context_id:
-+            parent:
-+            pppoe_config:
-+            scope: global
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: port
-+            used_for: none
-+          '3':
-+            admin_up: true
-+            attached_lan_networks:
-+            bound_interfaces:
-+            bypass_pair:
-+            description:
++            description: ''
 +            devicemgmt_policysetstack_id:
 +            dhcp_relay:
 +            directed_broadcast: false
@@ -90,7 +43,65 @@
 +            network_context_id:
 +            parent:
 +            pppoe_config:
-+            scope: global
++            scope: local
++            service_link_config:
++            site_wan_interface_ids:
++            sub_interface:
++            tags:
++            type: port
++            used_for: none
++          '2':
++            admin_up: false
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description: ''
++            devicemgmt_policysetstack_id:
++            dhcp_relay:
++            directed_broadcast: false
++            ethernet_port:
++              full_duplex: false
++              speed: 0
++            ipv4_config:
++            mac_address:
++            mtu: 1500
++            nat_address:
++            nat_pools:
++            nat_port: 0
++            nat_zone_id:
++            network_context_id:
++            parent:
++            pppoe_config:
++            scope: local
++            service_link_config:
++            site_wan_interface_ids:
++            sub_interface:
++            tags:
++            type: port
++            used_for: none
++          '3':
++            admin_up: false
++            attached_lan_networks:
++            bound_interfaces:
++            bypass_pair:
++            description: ''
++            devicemgmt_policysetstack_id:
++            dhcp_relay:
++            directed_broadcast: false
++            ethernet_port:
++              full_duplex: false
++              speed: 0
++            ipv4_config:
++            mac_address:
++            mtu: 1500
++            nat_address:
++            nat_pools:
++            nat_port: 0
++            nat_zone_id:
++            network_context_id:
++            parent:
++            pppoe_config:
++            scope: local
 +            service_link_config:
 +            site_wan_interface_ids:
 +            sub_interface:
@@ -98,11 +109,11 @@
 +            type: port
 +            used_for: none
 +          '4':
-+            admin_up: true
++            admin_up: false
 +            attached_lan_networks:
 +            bound_interfaces:
 +            bypass_pair:
-+            description:
++            description: ''
 +            devicemgmt_policysetstack_id:
 +            dhcp_relay:
 +            directed_broadcast: false
@@ -127,11 +138,11 @@
 +            type: port
 +            used_for: none
 +          '5':
-+            admin_up: true
++            admin_up: false
 +            attached_lan_networks:
 +            bound_interfaces:
 +            bypass_pair:
-+            description:
++            description: ''
 +            devicemgmt_policysetstack_id:
 +            dhcp_relay:
 +            directed_broadcast: false
@@ -156,11 +167,11 @@
 +            type: port
 +            used_for: none
 +          '6':
-+            admin_up: true
++            admin_up: false
 +            attached_lan_networks:
 +            bound_interfaces:
 +            bypass_pair:
-+            description:
++            description: ''
 +            devicemgmt_policysetstack_id:
 +            dhcp_relay:
 +            directed_broadcast: false
@@ -177,7 +188,7 @@
 +            network_context_id:
 +            parent:
 +            pppoe_config:
-+            scope: global
++            scope: local
 +            service_link_config:
 +            site_wan_interface_ids:
 +            sub_interface:
@@ -185,11 +196,11 @@
 +            type: port
 +            used_for: none
 +          '7':
-+            admin_up: true
++            admin_up: false
 +            attached_lan_networks:
 +            bound_interfaces:
 +            bypass_pair:
-+            description:
++            description: ''
 +            devicemgmt_policysetstack_id:
 +            dhcp_relay:
 +            directed_broadcast: false
@@ -206,7 +217,7 @@
 +            network_context_id:
 +            parent:
 +            pppoe_config:
-+            scope: global
++            scope: local
 +            service_link_config:
 +            site_wan_interface_ids:
 +            sub_interface:
@@ -214,11 +225,11 @@
 +            type: port
 +            used_for: none
 +          '8':
-+            admin_up: true
++            admin_up: false
 +            attached_lan_networks:
 +            bound_interfaces:
 +            bypass_pair:
-+            description:
++            description: ''
 +            devicemgmt_policysetstack_id:
 +            dhcp_relay:
 +            directed_broadcast: false
@@ -231,7 +242,7 @@
 +            nat_address:
 +            nat_pools:
 +            nat_port: 0
-+            nat_zone_id: internet
++            nat_zone_id:
 +            network_context_id:
 +            parent:
 +            pppoe_config:
@@ -247,7 +258,7 @@
 +            attached_lan_networks:
 +            bound_interfaces:
 +            bypass_pair:
-             description: ''
++            description: ''
 +            devicemgmt_policysetstack_id:
 +            dhcp_relay:
 +            directed_broadcast: false
@@ -271,21 +282,18 @@
 +            tags:
 +            type: port
 +            used_for: none
-+          VItoIPSEC001:
-+            admin_up: true
-+            attached_lan_networks:
-+            bound_interfaces:
-+            - '7'
-+            - '8'
-+            bypass_pair:
-+            description:
-             devicemgmt_policysetstack_id:
-             dhcp_relay:
-             directed_broadcast: false
-@@ -49,23 +313,19 @@
-             network_context_id:
-             parent:
-             pppoe_config:
++          controller 1:
+             admin_up: true
+             attached_lan_networks:
+             bound_interfaces:
+@@ -45,381 +307,17 @@
+             nat_address:
+             nat_pools:
+             nat_port: 0
+-            nat_zone_id: internet
+-            network_context_id:
+-            parent:
+-            pppoe_config:
 -            scope: global
 -            service_link_config:
 -            site_wan_interface_ids:
@@ -293,13 +301,7 @@
 -            sub_interface:
 -            tags:
 -            type: port
-+            scope: local
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: virtual_interface
-             used_for: public
+-            used_for: public
 -          '23':
 -            admin_up: true
 -            attached_lan_networks:
@@ -309,69 +311,60 @@
 -              lan_state_propagation: true
 -              use_relay: false
 -              wan: '2'
-+          VIwithOnePort:
-+            admin_up: true
-+            attached_lan_networks:
-+            bound_interfaces:
-+            - '1'
-+            bypass_pair:
-             description:
-             devicemgmt_policysetstack_id:
-             dhcp_relay:
-@@ -81,24 +341,26 @@
-               type: dhcp
-             mac_address:
-             mtu: 1500
+-            description:
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-              dhcp_config:
+-              dns_v4_config:
+-              routes:
+-              static_config:
+-              type: dhcp
+-            mac_address:
+-            mtu: 1500
 -            nat_address: 10.10.10.10
 -            nat_pools:
 -            nat_port: 6666
-+            nat_address:
-+            nat_pools:
-+            nat_port: 0
-             nat_zone_id: internet
-             network_context_id:
-             parent:
-             pppoe_config:
+-            nat_zone_id: internet
+-            network_context_id:
+-            parent:
+-            pppoe_config:
 -            scope: global
 -            service_link_config:
 -            site_wan_interface_ids:
 -            sub_interface:
 -            tags:
 -            type: bypasspair
-+            scope: local
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: virtual_interface
-             used_for: public
+-            used_for: public
 -          '4.1111':
 -            admin_up: true
 -            attached_lan_networks:
 -            bound_interfaces:
-+          VIwithTwoPort:
-+            admin_up: true
-+            attached_lan_networks:
-+            bound_interfaces:
-+            - '2'
-+            - '3'
-             bypass_pair:
-             description:
-             devicemgmt_policysetstack_id:
-@@ -114,40 +376,31 @@
-               static_config:
-               type: dhcp
-             mac_address:
+-            bypass_pair:
+-            description:
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-              dhcp_config:
+-              dns_v4_config:
+-              routes:
+-              static_config:
+-              type: dhcp
+-            mac_address:
 -            mtu: 0
 -            nat_address: 55.55.55.55
 -            nat_pools:
 -            nat_port: 6565
-+            mtu: 1500
-+            nat_address:
-+            nat_pools:
-+            nat_port: 0
-             nat_zone_id: internet
-             network_context_id:
+-            nat_zone_id: internet
+-            network_context_id:
 -            parent: '4'
 -            pppoe_config:
 -            scope: global
@@ -382,15 +375,7 @@
 -              vlan_id: 1111
 -            tags:
 -            type: subinterface
-+            parent:
-+            pppoe_config:
-+            scope: local
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: virtual_interface
-             used_for: public
+-            used_for: public
 -          '6':
 -            admin_up: true
 -            attached_lan_networks:
@@ -408,23 +393,21 @@
 -              server_ips:
 -              - 10.101.101.10
 -              source_interface: '6'
-+          VIwithTwoPort001:
-+            admin_up: true
-+            attached_lan_networks:
-+            bound_interfaces:
-+            - '4'
-+            - '5'
-+            bypass_pair:
-+            description:
-+            devicemgmt_policysetstack_id:
-+            dhcp_relay:
-             directed_broadcast: false
-             ethernet_port:
-               full_duplex: false
-@@ -163,18 +416,18 @@
-             nat_address:
-             nat_pools:
-             nat_port: 0
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-              dhcp_config:
+-              dns_v4_config:
+-              routes:
+-              static_config:
+-              type: dhcp
+-            mac_address:
+-            mtu: 1500
+-            nat_address:
+-            nat_pools:
+-            nat_port: 0
 -            nat_zone_id:
 -            network_context_id:
 -            parent:
@@ -437,25 +420,32 @@
 -            type: port
 -            used_for: lan
 -          '7':
-+            nat_zone_id: internet
-+            network_context_id:
-+            parent:
-+            pppoe_config:
-+            scope: local
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: virtual_interface
-+            used_for: public
-+          controller 1:
-             admin_up: true
-             attached_lan_networks:
-             bound_interfaces:
-@@ -201,163 +454,14 @@
-             network_context_id:
-             parent:
-             pppoe_config:
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description: ''
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-              dhcp_config:
+-              dns_v4_config:
+-              routes:
+-              static_config:
+-              type: dhcp
+-            mac_address:
+-            mtu: 1500
+-            nat_address:
+-            nat_pools:
+-            nat_port: 0
+-            nat_zone_id:
+-            network_context_id:
+-            parent:
+-            pppoe_config:
 -            scope: global
 -            service_link_config:
 -            site_wan_interface_ids:
@@ -612,23 +602,36 @@
 -            tags:
 -            type: port
 -            used_for: none
--          loopback-16064814365010001:
-+            scope: local
-+            service_link_config:
-+            site_wan_interface_ids:
-+            sub_interface:
-+            tags:
-+            type: port
-+            used_for: none
-+          loopback-16067235890990018:
-             admin_up: true
-             attached_lan_networks:
-             bound_interfaces:
-@@ -386,42 +490,8 @@
-             tags:
-             type: loopback
-             used_for: none
--          ppp23473910221:
+-          loopback-16067235890990018:
+-            admin_up: true
+-            attached_lan_networks:
+-            bound_interfaces:
+-            bypass_pair:
+-            description:
+-            devicemgmt_policysetstack_id:
+-            dhcp_relay:
+-            directed_broadcast: false
+-            ethernet_port:
+-              full_duplex: false
+-              speed: 0
+-            ipv4_config:
+-            mac_address:
+-            mtu: 1500
+-            nat_address:
+-            nat_pools:
+-            nat_port: 0
+-            nat_zone_id:
+-            network_context_id:
+-            parent:
+-            pppoe_config:
+-            scope: local
+-            service_link_config:
+-            site_wan_interface_ids:
+-            sub_interface:
+-            tags:
+-            type: loopback
+-            used_for: none
+-          ppp41490050097:
 -            admin_up: true
 -            attached_lan_networks:
 -            bound_interfaces:
@@ -662,14 +665,21 @@
 -            tags:
 -            type: pppoe
 -            used_for: public
--        l3_direct_private_wan_forwarding: true
--        l3_lan_forwarding: true
-+        l3_direct_private_wan_forwarding: false
-+        l3_lan_forwarding: false
++            nat_zone_id:
++            network_context_id:
++            parent:
++            pppoe_config:
++            scope: local
++            service_link_config:
++            site_wan_interface_ids:
++            sub_interface:
++            tags:
++            type: port
++            used_for: none
+         l3_direct_private_wan_forwarding: true
+         l3_lan_forwarding: true
          model_name: ion 3102v
-         nat_policysetstack_id:
-         network_policysetstack_id:
-@@ -461,13 +531,13 @@
+@@ -461,13 +359,13 @@
                graceful_restart: false
                hold_time: 90
                keepalive_time: 30
