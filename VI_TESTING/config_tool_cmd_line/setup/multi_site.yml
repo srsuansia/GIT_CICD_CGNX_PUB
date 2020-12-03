@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-12-03T06:11:51.540497Z
+# Created at 2020-12-03T07:02:48.261174Z
 # by netadmin@soumya.com
 sites v4.5:
   PreconfigPortToVI:
@@ -69,7 +69,7 @@ sites v4.5:
             nat_address:
             nat_pools:
             nat_port: 0
-            nat_zone_id: internet
+            nat_zone_id:
             network_context_id:
             parent:
             pppoe_config:
@@ -81,7 +81,7 @@ sites v4.5:
             type: port
             used_for: none
           '3':
-            admin_up: true
+            admin_up: false
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
@@ -108,13 +108,13 @@ sites v4.5:
             sub_interface:
             tags:
             type: port
-            used_for: public
+            used_for: none
           '4':
             admin_up: false
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -143,7 +143,7 @@ sites v4.5:
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -172,7 +172,7 @@ sites v4.5:
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -201,7 +201,7 @@ sites v4.5:
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -230,7 +230,7 @@ sites v4.5:
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -259,7 +259,7 @@ sites v4.5:
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -283,11 +283,48 @@ sites v4.5:
             tags:
             type: port
             used_for: none
-          VIwithOnePort:
+          VIwithTwoPort:
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
-            - '1'
+            - '2'
+            - '3'
+            bypass_pair:
+            description:
+            devicemgmt_policysetstack_id:
+            dhcp_relay:
+            directed_broadcast: false
+            ethernet_port:
+              full_duplex: false
+              speed: 0
+            ipv4_config:
+              dhcp_config:
+              dns_v4_config:
+              routes:
+              static_config:
+              type: dhcp
+            mac_address:
+            mtu: 1500
+            nat_address:
+            nat_pools:
+            nat_port: 0
+            nat_zone_id: internet
+            network_context_id:
+            parent:
+            pppoe_config:
+            scope: local
+            service_link_config:
+            site_wan_interface_ids:
+            sub_interface:
+            tags:
+            type: virtual_interface
+            used_for: public
+          VIwithTwoPort001:
+            admin_up: true
+            attached_lan_networks:
+            bound_interfaces:
+            - '4'
+            - '5'
             bypass_pair:
             description:
             devicemgmt_policysetstack_id:
@@ -352,7 +389,7 @@ sites v4.5:
             tags:
             type: port
             used_for: none
-          loopback-16069725244460216:
+          loopback-16069775095620224:
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
