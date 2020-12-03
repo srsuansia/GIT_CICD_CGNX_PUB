@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-12-03T01:08:19.205457Z
+# Created at 2020-12-03T04:05:17.726721Z
 # by system_2750@soumyars.com
 sites v4.5:
   PreconfigPortToVI:
@@ -22,7 +22,7 @@ sites v4.5:
         description:
         element_security_zones v2.0: []
         interfaces v4.9:
-          '1.1111':
+          '1':
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
@@ -35,29 +35,22 @@ sites v4.5:
               full_duplex: false
               speed: 0
             ipv4_config:
-              dhcp_config:
-              dns_v4_config:
-              routes:
-              static_config:
-              type: dhcp
             mac_address:
-            mtu: 0
-            nat_address: 55.55.55.55
+            mtu: 1500
+            nat_address:
             nat_pools:
-            nat_port: 6565
-            nat_zone_id: internet
+            nat_port: 0
+            nat_zone_id:
             network_context_id:
-            parent: '4'
+            parent:
             pppoe_config:
             scope: global
             service_link_config:
             site_wan_interface_ids:
             sub_interface:
-              native_vlan: true
-              vlan_id: 1111
             tags:
-            type: subinterface
-            used_for: public
+            type: port
+            used_for: none
           '2':
             admin_up: true
             attached_lan_networks:
@@ -116,7 +109,7 @@ sites v4.5:
             tags:
             type: port
             used_for: none
-          '4':
+          '4.1111':
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
@@ -129,22 +122,29 @@ sites v4.5:
               full_duplex: false
               speed: 0
             ipv4_config:
+              dhcp_config:
+              dns_v4_config:
+              routes:
+              static_config:
+              type: dhcp
             mac_address:
-            mtu: 1500
-            nat_address:
+            mtu: 0
+            nat_address: 55.55.55.55
             nat_pools:
-            nat_port: 0
-            nat_zone_id:
+            nat_port: 6565
+            nat_zone_id: internet
             network_context_id:
-            parent:
+            parent: '4'
             pppoe_config:
-            scope: local
+            scope: global
             service_link_config:
             site_wan_interface_ids:
             sub_interface:
+              native_vlan: true
+              vlan_id: 1111
             tags:
-            type: port
-            used_for: none
+            type: subinterface
+            used_for: public
           '5':
             admin_up: true
             attached_lan_networks:
@@ -359,7 +359,7 @@ sites v4.5:
             tags:
             type: port
             used_for: none
-          loopback-16069094021410138:
+          loopback-16069680315450153:
             admin_up: true
             attached_lan_networks:
             bound_interfaces:

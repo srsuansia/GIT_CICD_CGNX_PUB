@@ -3235,3 +3235,31 @@ INFO: 12/03/2020 04:01:17 AM MESSAGE:   No Change for Element PreconfigToVI.
 INFO: 12/03/2020 04:01:18 AM MESSAGE:    No Change for Interface 23.
 INFO: 12/03/2020 04:01:18 AM MESSAGE:    No Change for Interface loopback-16069680315450153.
 ERROR: 12/03/2020 04:01:18 AM ERROR: Member port 1 configuration present in yaml file. Cannot create/modify VI VIwithOnePort. Exiting
+INFO: 12/03/2020 04:05:02 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 04:05:02 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 04:05:03 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 04:05:04 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 04:05:04 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 12/03/2020 04:05:05 AM MESSAGE:    Deleting Unconfigured Interface 23.
+INFO: 12/03/2020 04:05:06 AM MESSAGE:    No Change for Interface loopback-16069680315450153.
+INFO: 12/03/2020 04:05:06 AM MESSAGE:    Setting member interface 1 to default.
+INFO: 12/03/2020 04:05:06 AM MESSAGE:    Updated Interface 1 (Etag 8 -> 9).
+INFO: 12/03/2020 04:05:07 AM MESSAGE:    Created interface VIwithOnePort.
+INFO: 12/03/2020 04:05:07 AM MESSAGE:    Setting Subinterface parent for 1.1111 to default.
+INFO: 12/03/2020 04:05:07 AM MESSAGE:    No Change for Interface 4.
+INFO: 12/03/2020 04:05:07 AM MESSAGE:    Created interface 1.1111(4.1111).
+INFO: 12/03/2020 04:05:08 AM MESSAGE:    Updated Interface 2 (Etag 9 -> 10).
+INFO: 12/03/2020 04:05:08 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 12/03/2020 04:05:08 AM MESSAGE:    Updated Interface 3 (Etag 9 -> 10).
+WARNING: 12/03/2020 04:05:08 AM WARNING: Cannot use configuration for interface 4, it is set as a parent for 1.1111.
+INFO: 12/03/2020 04:05:08 AM MESSAGE:    No Change for Interface 5.
+INFO: 12/03/2020 04:05:08 AM MESSAGE:    No Change for Interface 6.
+INFO: 12/03/2020 04:05:09 AM MESSAGE:    No Change for Interface 7.
+INFO: 12/03/2020 04:05:09 AM MESSAGE:    No Change for Interface 8.
+INFO: 12/03/2020 04:05:09 AM MESSAGE:    No Change for Interface 9.
+INFO: 12/03/2020 04:05:09 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 12/03/2020 04:05:10 AM MESSAGE:    No Change for BGP Global Config 16069093672550202.
+INFO: 12/03/2020 04:05:11 AM MESSAGE:    No Change for NTP 16069092550730146.
+INFO: 12/03/2020 04:05:12 AM MESSAGE:    No Change for Toolkit 16069092799150218.
+INFO: 12/03/2020 04:05:12 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
+INFO: 12/03/2020 04:05:12 AM MESSAGE: DONE
