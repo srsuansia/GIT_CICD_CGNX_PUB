@@ -3096,3 +3096,40 @@ INFO: 12/03/2020 12:24:05 AM MESSAGE:  Element: Code is at correct version 5.4.1
 INFO: 12/03/2020 12:24:05 AM MESSAGE:   No Change for Element PreconfigToVI.
 INFO: 12/03/2020 12:24:07 AM MESSAGE:    No Change for Interface loopback-16069094021410138.
 ERROR: 12/03/2020 12:24:07 AM ERROR: Member port 7 configuration present in yaml file. Cannot create/modify VI VItoIPSEC001. Exiting
+INFO: 12/03/2020 12:51:50 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 12:51:50 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 12:51:50 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 12:51:53 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 12:51:54 AM MESSAGE:   Updating Element PreconfigToVI.
+INFO: 12/03/2020 12:51:56 AM MESSAGE:    Deleting Unconfigured Interface 23.
+INFO: 12/03/2020 12:51:57 AM MESSAGE:    Deleting Unconfigured Interface ppp62163360151.
+INFO: 12/03/2020 12:51:57 AM MESSAGE:    Deleting Unconfigured Interface 4.1111.
+INFO: 12/03/2020 12:51:58 AM MESSAGE:    Deleting Unconfigured Interface TestSL.
+INFO: 12/03/2020 12:51:59 AM MESSAGE:    No Change for Interface loopback-16069094021410138.
+INFO: 12/03/2020 12:51:59 AM MESSAGE:    Setting member interface 7 to default.
+INFO: 12/03/2020 12:51:59 AM MESSAGE:    Updated Interface 7 (Etag 4 -> 5).
+INFO: 12/03/2020 12:52:00 AM MESSAGE:    Setting member interface 8 to default.
+INFO: 12/03/2020 12:52:00 AM MESSAGE:    Updated Interface 8 (Etag 8 -> 9).
+INFO: 12/03/2020 12:52:01 AM MESSAGE:    Created interface VItoIPSEC001.
+INFO: 12/03/2020 12:52:02 AM MESSAGE:    Setting member interface 1 to default.
+INFO: 12/03/2020 12:52:02 AM MESSAGE:    Updated Interface 1 (Etag 4 -> 5).
+INFO: 12/03/2020 12:52:02 AM MESSAGE:    Created interface VIwithOnePort.
+INFO: 12/03/2020 12:52:03 AM MESSAGE:    Setting member interface 2 to default.
+INFO: 12/03/2020 12:52:03 AM MESSAGE:    Updated Interface 2 (Etag 7 -> 8).
+INFO: 12/03/2020 12:52:03 AM MESSAGE:    Setting member interface 3 to default.
+INFO: 12/03/2020 12:52:03 AM MESSAGE:    Updated Interface 3 (Etag 7 -> 8).
+INFO: 12/03/2020 12:52:04 AM MESSAGE:    Created interface VIwithTwoPort.
+INFO: 12/03/2020 12:52:04 AM MESSAGE:    Setting member interface 4 to default.
+INFO: 12/03/2020 12:52:05 AM MESSAGE:    No Change for Interface 4.
+INFO: 12/03/2020 12:52:05 AM MESSAGE:    Setting member interface 5 to default.
+INFO: 12/03/2020 12:52:05 AM MESSAGE:    No Change for Interface 5.
+INFO: 12/03/2020 12:52:05 AM MESSAGE:    Created interface VIwithTwoPort001.
+INFO: 12/03/2020 12:52:06 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 12/03/2020 12:52:06 AM MESSAGE:    Updated Interface 6 (Etag 4 -> 5).
+INFO: 12/03/2020 12:52:06 AM MESSAGE:    No Change for Interface 9.
+INFO: 12/03/2020 12:52:06 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 12/03/2020 12:52:07 AM MESSAGE:    Updated BGP Global Config 16069093672550202 (Etag 2 -> 3).
+INFO: 12/03/2020 12:52:08 AM MESSAGE:    No Change for NTP 16069092550730146.
+INFO: 12/03/2020 12:52:08 AM MESSAGE:    No Change for Toolkit 16069092799150218.
+INFO: 12/03/2020 12:52:08 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
+INFO: 12/03/2020 12:52:08 AM MESSAGE: DONE
