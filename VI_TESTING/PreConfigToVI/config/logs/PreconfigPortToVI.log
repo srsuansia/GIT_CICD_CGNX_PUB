@@ -3396,3 +3396,21 @@ INFO: 12/03/2020 05:36:47 AM MESSAGE:   No Change for Element PreconfigToVI.
 INFO: 12/03/2020 05:36:48 AM MESSAGE:    No Change for Interface 23.
 INFO: 12/03/2020 05:36:48 AM MESSAGE:    No Change for Interface loopback-16069725244460216.
 ERROR: 12/03/2020 05:36:48 AM ERROR: Member port 1 configuration present in yaml file. Cannot create/modify VI VIwithOnePort. Exiting
+INFO: 12/03/2020 05:46:41 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 05:46:41 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 05:46:41 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 05:46:42 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 05:46:42 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 12/03/2020 05:46:43 AM MESSAGE:    Deleting Unconfigured Interface 23.
+INFO: 12/03/2020 05:46:44 AM MESSAGE:    No Change for Interface loopback-16069725244460216.
+INFO: 12/03/2020 05:46:44 AM MESSAGE:    Setting member interface 1 to default.
+INFO: 12/03/2020 05:46:44 AM MESSAGE:    Updated Interface 1 (Etag 9 -> 10).
+INFO: 12/03/2020 05:46:45 AM MESSAGE:    Created interface VIwithOnePort.
+INFO: 12/03/2020 05:46:45 AM MESSAGE:    Updated Interface 2 (Etag 11 -> 12).
+INFO: 12/03/2020 05:46:46 AM MESSAGE:    No Change for Interface controller 1.
+INFO: 12/03/2020 05:46:46 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 12/03/2020 05:46:47 AM MESSAGE:    No Change for BGP Global Config 16069725084990044.
+INFO: 12/03/2020 05:46:48 AM MESSAGE:    No Change for NTP 16069692966510007.
+INFO: 12/03/2020 05:46:48 AM MESSAGE:    No Change for Toolkit 16069714281140031.
+INFO: 12/03/2020 05:46:49 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
+INFO: 12/03/2020 05:46:49 AM MESSAGE: DONE
