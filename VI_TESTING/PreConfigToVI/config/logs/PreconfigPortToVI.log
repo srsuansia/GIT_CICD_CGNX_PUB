@@ -3227,3 +3227,11 @@ INFO: 12/03/2020 04:00:52 AM MESSAGE:   No Change for Element PreconfigToVI.
 INFO: 12/03/2020 04:00:53 AM MESSAGE:    No Change for Interface 23.
 INFO: 12/03/2020 04:00:53 AM MESSAGE:    No Change for Interface loopback-16069680315450153.
 ERROR: 12/03/2020 04:00:53 AM ERROR: Member port 1 configuration present in yaml file. Cannot create/modify VI VIwithOnePort. Exiting
+INFO: 12/03/2020 04:01:13 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 04:01:15 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 04:01:15 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 04:01:17 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 04:01:17 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 12/03/2020 04:01:18 AM MESSAGE:    No Change for Interface 23.
+INFO: 12/03/2020 04:01:18 AM MESSAGE:    No Change for Interface loopback-16069680315450153.
+ERROR: 12/03/2020 04:01:18 AM ERROR: Member port 1 configuration present in yaml file. Cannot create/modify VI VIwithOnePort. Exiting
