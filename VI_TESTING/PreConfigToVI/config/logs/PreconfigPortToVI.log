@@ -3341,3 +3341,8 @@ INFO: 12/03/2020 05:15:22 AM MESSAGE:  No Change for Waninterface Circuit to Jio
 INFO: 12/03/2020 05:15:23 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
 INFO: 12/03/2020 05:15:23 AM MESSAGE:   No Change for Element PreconfigToVI.
 INFO: 12/03/2020 05:15:24 AM MESSAGE:    Created interface loopback-16069680315450153(loopback-16069725244460216).
+INFO: 12/03/2020 05:15:39 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 05:15:40 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 05:15:40 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 05:15:42 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 05:15:42 AM MESSAGE:   No Change for Element PreconfigToVI.
