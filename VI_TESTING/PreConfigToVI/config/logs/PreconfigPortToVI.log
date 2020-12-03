@@ -3149,3 +3149,10 @@ INFO: 12/03/2020 01:00:18 AM MESSAGE:  Element: Code is at correct version 5.4.1
 INFO: 12/03/2020 01:00:18 AM MESSAGE:   No Change for Element PreconfigToVI.
 INFO: 12/03/2020 01:00:20 AM MESSAGE:    No Change for Interface loopback-16069094021410138.
 ERROR: 12/03/2020 01:00:20 AM ERROR: Member port 7 configuration present in yaml file. Cannot create/modify VI VItoIPSEC001. Exiting
+INFO: 12/03/2020 01:00:36 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 01:00:36 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 01:00:37 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 01:00:38 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 01:00:38 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 12/03/2020 01:00:40 AM MESSAGE:    No Change for Interface loopback-16069094021410138.
+ERROR: 12/03/2020 01:00:40 AM ERROR: Member port 7 configuration present in yaml file. Cannot create/modify VI VItoIPSEC001. Exiting
