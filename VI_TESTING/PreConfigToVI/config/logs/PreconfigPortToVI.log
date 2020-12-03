@@ -3335,3 +3335,9 @@ INFO: 12/03/2020 05:14:57 AM MESSAGE:  No Change for Waninterface Circuit to Air
 INFO: 12/03/2020 05:14:57 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
 INFO: 12/03/2020 05:14:58 AM MESSAGE:   Element PreconfigToVI not yet in requested state(s): ready, bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 12/03/2020 05:15:04 AM ERROR: Element PreconfigToVI state transition took longer than 5 seconds. Exiting.
+INFO: 12/03/2020 05:15:21 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 05:15:22 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 05:15:22 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 05:15:23 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 05:15:23 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 12/03/2020 05:15:24 AM MESSAGE:    Created interface loopback-16069680315450153(loopback-16069725244460216).
