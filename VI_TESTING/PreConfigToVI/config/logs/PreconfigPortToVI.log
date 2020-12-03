@@ -3133,3 +3133,12 @@ INFO: 12/03/2020 12:52:08 AM MESSAGE:    No Change for NTP 16069092550730146.
 INFO: 12/03/2020 12:52:08 AM MESSAGE:    No Change for Toolkit 16069092799150218.
 INFO: 12/03/2020 12:52:08 AM MESSAGE: No Change for Site PreconfigPortToVI state (active).
 INFO: 12/03/2020 12:52:08 AM MESSAGE: DONE
+INFO: 12/03/2020 12:59:48 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 12:59:49 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 12:59:49 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 12:59:51 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 12:59:51 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 12/03/2020 12:59:53 AM MESSAGE:    Deleting Unconfigured Interface VIwithTwoPort.
+INFO: 12/03/2020 12:59:54 AM MESSAGE:    Deleting Unconfigured Interface VIwithTwoPort001.
+INFO: 12/03/2020 12:59:55 AM MESSAGE:    No Change for Interface loopback-16069094021410138.
+ERROR: 12/03/2020 12:59:55 AM ERROR: Member port 7 configuration present in yaml file. Cannot create/modify VI VItoIPSEC001. Exiting
