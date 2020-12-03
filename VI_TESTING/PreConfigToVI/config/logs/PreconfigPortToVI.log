@@ -3282,3 +3282,8 @@ INFO: 12/03/2020 05:01:58 AM MESSAGE:  Element: Code is at correct version 5.4.1
 INFO: 12/03/2020 05:01:58 AM MESSAGE:   Assigning Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291.
 INFO: 12/03/2020 05:02:00 AM MESSAGE:   Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 12/03/2020 05:02:06 AM ERROR: Element Serial: 42108316-62af-0a63-0ed5-9ef9888ec291 state transition took longer than 5 seconds. Exiting.
+INFO: 12/03/2020 05:02:31 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 05:02:32 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 05:02:32 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 05:02:33 AM MESSAGE:   Element PreconfigToVI not yet in requested state(s): ready, bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 12/03/2020 05:02:39 AM ERROR: Element PreconfigToVI state transition took longer than 5 seconds. Exiting.
