@@ -22,50 +22,11 @@ sites v4.5:
         description:
         element_security_zones v2.0: []
         interfaces v4.9:
-          '1':
+          '1.1111':
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
-            devicemgmt_policysetstack_id:
-            dhcp_relay:
-            directed_broadcast: false
-            ethernet_port:
-              full_duplex: false
-              speed: 0
-            ipv4_config:
-              dhcp_config:
-              dns_v4_config:
-              routes:
-              static_config:
-              type: dhcp
-            mac_address:
-            mtu: 1500
-            nat_address:
-            nat_pools:
-            nat_port: 0
-            nat_zone_id: internet
-            network_context_id:
-            parent:
-            pppoe_config:
-            scope: global
-            service_link_config:
-            site_wan_interface_ids:
-            - Circuit to Airtel
-            sub_interface:
-            tags:
-            type: port
-            used_for: public
-          '23':
-            admin_up: true
-            attached_lan_networks:
-            bound_interfaces:
-            bypass_pair:
-              lan: '3'
-              lan_state_propagation: true
-              use_relay: false
-              wan: '2'
             description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
@@ -80,10 +41,41 @@ sites v4.5:
               static_config:
               type: dhcp
             mac_address:
-            mtu: 1500
-            nat_address: 10.10.10.10
+            mtu: 0
+            nat_address: 55.55.55.55
             nat_pools:
-            nat_port: 6666
+            nat_port: 6565
+            nat_zone_id: internet
+            network_context_id:
+            parent: '4'
+            pppoe_config:
+            scope: global
+            service_link_config:
+            site_wan_interface_ids:
+            sub_interface:
+              native_vlan: true
+              vlan_id: 1111
+            tags:
+            type: subinterface
+            used_for: public
+          '2':
+            admin_up: true
+            attached_lan_networks:
+            bound_interfaces:
+            bypass_pair:
+            description:
+            devicemgmt_policysetstack_id:
+            dhcp_relay:
+            directed_broadcast: false
+            ethernet_port:
+              full_duplex: false
+              speed: 0
+            ipv4_config:
+            mac_address:
+            mtu: 1500
+            nat_address:
+            nat_pools:
+            nat_port: 0
             nat_zone_id: internet
             network_context_id:
             parent:
@@ -93,8 +85,37 @@ sites v4.5:
             site_wan_interface_ids:
             sub_interface:
             tags:
-            type: bypasspair
-            used_for: public
+            type: port
+            used_for: none
+          '3':
+            admin_up: true
+            attached_lan_networks:
+            bound_interfaces:
+            bypass_pair:
+            description:
+            devicemgmt_policysetstack_id:
+            dhcp_relay:
+            directed_broadcast: false
+            ethernet_port:
+              full_duplex: false
+              speed: 0
+            ipv4_config:
+            mac_address:
+            mtu: 1500
+            nat_address:
+            nat_pools:
+            nat_port: 0
+            nat_zone_id:
+            network_context_id:
+            parent:
+            pppoe_config:
+            scope: global
+            service_link_config:
+            site_wan_interface_ids:
+            sub_interface:
+            tags:
+            type: port
+            used_for: none
           '4':
             admin_up: true
             attached_lan_networks:
