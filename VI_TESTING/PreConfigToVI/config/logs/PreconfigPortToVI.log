@@ -3361,3 +3361,14 @@ INFO: 12/03/2020 05:16:48 AM MESSAGE:  No Change for Waninterface Circuit to Air
 INFO: 12/03/2020 05:16:49 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
 INFO: 12/03/2020 05:16:51 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
 INFO: 12/03/2020 05:16:51 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 12/03/2020 05:35:45 AM MESSAGE: No Change for Site PreconfigPortToVI.
+INFO: 12/03/2020 05:35:45 AM MESSAGE:  No Change for Waninterface Circuit to Airtel.
+INFO: 12/03/2020 05:35:45 AM MESSAGE:  No Change for Waninterface Circuit to Jio.
+INFO: 12/03/2020 05:35:46 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/03/2020 05:35:46 AM MESSAGE:   No Change for Element PreconfigToVI.
+INFO: 12/03/2020 05:35:47 AM MESSAGE:    Setting Bypasspair parents for 23 to default.
+INFO: 12/03/2020 05:35:48 AM MESSAGE:    Updated Interface 3 (Etag 9 -> 10).
+INFO: 12/03/2020 05:35:48 AM MESSAGE:    Updated Interface 2 (Etag 9 -> 10).
+INFO: 12/03/2020 05:35:48 AM MESSAGE:    Created interface 23.
+INFO: 12/03/2020 05:35:48 AM MESSAGE:    No Change for Interface loopback-16069725244460216.
+ERROR: 12/03/2020 05:35:48 AM ERROR: Member port 1 configuration present in yaml file. Cannot create/modify VI VIwithOnePort. Exiting
