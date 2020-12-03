@@ -154,3 +154,29 @@ INFO: 12/03/2020 04:18:45 AM MESSAGE: Disabling site..
 INFO: 12/03/2020 04:18:46 AM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
 INFO: 12/03/2020 04:18:46 AM MESSAGE: Deleting Site PreconfigPortToVI..
 INFO: 12/03/2020 04:18:47 AM MESSAGE: DONE
+INFO: 12/03/2020 05:08:05 AM MESSAGE: Beginning to DESTROY site PreconfigPortToVI(16069717150850148)..
+INFO: 12/03/2020 05:08:06 AM MESSAGE: Un-assigning Element PreconfigToVI(42108316-62af-0a63-0ed5-9ef9888ec291) bound to 16069717150850148.
+INFO: 12/03/2020 05:08:06 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 12/03/2020 05:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 12/03/2020 05:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 12/03/2020 05:08:07 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 12/03/2020 05:08:08 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 12/03/2020 05:08:08 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 12/03/2020 05:08:09 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 12/03/2020 05:08:10 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 12/03/2020 05:08:10 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 12/03/2020 05:08:11 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 12/03/2020 05:08:11 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from loopback-16069718138940223.
+INFO: 12/03/2020 05:08:12 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from PreconfigToVI:
+INFO: 12/03/2020 05:08:12 AM MESSAGE:    No Change for Spoke HA in Element PreconfigToVI.
+INFO: 12/03/2020 05:08:14 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Airtel.
+INFO: 12/03/2020 05:08:14 AM MESSAGE:  Deleting Unconfigured Waninterface Circuit to Jio.
+INFO: 12/03/2020 05:08:15 AM MESSAGE: Disabling site..
+INFO: 12/03/2020 05:08:15 AM MESSAGE: Updated Site PreconfigPortToVI to state disabled.
+INFO: 12/03/2020 05:08:15 AM MESSAGE:   Element PreconfigToVI not yet in requested state(s): ready, declaim_in_progress (is unbound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 12/03/2020 05:08:22 AM ERROR: Element PreconfigToVI state transition took longer than 5 seconds. Exiting.
+INFO: 12/03/2020 05:09:10 AM MESSAGE: Beginning to DESTROY site PreconfigPortToVI(16069717150850148)..
+INFO: 12/03/2020 05:09:10 AM MESSAGE: Disabling site..
+INFO: 12/03/2020 05:09:11 AM MESSAGE: No Change for Site PreconfigPortToVI state (disabled).
+INFO: 12/03/2020 05:09:11 AM MESSAGE: Deleting Site PreconfigPortToVI..
+INFO: 12/03/2020 05:09:11 AM MESSAGE: DONE
