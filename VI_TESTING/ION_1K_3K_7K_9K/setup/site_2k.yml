@@ -1,19 +1,20 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-12-10T10:17:55.198001Z
+# Created at 2020-12-17T05:21:50.996697Z
 # by netadmin@cyberdyne.com
 sites v4.5:
-  SITE_1K:
+  SITE_2K:
     address:
-    admin_state: active
+    admin_state: disabled
     description:
     element_cluster_role: SPOKE
     elements v2.3:
-      1K_ION:
+      ION_2K:
         admin_action:
         allowed_roles:
         - SPOKE
+        - HUB
         cluster_insertion_mode:
         cluster_member_id:
         connected: true
@@ -26,7 +27,7 @@ sites v4.5:
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: This the controller port, should not be disturbed
+            description: ''
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -34,17 +35,12 @@ sites v4.5:
               full_duplex: false
               speed: 0
             ipv4_config:
-              dhcp_config:
-              dns_v4_config:
-              routes:
-              static_config:
-              type: dhcp
             mac_address:
             mtu: 1500
             nat_address:
             nat_pools:
             nat_port: 0
-            nat_zone_id: internet
+            nat_zone_id:
             network_context_id:
             parent:
             pppoe_config:
@@ -54,7 +50,7 @@ sites v4.5:
             sub_interface:
             tags:
             type: port
-            used_for: public
+            used_for: none
           '2':
             admin_up: true
             attached_lan_networks:
@@ -122,8 +118,41 @@ sites v4.5:
             sub_interface:
             tags:
             type: port
-            used_for: none
-          '4':
+            used_for: public
+          '45':
+            admin_up: true
+            attached_lan_networks:
+            bound_interfaces:
+            bypass_pair:
+              lan: '5'
+              lan_state_propagation: false
+              use_relay: true
+              wan: '4'
+            description:
+            devicemgmt_policysetstack_id:
+            dhcp_relay:
+            directed_broadcast: false
+            ethernet_port:
+              full_duplex: false
+              speed: 0
+            ipv4_config:
+            mac_address:
+            mtu: 1500
+            nat_address:
+            nat_pools:
+            nat_port: 0
+            nat_zone_id:
+            network_context_id:
+            parent:
+            pppoe_config:
+            scope: local
+            service_link_config:
+            site_wan_interface_ids:
+            sub_interface:
+            tags:
+            type: bypasspair
+            used_for: private-l2
+          controller:
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
@@ -157,45 +186,9 @@ sites v4.5:
             tags:
             type: port
             used_for: none
-          VItoIPSEC001:
-            admin_up: true
-            attached_lan_networks:
-            bound_interfaces:
-            - '3'
-            - '4'
-            bypass_pair:
-            description:
-            devicemgmt_policysetstack_id:
-            dhcp_relay:
-            directed_broadcast: false
-            ethernet_port:
-              full_duplex: false
-              speed: 0
-            ipv4_config:
-              dhcp_config:
-              dns_v4_config:
-              routes:
-              static_config:
-              type: dhcp
-            mac_address:
-            mtu: 1500
-            nat_address:
-            nat_pools:
-            nat_port: 0
-            nat_zone_id: internet
-            network_context_id:
-            parent:
-            pppoe_config:
-            scope: local
-            service_link_config:
-            site_wan_interface_ids:
-            sub_interface:
-            tags:
-            type: virtual_interface
-            used_for: public
-        l3_direct_private_wan_forwarding: true
-        l3_lan_forwarding: true
-        model_name: ion 1000
+        l3_direct_private_wan_forwarding: false
+        l3_lan_forwarding: false
+        model_name: ion 2000
         nat_policysetstack_id:
         network_policysetstack_id:
         ntp v2.0:
@@ -246,8 +239,8 @@ sites v4.5:
               router_id:
               stalepath_time: 120
           static v2.0: []
-        serial_number: 10-001437-3940
-        software_version: 5.4.1-b13
+        serial_number: 20-006829-1221
+        software_version: 5.4.3-b9
         spoke_ha_config:
         state: bound
         tags:
