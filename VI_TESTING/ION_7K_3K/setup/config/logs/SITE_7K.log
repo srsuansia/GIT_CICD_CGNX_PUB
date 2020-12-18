@@ -24,3 +24,6 @@ INFO: 12/18/2020 08:20:33 AM MESSAGE:  Element: Code is at correct version 5.4.1
 INFO: 12/18/2020 08:20:34 AM MESSAGE:   Assigning Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b.
 INFO: 12/18/2020 08:20:34 AM MESSAGE:   Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
 ERROR: 12/18/2020 08:20:40 AM ERROR: Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b state transition took longer than 5 seconds. Exiting.
+INFO: 12/18/2020 08:21:45 AM MESSAGE: No Change for Site SITE_7K.
+INFO: 12/18/2020 08:21:46 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/18/2020 08:21:46 AM MESSAGE:   No Change for Element ION_7K.
