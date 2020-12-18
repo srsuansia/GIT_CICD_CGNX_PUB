@@ -13,3 +13,9 @@ INFO: 12/18/2020 08:00:23 AM MESSAGE:  Checking Machine 42109602-faf3-0d3f-7a7d-
 INFO: 12/18/2020 08:00:23 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 12/18/2020 08:00:23 AM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Offline, waited so far 0 seconds out of 5.
 ERROR: 12/18/2020 08:00:30 AM ERROR: Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Offline for longer than 5 seconds. Exiting.
+INFO: 12/18/2020 08:00:38 AM MESSAGE: No Change for Site SITE_7K.
+INFO: 12/18/2020 08:00:38 AM MESSAGE:  Machine 42109602-faf3-0d3f-7a7d-339705c38c6b is not CLAIMED, attempting to claim..
+INFO: 12/18/2020 08:00:38 AM MESSAGE:  Checking Machine 42109602-faf3-0d3f-7a7d-339705c38c6b..
+INFO: 12/18/2020 08:00:38 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
+INFO: 12/18/2020 08:00:38 AM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Offline, waited so far 0 seconds out of 5.
+ERROR: 12/18/2020 08:00:44 AM ERROR: Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Offline for longer than 5 seconds. Exiting.
