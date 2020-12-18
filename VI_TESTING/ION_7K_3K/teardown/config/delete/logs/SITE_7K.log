@@ -1,0 +1,18 @@
+INFO: 12/18/2020 07:53:54 AM MESSAGE: Beginning to DESTROY site SITE_7K(16079431853890091)..
+INFO: 12/18/2020 07:53:54 AM MESSAGE: Un-assigning and de-claiming Element ION_7K(42109602-faf3-0d3f-7a7d-339705c38c6b) bound to 16079431853890091.
+INFO: 12/18/2020 07:53:54 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 5.
+INFO: 12/18/2020 07:53:54 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from controller 1.
+INFO: 12/18/2020 07:53:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 2.
+INFO: 12/18/2020 07:53:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 6.
+INFO: 12/18/2020 07:53:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 9.
+INFO: 12/18/2020 07:53:55 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 7.
+INFO: 12/18/2020 07:53:56 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 4.
+INFO: 12/18/2020 07:53:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 8.
+INFO: 12/18/2020 07:53:57 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 1.
+INFO: 12/18/2020 07:53:58 AM MESSAGE:  Removing LAN Networks/WAN Interfaces from 3.
+INFO: 12/18/2020 07:53:58 AM MESSAGE:  Removing any leftover Element Security Zones and Spoke HA from ION_7K:
+INFO: 12/18/2020 07:53:58 AM MESSAGE:    No Change for Spoke HA in Element ION_7K.
+INFO: 12/18/2020 07:53:59 AM MESSAGE: Disabling site..
+INFO: 12/18/2020 07:53:59 AM MESSAGE: No Change for Site SITE_7K state (disabled).
+INFO: 12/18/2020 07:54:00 AM MESSAGE: Deleting Site SITE_7K..
+INFO: 12/18/2020 07:54:00 AM MESSAGE: DONE
