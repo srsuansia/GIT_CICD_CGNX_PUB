@@ -1,0 +1,62 @@
+---
+type: cloudgenix template
+version: 1.0
+# Created at 2020-12-18T07:13:06.034723Z
+# by system_2750@soumyars.com
+sites v4.5:
+  Rejeesh_site:
+    address:
+    admin_state: active
+    description:
+    element_cluster_role: SPOKE
+    elements v2.3: {}
+    extended_tags:
+    location:
+      description:
+      latitude: 0.0
+      longitude: 0.0
+    nat_policysetstack_id: Default-NATPolicySetStack
+    network_policysetstack_id: NetworkPolicySetStack
+    policy_set_id:
+    priority_policysetstack_id: PriorityPolicySetStack
+    security_policyset_id:
+    service_binding: Preset Domain
+    tags:
+    - CI_IGNORE
+    waninterfaces v2.6:
+      Circuit to Airtel:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: Internet Cable
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: Airtel
+        network_type: publicwan
+        tags:
+        type: publicwan
+        use_for_application_reachability_probes:
+        use_for_controller_connections:
+        vpnlink_configuration:
+      Circuit to At&T:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: Leased-Line
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: At&T
+        network_type: privatewan
+        tags:
+        type: privatewan
+        use_for_application_reachability_probes:
+        use_for_controller_connections:
+        vpnlink_configuration:
