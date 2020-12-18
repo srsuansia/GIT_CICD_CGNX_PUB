@@ -19,3 +19,8 @@ INFO: 12/18/2020 08:00:38 AM MESSAGE:  Checking Machine 42109602-faf3-0d3f-7a7d-
 INFO: 12/18/2020 08:00:38 AM MESSAGE:   Unclaimed(allocated). Beginning Claim process..
 INFO: 12/18/2020 08:00:38 AM MESSAGE:   Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Offline, waited so far 0 seconds out of 5.
 ERROR: 12/18/2020 08:00:44 AM ERROR: Machine 42109602-faf3-0d3f-7a7d-339705c38c6b Offline for longer than 5 seconds. Exiting.
+INFO: 12/18/2020 08:20:33 AM MESSAGE: Created Site SITE_7K.
+INFO: 12/18/2020 08:20:33 AM MESSAGE:  Element: Code is at correct version 5.4.1-b15.
+INFO: 12/18/2020 08:20:34 AM MESSAGE:   Assigning Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b.
+INFO: 12/18/2020 08:20:34 AM MESSAGE:   Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b not yet in requested state(s): bound (is bound_in_progress). Waited so far 0 seconds out of 5.
+ERROR: 12/18/2020 08:20:40 AM ERROR: Element Serial: 42109602-faf3-0d3f-7a7d-339705c38c6b state transition took longer than 5 seconds. Exiting.
