@@ -113,7 +113,7 @@ sites v4.5:
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
-            - '4'
+            - '3'
             bypass_pair:
             description:
             devicemgmt_policysetstack_id:
