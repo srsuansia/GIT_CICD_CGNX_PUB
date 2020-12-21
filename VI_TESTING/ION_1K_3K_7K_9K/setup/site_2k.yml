@@ -1,7 +1,7 @@
 ---
 type: cloudgenix template
 version: 1.0
-# Created at 2020-12-17T05:21:50.996697Z
+# Created at 2020-12-17T08:25:18.400162Z
 # by netadmin@cyberdyne.com
 sites v4.5:
   SITE_2K:
@@ -56,7 +56,7 @@ sites v4.5:
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -64,11 +64,6 @@ sites v4.5:
               full_duplex: false
               speed: 0
             ipv4_config:
-              dhcp_config:
-              dns_v4_config:
-              routes:
-              static_config:
-              type: dhcp
             mac_address:
             mtu: 1500
             nat_address:
@@ -84,13 +79,13 @@ sites v4.5:
             sub_interface:
             tags:
             type: port
-            used_for: public
+            used_for: none
           '3':
             admin_up: true
             attached_lan_networks:
             bound_interfaces:
             bypass_pair:
-            description: ''
+            description:
             devicemgmt_policysetstack_id:
             dhcp_relay:
             directed_broadcast: false
@@ -108,7 +103,43 @@ sites v4.5:
             nat_address:
             nat_pools:
             nat_port: 0
-            nat_zone_id:
+            nat_zone_id: internet
+            network_context_id:
+            parent:
+            pppoe_config:
+            scope: local
+            service_link_config:
+            site_wan_interface_ids:
+            - Airtel_internet
+            sub_interface:
+            tags:
+            type: port
+            used_for: public
+          VIwithOnePort:
+            admin_up: true
+            attached_lan_networks:
+            bound_interfaces:
+            - '3'
+            bypass_pair:
+            description:
+            devicemgmt_policysetstack_id:
+            dhcp_relay:
+            directed_broadcast: false
+            ethernet_port:
+              full_duplex: false
+              speed: 0
+            ipv4_config:
+              dhcp_config:
+              dns_v4_config:
+              routes:
+              static_config:
+              type: dhcp
+            mac_address:
+            mtu: 1500
+            nat_address:
+            nat_pools:
+            nat_port: 0
+            nat_zone_id: internet
             network_context_id:
             parent:
             pppoe_config:
@@ -117,7 +148,7 @@ sites v4.5:
             site_wan_interface_ids:
             sub_interface:
             tags:
-            type: port
+            type: virtual_interface
             used_for: public
           '45':
             admin_up: true
@@ -265,3 +296,43 @@ sites v4.5:
     security_policyset_id:
     service_binding: Preset Domain
     tags:
+    waninterfaces v2.6:
+      Airtel_internet:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: public-1
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+        lqm_enabled: true
+        network_id: Airtel
+        network_type: publicwan
+        tags:
+        type: publicwan
+        use_for_application_reachability_probes:
+        use_for_controller_connections:
+        vpnlink_configuration:
+      Tata_Private:
+        bfd_mode: aggressive
+        bw_config_mode: manual
+        bwc_enabled: true
+        cost: 128
+        description:
+        label_id: private-1
+        link_bw_down: 30.0
+        link_bw_up: 10.0
+        lqm_config:
+          hub_site_ids:
+          inter_packet_gap: 100
+          statistic: min
+        lqm_enabled: true
+        network_id: Tata
+        network_type: privatewan
+        tags:
+        type: privatewan
+        use_for_application_reachability_probes:
+        use_for_controller_connections:
+        vpnlink_configuration:
