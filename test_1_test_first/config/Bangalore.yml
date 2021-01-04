@@ -8,12 +8,12 @@ sites v4.5:
     address:
       city: Bengaluru
       country: India
-      post_code: '560103'
+      post_code: '56010367'
       state: Karnataka
       street: test12345
-      street2: thisistry123
+      street2: thisistryupdatedbyCLoudblad
     admin_state: active
-    description: Bangalorelocation
+    description: BangalorelocationupdatedbyCloudBlade
     dhcpservers v2.1:
     - broadcast_address: 192.168.150.255
       custom_options:
