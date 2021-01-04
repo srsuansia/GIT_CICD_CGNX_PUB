@@ -10,8 +10,8 @@ sites v4.5:
       country: India
       post_code: '560103'
       state: Karnataka
-      street: test12
-      street2:
+      street: test12345
+      street2: thisistry123
     admin_state: active
     description: Bangalorelocation
     dhcpservers v2.1:
