@@ -1,24 +1,27 @@
 --- /tmp/ci/100/GIT_CICD_CGNX_PUB/test_1_test_first/config/Bangalore.yml
 +++ /tmp/ci/100/Bangalore_controller.yml
-@@ -1,8 +1,9 @@
+@@ -1,19 +1,20 @@
  ---
  type: cloudgenix template
  version: 1.0
 -# Created at 2021-01-04T11:45:16.819012Z
-+# Created at 2021-01-04T13:03:04.349250Z
++# Created at 2021-01-04T13:05:46.858161Z
  # by system_100@cyberdyne.com
 +# FROM_CLOUDBLADE
  sites v4.5:
    Bangalore:
      address:
-@@ -10,8 +11,8 @@
+       city: Bengaluru
        country: India
-       post_code: '560103'
+-      post_code: '56010367'
++      post_code: '560103'
        state: Karnataka
--      street: test12345
--      street2: thisistry123
-+      street: test12
-+      street2:
+       street: test12345
+-      street2: thisistryupdatedbyCLoudblad
++      street2: thisistry123
      admin_state: active
-     description: Bangalorelocation
+-    description: BangalorelocationupdatedbyCloudBlade
++    description: Bangalorelocation
      dhcpservers v2.1:
+     - broadcast_address: 192.168.150.255
+       custom_options:
