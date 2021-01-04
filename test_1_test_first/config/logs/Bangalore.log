@@ -1,0 +1,20 @@
+WARNING: 01/04/2021 11:45:38 AM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to AIRTEL-boradband-network1" in YAML file, but this may cause issues if configuration is re-applied to site.
+WARNING: 01/04/2021 01:03:01 PM WARNING: Site WAN Interface is missing a name. Please correct this in UI. Setting to "Circuit to AIRTEL-boradband-network1" in YAML file, but this may cause issues if configuration is re-applied to site.
+INFO: 01/04/2021 01:03:08 PM MESSAGE: Updated Site Bangalore (Etag 3 -> 4).
+INFO: 01/04/2021 01:03:09 PM MESSAGE:  Updated Waninterface Circuit to AIRTEL-boradband-network1 (Etag 1 -> 2).
+INFO: 01/04/2021 01:03:11 PM MESSAGE:  No Change for Dhcpserver for 192.168.150.0/24.
+INFO: 01/04/2021 01:03:12 PM MESSAGE:  Element: Code is at correct version 5.4.3-b9.
+INFO: 01/04/2021 01:03:13 PM MESSAGE:   No Change for Element ION-SPOKE-3k.
+INFO: 01/04/2021 01:03:13 PM MESSAGE:    No Change for Interface 5.1001.
+INFO: 01/04/2021 01:03:14 PM MESSAGE:    No Change for Interface 1.
+INFO: 01/04/2021 01:03:14 PM MESSAGE:    No Change for Interface 2.
+INFO: 01/04/2021 01:03:14 PM MESSAGE:    No Change for Interface 3.
+INFO: 01/04/2021 01:03:14 PM MESSAGE:    No Change for Interface 4.
+INFO: 01/04/2021 01:03:14 PM MESSAGE:    No Change for Interface 6.
+INFO: 01/04/2021 01:03:15 PM MESSAGE:    No Change for Interface controller 1.
+INFO: 01/04/2021 01:03:15 PM MESSAGE:    No Change for Spoke HA in Element ION-SPOKE-3k.
+INFO: 01/04/2021 01:03:17 PM MESSAGE:    No Change for BGP Global Config 16091375950070165.
+INFO: 01/04/2021 01:03:17 PM MESSAGE:    No Change for NTP 16091366550820006.
+INFO: 01/04/2021 01:03:19 PM MESSAGE:    No Change for Toolkit 16091366715210050.
+INFO: 01/04/2021 01:03:19 PM MESSAGE: No Change for Site Bangalore state (active).
+INFO: 01/04/2021 01:03:19 PM MESSAGE: DONE
